@@ -1,0 +1,287 @@
+"Video";"Video"
+"Videos";"Videos"
+"video";"video";"videos"
+"Post New Video";"Post New Video"
+"Videos using the tag";"Videos using the tag"
+"By";"By"
+"View All Videos";"View All Videos"
+"Browse Videos";"Browse Videos"
+"My Videos";"My Videos"
+
+"%s view";"%s view";"%s views"
+"%s comment";"%s comment";"%s comments"
+"%s like";"%s like";"%s likes"
+"%s rating";"%s rating";"%s ratings"
+
+"ADMIN_ACTIVITY_TYPE_VIDEO_NEW";"When a new video is posted."
+"ADMIN_ACTIVITY_TYPE_LIKE_VIDEO";"When someone likes one of my videos."
+"ADMIN_ACTIVITY_TYPE_LIKED_VIDEO";"When someone comments on a video I liked."
+"ADMIN_ACTIVITY_TYPE_COMMENT_VIDEO";"When someone comments on one of my videos."
+"ADMIN_ACTIVITY_TYPE_COMMENTED_VIDEO";"When someone comments on a video I commented on."
+"ADMIN_ACTIVITY_TYPE_VIDEO_PROCESSED";"When a video has been processed."
+"ADMIN_ACTIVITY_TYPE_VIDEO_PROCESSED_FAILED";"When a video has failed to be processed."
+
+"_ACTIVITY_ACTIONTYPE_VIDEO_NEW";"New videos"
+"_ACTIVITY_ACTIONTYPE_COMMENT_VIDEO";"Comments on your videos"
+
+"ACTIVITY_TYPE_LIKE_VIDEO";"When someone likes one of my videos."
+"ACTIVITY_TYPE_LIKED_VIDEO";"When someone comments on a video I liked."
+"ACTIVITY_TYPE_COMMENT_VIDEO";"When someone comments on one of my videos."
+"ACTIVITY_TYPE_COMMENTED_VIDEO";"When someone comments on a video I commented on."
+"ACTIVITY_TYPE_VIDEO_PROCESSED";"When a video has been processed."
+"ACTIVITY_TYPE_VIDEO_PROCESSED_FAILED";"When a video has failed to be processed."
+"ACTIVITY_TYPE_VIDEO_NEW";"When a new video is posted."
+
+"Nobody has posted a video with that criteria.";"Nobody has posted a video with that criteria."
+"Nobody has created a video yet.";"Nobody has created a video yet."
+"You have already uploaded the maximum number of videos allowed. If you would like to upload a new video, please delete an old one first.";"You have already uploaded the maximum number of videos allowed. If you would like to upload a new video, please delete an old one first."
+
+"Your video is in queue to be processed - you will be notified when it is ready to be viewed.";"Your video is in queue to be processed - you will be notified when it is ready to be viewed."
+"Your video is currently being processed - you will be notified when it is ready to be viewed.";"Your video is currently being processed - you will be notified when it is ready to be viewed."
+"Video conversion failed. Please try uploading %1$sagain%2$s.";"Video conversion failed. Please try uploading %1$sagain%2$s."
+"Video conversion failed. Video format is not supported by FFMPEG. Please try %1$sagain%2$s.";"Video conversion failed. Video format is not supported by FFMPEG. Please try %1$sagain%2$s."
+"Video conversion failed. Audio files are not supported. Please try %1$sagain%2$s.";"Video conversion failed. Audio files are not supported. Please try %1$sagain%2$s."
+"Video conversion failed. You may be over the site upload limit.  Try %1$suploading%2$s a smaller file, or delete some files to free up space.";"Video conversion failed. You may be over the site upload limit.  Try %1$suploading%2$s a smaller file, or delete some files to free up space."
+
+"You do not have any videos.";"You do not have any videos."
+
+"The video you are looking for does not exist or has not been processed yet.";"The video you are looking for does not exist or has not been processed yet."
+"you already rated";"you already rated"
+"please login to rate";"please login to rate"
+"click to rate";"click to rate"
+"Thanks for rating!";"Thanks for rating!"
+
+"Posted";"Posted"
+"Filed in";"Filed in"
+"click to rate";"click to rate"
+"Edit Video";"Edit Video"
+"Delete Video";"Delete Video"
+
+"File Upload";"File Upload"
+"This form is just an example fallback for the unobtrusive behaviour of FancyUpload. If this part is not changed, something must be wrong with your code.";"This form is just an example fallback for the unobtrusive behaviour of FancyUpload. If this part is not changed, something must be wrong with your code."
+"Upload a Video:";"Upload a Video:"
+"Click ""Add Video"" to select a video from your computer. After you have selected video, click on Post Video at the bottom to begin uploading the file. Please wait while your video is being uploaded. When your upload is finished, your video will be processed - you will be notified when it is ready to be viewed.";"Click ""Add Video"" to select a video from your computer. After you have selected video, click on Post Video at the bottom to begin uploading the file. Please wait while your video is being uploaded. When your upload is finished, your video will be processed - you will be notified when it is ready to be viewed."
+"Add Video";"Add Video"
+"Post Video";"Post Video"
+
+"Be the first to %1$spost%2$s one!";"Be the first to %1$spost%2$s one!"
+"Get started by %1$sposting%2$s a new video.";"Get started by %1$sposting%2$s a new video."
+
+
+"Choose Source";"Choose Source"
+"My Computer";"My Computer"
+
+"Added";"Added"
+
+"Are you sure you want to delete this video?";"Are you sure you want to delete this video?"
+"Video Title";"Video Title"
+"Video Description";"Video Description"
+"Please specify an video title";"Please specify an video title"
+"Tags (Keywords)";"Tags (Keywords)"
+"Separate tags with commas.";"Separate tags with commas."
+
+"Category";"Category"
+"Show this video in search results";"Show this video in search results"
+
+"Everyone";"Everyone"
+"Friends of Friends";"Friends of Friends"
+"Friends Only";"Friends Only"
+"Just Me";"Just Me"
+
+"Privacy";"Privacy"
+"Who may see this video?";"Who may see this video?"
+"Comment Privacy";"Comment Privacy"
+"Who may post comments on this video?";"Who may post comments on this video?"
+
+"Save Video";"Save Video"
+"Add New Video";"Add New Video"
+"Video Source";"Video Source"
+"My Computer";"My Computer"
+
+"Video Link (URL)";"Video Link (URL)"
+"Paste the web address of the video here.";"Paste the web address of the video here."
+
+"Video has been deleted.";"Video has been deleted."
+"You have already uploaded the maximum number of videos allowed. If you would like to upload a new video, please delete an old one first.";"You have already uploaded the maximum number of videos allowed. If you would like to upload a new video, please delete an old one first."
+"Video posted successfully";"Video posted successfully"
+"We could not find a video there - please check the URL and try again.";"We could not find a video there - please check the URL and try again."
+
+"Invalid Data";"Invalid Data"
+"Invalid Method";"Invalid Method"
+"Max file size limit exceeded (probably).";"Max file size limit exceeded (probably)."
+"Invalid request method";"Invalid request method"
+"No file";"No file"
+"Invalid Upload";"Invalid Upload"
+"An error occurred.";"An error occurred"
+"Video doesn't exists or not authorized to delete";"Video doesn't exists or not authorized to delete"
+
+"To upload a video from your computer, please use our <a href="%1$s">full uploader</a>.";"To upload a video from your computer, please use our <a href="%1$s">full uploader</a>."
+
+"Checking URL...";"Checking URL..."
+
+"If you would like to upload a new video, please <a href="%1$s">delete</a> an old one first.";"If you would like to upload a new video, please <a href="%1$s">delete</a> an old one first."
+
+"Upload complete.";"Upload complete."
+"An error occurred:";"An error occurred:"
+
+"Save Changes";"Save Changes"
+"or";"or"
+"cancel";"cancel"
+
+"To upload a video from your computer, please use our <a href=""%1$s"">full uploader</a>.";"To upload a video from your computer, please use our <a href=""%1$s"">full uploader</a>."
+
+"Share";"Share"
+"Report";"Report"
+
+"Highest Rated";"Highest Rated"
+"views";"views"
+
+"Autos & Vehicles";"Autos & Vehicles"
+"Comedy";"Comedy"
+"Education";"Education"
+"Entertainment";"Entertainment"
+"Film & Animation";"Film & Animation"
+"Gaming";"Gaming"
+"Howto & Style";"Howto & Style"
+"Music";"Music"
+"News & Politics";"News & Politics"
+"Nonprofits & Activism";"Nonprofits & Activism"
+"People & Blogs";"People & Blogs"
+"Pets & Animals";"Pets & Animals"
+"Science & Technology";"Science & Technology"
+"Sports";"Sports"
+"Travel & Events";"Travel & Events"
+
+"These settings affect all members in your community.";"These settings affect all members in your community."
+"Path to FFMPEG";"Path to FFMPEG"
+"Please enter the full path to your FFMPEG installation. (Environment variables are not present)";"Please enter the full path to your FFMPEG installation. (Environment variables are not present)"
+"Encoding Jobs";"Encoding Jobs"
+"How many jobs do you want to allow to run at the same time?";"How many jobs do you want to allow to run at the same time?"
+
+"Public Permissions";"Public Permissions"
+"VIDEO_FORM_ADMIN_GLOBAL_VIDEOPERMISSION_DESCRIPTION";"Select whether or not you want to let the public (visitors that are not logged-in) to view the following sections of your social network. In some cases (such as Profiles, Blogs, and Albums), if you have given them the option, your users will be able to make their pages private even though you have made them publically viewable here. For more permissions settings, please visit the General Settings page."
+"Yes, the public can view videos unless they are made private.";"Yes, the public can view videos unless they are made private."
+"No, the public cannot view videos.";"No, the public cannot view videos."
+
+"VIDEO_FORM_ADMIN_LEVEL_DESCRIPTION";"These settings are applied on a per member level basis. Start by selecting the member level you want to modify, then adjust the settings for that level below."
+
+"Allow Viewing of Videos?";"Allow Viewing of Videos?"
+"Do you want to let members view videos? If set to no, some other settings on this page may not apply.";"Do you want to let members view videos? If set to no, some other settings on this page may not apply."
+"No, do not allow videos to be viewed.";"No, do not allow videos to be viewed."
+"Yes, allow viewing of videos.";"Yes, allow viewing of videos."
+"Yes, allow viewing of all videos, even private ones.";"Yes, allow viewing of all videos, even private ones."
+
+"Allow Editing of Videos?";"Allow Editing of Videos?"
+"Do you want to let members edit videos? If set to no, some other settings on this page may not apply.";"Do you want to let members edit videos? If set to no, some other settings on this page may not apply."
+"No, do not allow members to edit their videos.";"No, do not allow members to edit their videos."
+"Yes, allow members to edit their own videos.";"Yes, allow members to edit their own videos."
+"Yes, allow members to edit all videos.";"Yes, allow members to edit all videos."
+
+"Allow Deletion of Videos?";"Allow Deletion of Videos?"
+"Do you want to let members delete videos? If set to no, some other settings on this page may not apply.";"Do you want to let members delete videos? If set to no, some other settings on this page may not apply."
+"No, do not allow members to delete their videos.";"No, do not allow members to delete their videos."
+"Yes, allow members to delete their own videos.";"Yes, allow members to delete their own videos."
+"Yes, allow members to delete all videos.";"Yes, allow members to delete all videos."
+
+"Allow Creation of Videos?";"Allow Creation of Videos?"
+"VIDEO_FORM_ADMIN_LEVEL_CREATE_DESCRIPTION";"Do you want to let members create videos? If set to no, some other settings on this page may not apply. This is useful if you want members to be able to view videos, but only want certain levels to be able to create videos."
+"Yes, allow creation of videos.";"Yes, allow creation of videos."
+"No, do not allow video to be created.";"No, do not allow video to be created."
+
+"Video Privacy";"Video Privacy"
+"VIDEO_FORM_ADMIN_LEVEL_AUTHVIEW_DESCRIPTION";"Your members can choose from any of the options checked below when they decide who can see their video. If you do not check any options, everyone will be allowed to view videos."
+
+"Video Comment Options";"Video Comment Options"
+"VIDEO_FORM_ADMIN_LEVEL_AUTHCOMMENT_DESCRIPTION";"Your members can choose from any of the options checked below when they decide who can post comments on their video. If you do not check any options, everyone will be allowed to post comments on media."
+
+"Maximum Allowed Videos";"Maximum Allowed Videos"
+"Enter the maximum number of allowed videos. The field must contain an integer between 1 and 999.";"Enter the maximum number of allowed videos. The field must contain an integer between 1 and 999."
+
+"Are you sure that you want to delete this video? It will not be recoverable after being deleted.";"Are you sure that you want to delete this video? It will not be recoverable after being deleted."
+"VIDEO_VIEWS_SCRIPTS_ADMINMANAGE_INDEX_DESCRIPTION";"This page lists all of the videos your users have posted. You can use this page to monitor these videos and delete offensive material if necessary. Entering criteria into the filter fields will help you find specific video. Leaving the filter fields blank will show all the videos on your social network."
+
+"There are no videos posted by your members yet.";"There are no videos posted by your members yet."
+
+"Video Categories";"Video Categories"
+"VIDEO_VIEWS_SCRIPTS_ADMINSETTINGS_CATEGORIES_DESCRIPTION";"If you want to allow your users to categorize their videos, create the categories below. This feature is useful if you want to list all your users' video that If you have no categories, your users will not be given the option of assigning a video category."
+
+"There are currently no categories.";"There are currently no categories."
+"Add New Category";"Add New Category"
+"Delete Video Category?";"Delete Video Category?"
+"Are you sure that you want to delete this category? It will not be recoverable after being deleted.";"Are you sure that you want to delete this category? It will not be recoverable after being deleted."
+
+"This page contains utilities to help configure and troubleshoot the video plugin.";"This page contains utilities to help configure and troubleshoot the video plugin."
+"Ffmpeg Version";"Ffmpeg Version"
+"This will display the current installed version of ffmpeg.";"This will display the current installed version of ffmpeg."
+"Supported Video Formats";"Supported Video Formats"
+"This will run and show the output of ""ffmpeg -formats"". Please see this page for more info.";"This will run and show the output of ""ffmpeg -formats"". Please see this page for more info."
+"We could not find a video there - please check the URL and try again. If you are sure that the URL is valid, please click %s to continue.";"We could not find a video there - please check the URL and try again. If you are sure that the URL is valid, please click %s to continue."
+
+"YouTube";"YouTube"
+"Vimeo";"Vimeo"
+
+
+"Videos Plugin";"Videos Plugin"
+"Manage Videos";"Manage Videos"
+"Video Utilities";"Video Utilities"
+"Allow Commenting on Videos?";"Allow Commenting on Videos?"
+"Allow Video Upload?";"Allow Video Upload?"
+"Do you want to let members of this level comment on videos?";"Do you want to let members of this level comment on videos?"
+"Yes, allow members to comment on videos.";"Yes, allow members to comment on videos."
+"No, do not allow members to comment on videos.";"No, do not allow members to comment on videos."
+"Do you want to let members to upload their own videos? If set to no, some other settings on this page may not apply.";"Do you want to let members to upload their own videos? If set to no, some other settings on this page may not apply."
+"Yes, allow video uploads.";"Yes, allow video uploads."
+"No, do not allow video uploads.";"No, do not allow video uploads."
+"Enter the maximum number of allowed videos. The field must contain an integer, use zero for unlimited.";"Enter the maximum number of allowed videos. The field must contain an integer, use zero for unlimited."
+
+"Popular Videos";"Popular Videos"
+"Profile Videos";"Profile Videos"
+"Recent Videos";"Recent Videos"
+
+"%1$s's Videos";"%1$s's Videos"
+
+"Video Main Navigation Menu";"Video Main Navigation Menu"
+
+
+# action types
+"{item:$subject} commented on {item:$owner}'s {item:$object:video}: {body:$body}";"{item:$subject} commented on {item:$owner}'s {item:$object:video}: {body:$body}"
+"{item:$subject} posted a new video:";"{item:$subject} posted a new video:"
+
+
+# item types
+"ITEM_TYPE_VIDEO";"Videos"
+
+
+# notification types
+"Your {item:$object:video} is ready to be viewed.";"Your {item:$object:video} is ready to be viewed."
+"Your {item:$object:video} has failed to process.";"Your {item:$object:video} has failed to process."
+
+
+# mail templates
+
+# notify_video_processed
+"_EMAIL_NOTIFY_VIDEO_PROCESSED_TITLE";"Video Processed"
+"_EMAIL_NOTIFY_VIDEO_PROCESSED_DESCRIPTION";"This email is sent to the owner of the video when the uploaded video has been processed and is ready for viewing."
+"_EMAIL_NOTIFY_VIDEO_PROCESSED_SUBJECT";"Your video ""[object_title]"" has finished processing"
+"_EMAIL_NOTIFY_VIDEO_PROCESSED_BODY";"[header]
+
+Your video has been processed and is ready to be viewed. Please click the following link to view it:
+
+http://[host][object_link]
+
+[footer]"
+
+# notify_video_processed_failed
+"_EMAIL_NOTIFY_VIDEO_PROCESSED_FAILED_TITLE";"Video Processing Failed"
+"_EMAIL_NOTIFY_VIDEO_PROCESSED_FAILED_DESCRIPTION";"This email is sent to the owner of the video when the uploaded video has failed to be processed."
+"_EMAIL_NOTIFY_VIDEO_PROCESSED_FAILED_SUBJECT";"Your video ""[object_title]"" has failed to process"
+"_EMAIL_NOTIFY_VIDEO_PROCESSED_FAILED_BODY";"[header]
+
+We apologize, but there was a problem processing your video. The message was:
+""[message]""
+
+Please click the following link to view it:
+
+http://[host][message_link]
+
+[footer]"

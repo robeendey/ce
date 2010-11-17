@@ -1,0 +1,38 @@
+"Delete Network";"Delete Network"
+"Are you sure you want to delete this network?";"Are you sure you want to delete this network?"
+"Delete Network";"Delete Network"
+"My Network";"My Network"
+
+"Create Network";"Create Network"
+"Edit Network";"Edit Network"
+"NETWORK_FORM_ADMIN_NETWORK_DESCRIPTION";"If you decide to have members join this network automatically (based on their profile information), you will need to select a profile field and provide a matching value. When members enter that value when creating or editing their profile, they will automatically join this network. You can choose to ""hide"" this network if you want members to belong to it invisibly. This means that only you will know what members belong to the network."
+"Member Assignment";"Member Assignment"
+
+"Members can choose to join this network at any time";"Members can choose to join this network at any time"
+"Members are automatically assigned to this network";"Members are automatically assigned to this network"
+"Members must be assigned to this network by an administrator";"Members must be assigned to this network by an administrator"
+
+"Related Profile Question";"Related Profile Question"
+"Matching Value";"Matching Value"
+
+"Invisible?";"Invisible?"
+"Yes, hide membership for this network.";"Yes, hide membership for this network."
+
+"Delete Network?";"Delete Network?"
+"Are you sure you want to delete this network?";"Are you sure you want to delete this network?"
+
+"Delete the selected networks?";"Delete the selected networks?"
+"Are you sure that you want to delete the %s network? It will not be recoverable after being deleted.";"Are you sure that you want to delete the %s network? It will not be recoverable after being deleted.";"Are you sure that you want to delete the %s networks? They will not be recoverable after being deleted."
+
+"Manage Networks";"Manage Networks"
+"NETWORK_VIEWS_SCRIPTS_ADMINMANAGE_INDEX_DESCRIPTION";"Networks are generally used for determining what members see in the ""what's new"" feed, letting members associate with each other based on common profile information (without needing to be friends directly), and serving advertisements to specific groups of members. Each member can join one or more networks if you allow them to, and their networks will be shown on their profile. If you decide to have networks, be sure that they relate to your community's theme. For example, if your community has members from various countries, you can create a network for each country. If you want your members to see recent posts from other people in their networks (even if they're not yet friends with each other), you can adjust that setting %s."
+
+"Related Profile Question";"Related Profile Question"
+"Add Network";"Add Network"
+"Network Name";"Network Name"
+"n/a";"n/a"
+
+"ACTIVITY_TYPE_NETWORK_JOIN";"When I join a network"
+
+"ITEM_TYPE_NETWORK";"Networks"
+

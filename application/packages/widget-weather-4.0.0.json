@@ -1,0 +1,77 @@
+{
+  "type": "widget",
+  "name": "weather",
+  "version": "4.0.0",
+  "revision": "7593",
+  "path": "application\/widgets\/weather",
+  "repository": null,
+  "date": "Fri, 08 Oct 2010 23:13:44 +0000",
+  "title": "Weather",
+  "description": "Displays the weather.",
+  "developer": null,
+  "authors": [
+    "Webligo Developments"
+  ],
+  "changeLog": null,
+  "meta": {
+    "date": "Fri, 08 Oct 2010 23:13:44 +0000",
+    "title": "Weather",
+    "description": "Displays the weather.",
+    "developer": null,
+    "authors": [
+      "Webligo Developments"
+    ],
+    "changeLog": null
+  },
+  "actions": [
+    
+  ],
+  "callback": null,
+  "dependencies": null,
+  "tests": [
+    
+  ],
+  "permissions": [
+    
+  ],
+  "structure": {
+    "application\/widgets\/weather": {
+      "type": "directory",
+      "path": "application\/widgets\/weather",
+      "structure": [
+        {
+          "path": "Controller.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 1686,
+          "sha1": "ba574252fb662341806734a74ad9dd53962dc702"
+        },
+        {
+          "path": "manifest.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 877,
+          "sha1": "3c2176715cfbb44d1d231bebca569f86fda653c7"
+        },
+        {
+          "path": "index.tpl",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 1273,
+          "sha1": "eb5836e19a6784253f7ada33ff9f82228e71446f"
+        },
+        {
+          "path": "choose.tpl",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 894,
+          "sha1": "c83a2de9d5a35e3b4f6ffb12151d0b063ed07acd"
+        }
+      ]
+    }
+  }
+}

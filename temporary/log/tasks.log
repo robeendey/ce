@@ -1,0 +1,42 @@
+2010-11-17T02:24:12+00:00 NOTICE (5): Trigger Check: 1229305386
+2010-11-17T02:24:12+00:00 NOTICE (5): Trigger Pass: 1229305386
+2010-11-17T02:24:18+00:00 NOTICE (5): Trigger Check: 2934762373
+2010-11-17T02:24:19+00:00 NOTICE (5): Trigger Check: 788757570
+2010-11-17T02:29:40+00:00 NOTICE (5): Trigger Check: 3791050283
+2010-11-17T02:30:12+00:00 NOTICE (5): Trigger Check: 2293931957
+2010-11-17T02:32:51+00:00 NOTICE (5): Trigger Check: 1484308324
+2010-11-17T02:48:54+00:00 NOTICE (5): Trigger Check: 2626207203
+2010-11-17T02:48:54+00:00 NOTICE (5): Trigger Pass: 2626207203
+2010-11-17T02:48:54+00:00 NOTICE (5): Execution Check: 3011676803
+2010-11-17T02:48:56+00:00 NOTICE (5): Trigger Check: 734980428
+2010-11-17T02:48:58+00:00 NOTICE (5): Trigger Check: 4077870011
+2010-11-17T02:50:56+00:00 NOTICE (5): Trigger Check: 2710357944
+2010-11-17T02:50:56+00:00 NOTICE (5): Trigger Pass: 2710357944
+2010-11-17T02:50:57+00:00 NOTICE (5): Execution Check: 3662469636
+2010-11-17T02:50:57+00:00 NOTICE (5): Execution Pass: 3662469636
+2010-11-17T02:50:57+00:00 NOTICE (5): Task Execution Check: Cache Prefetch
+2010-11-17T02:50:57+00:00 NOTICE (5): Task Execution Pass: Cache Prefetch
+2010-11-17T02:50:57+00:00 NOTICE (5): Task Execution Complete: Cache Prefetch
+2010-11-17T02:50:57+00:00 NOTICE (5): Task Execution Check: Background Mailer
+2010-11-17T02:50:57+00:00 NOTICE (5): Task Execution Pass: Background Mailer
+2010-11-17T02:50:57+00:00 NOTICE (5): Task Execution Complete: Background Mailer
+2010-11-17T02:50:57+00:00 NOTICE (5): Task Execution Check: Statistics
+2010-11-17T02:50:57+00:00 NOTICE (5): Task Execution Pass: Statistics
+2010-11-17T02:50:57+00:00 NOTICE (5): Task Execution Complete: Statistics
+2010-11-17T02:50:57+00:00 NOTICE (5): Task Execution Check: Background Video Encoder
+2010-11-17T02:50:57+00:00 NOTICE (5): Task Execution Pass: Background Video Encoder
+2010-11-17T02:50:57+00:00 NOTICE (5): Task Execution Complete: Background Video Encoder
+2010-11-17T02:50:57+00:00 NOTICE (5): Task Execution Check: Member Data Maintenance
+2010-11-17T02:50:57+00:00 NOTICE (5): Task Execution Pass: Member Data Maintenance
+2010-11-17T02:50:57+00:00 NOTICE (5): Task Execution Complete: Member Data Maintenance
+2010-11-17T02:50:57+00:00 NOTICE (5): Task Execution Check: Music Cleanup
+2010-11-17T02:50:57+00:00 NOTICE (5): Task Execution Pass: Music Cleanup
+2010-11-17T02:50:57+00:00 NOTICE (5): Task Execution Complete: Music Cleanup
+2010-11-17T02:50:57+00:00 NOTICE (5): Execution Complete: 3662469636
+2010-11-17T02:50:58+00:00 NOTICE (5): Trigger Check: 1418724689
+2010-11-17T02:52:56+00:00 NOTICE (5): Trigger Check: 2235042329
+2010-11-17T02:52:56+00:00 NOTICE (5): Trigger Pass: 2235042329
+2010-11-17T02:52:57+00:00 NOTICE (5): Execution Check: 1696042226
+2010-11-17T02:52:58+00:00 NOTICE (5): Trigger Check: 3607497230
+2010-11-17T02:53:20+00:00 NOTICE (5): Trigger Check: 487098702
+2010-11-17T02:53:23+00:00 NOTICE (5): Trigger Check: 1875617405

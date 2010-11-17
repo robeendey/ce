@@ -1,0 +1,448 @@
+/*
+  SDK
+*/
+
+.topbar .logo img{
+	margin-left: -8px;
+}
+
+p.buttontext {
+	margin: 4px 0px 7px 20px;
+}
+
+.content.sdk > a.buttonlink {
+	margin-top: 15px;
+}
+
+.content.sdk {
+	overflow: hidden;
+	padding:0px;
+}
+
+.content.sdk > h3{
+	
+	margin-bottom: 10px;
+}
+
+.content.sdk h3 a {
+	font-weight: bold;
+}
+
+.content.sdk h3 a:hover {
+	text-decoration: underline;
+}
+
+.content.sdk a.buttonbig {
+	display: block;
+	width: 140px;
+	padding: 10px 10px 10px 35px;
+	font-weight: bold;
+	float: left;
+	-moz-border-radius: 4px;
+  	-webkit-border-radius: 4px;
+  	font-weight: bold;
+  	border: 1px solid #efefef;
+  	margin-right: 5px;
+	background-color: #f4f8f9;
+	background-repeat: no-repeat;
+	background-position: 10px 10px;
+	outline: none;
+	margin-top: 10px;
+}
+
+.content.sdk a.buttonbig:hover {
+	
+}
+
+.content.sdk a.buttonbig span {
+	display: block;
+	font-size: .8em;
+	min-height: 60px;
+	display: none;
+	margin-top: 5px;
+}
+
+.content.sdk a.buttonbig span.showhelp {
+	display: block;
+	
+}
+
+.content.sdk .helpbutton {
+	background: url(../images/help.png) no-repeat;
+	display: block;
+	outline: none;
+	padding: 10px 10px 10px 20px;
+	font-weight: bold;
+	float: left;
+  	font-weight: bold;
+  	margin-left: 10px;
+	background-repeat: no-repeat;
+	background-position: 0px 10px;
+	margin-top: 10px;
+
+}
+
+.content.sdk.manage p{
+	margin-bottom: 15px;
+}
+
+.content.sdk .button-container {
+	background-color: #c6dfeb;
+	padding: 7px;
+}
+
+button {	
+	background-image: url(../images/buttonbg.png);
+	padding: 4px;
+}
+
+.sdk_table {
+	width: 100%;
+}
+
+.sdk_table.build {
+	padding-top: 15px;
+	margin-bottom: 10px;
+}
+
+.sdk_table.manage {
+	padding-top: 1px;
+	margin-bottom: 15px;
+}
+
+.sdk_table.manage td a {
+	font-weight: normal;
+}
+
+.sdk_table th{
+	text-align: left;
+}
+
+.sdk_table th:first-child {
+	width: 10px;
+}
+
+.sdk_table a {
+	font-weight: bold;
+}
+
+.sdk_table thead tr {
+	background-color: #e9f4fa;
+}
+
+.sdk_table tr.alt {
+	background-color: #f9f9f9;
+}
+
+.sdk_table thead tr th,
+.sdk_table tbody tr td {
+	padding: 7px;
+	border-bottom: 1px solid #e3e3e3;
+}
+
+.sdk_table thead tr th a {
+	font-size: .8em;
+}
+
+.sdk_table thead tr th a:hover {
+	text-decoration: underline;
+}
+.sdk_table td, .sdk_table  {
+	vertical-align: text-top;
+}
+
+.sdk_table th.package {
+	width: 40%;
+}
+
+.sdk_table th.moreinfo {
+	width: 10%;
+	text-align: right;
+}
+
+.sdk_table td.moreinfo a{
+	font-weight: normal;
+}
+
+.sdk_table td.moreinfo {
+	text-align: right;
+}
+
+.sdk_table th.version {
+	width: 10%;
+}
+
+.buttonlink.sdk-download {
+	background: url(../images/download.png) no-repeat -3px 1px;
+	padding-left: 15px;
+}
+
+.buttonlink.sdk-download span {
+	color: #a7a7a7;
+}
+
+.content.sdk .sdk_build_moreinfo_container {
+	display: none;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+.content.sdk .sdk_build_moreinfo_container p {
+	margin-top: 10px;
+}
+
+.content.sdk .sdk_build_moreinfo_container i {
+
+}
+
+.content.sdk .sdk_build_moreinfo_container.show-more {
+	display: block;
+}
+
+.content.sdk .sdk_build_description {
+  margin-top: 10px;
+}
+
+.content.sdk .sdk_build_description p,
+.content.sdk .sdk_build_location p {
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+strong {
+	font-weight: bold;
+	color: #727272;
+	font-size: .9em;
+}
+
+.content.sdk .sdk_packages_add {
+	background-image: url(../images/package_add.png);
+}
+
+.content.sdk .sdk_packages_build {
+	background-image: url(../images/package_go.png);
+}
+
+.content.sdk .sdk_packages_manage {
+	background-image: url(../images/package.png);
+}
+
+#package-created {
+	display: none;
+}
+
+.dev_sdk_link {
+  font-weight: bold;
+  background-image: url(../images/cog.png);
+}
+
+
+/* ADMIN SETTINGS FORM */
+/*
+.settings
+{
+  clear: both;
+  overflow: hidden;
+}
+.settings form
+{
+  +rounded(7px);
+  +foreground;
+  padding: 8px 0px;
+  float: left;
+  overflow: hidden;
+}
+
+.settings h3
+{
+  margin-bottom: 12px;
+  margin-left: -1px;
+}
+.settings h4
+{
+  font-size: 9pt;
+  font-weight: normal;
+  margin-bottom: 25px;
+  margin-top: -5px;
+  padding-left: 1px;
+}
+.settings textarea
+{
+  min-width: 400px;
+  min-height: 120px;
+  border:  1px solid #ccc;
+}
+.settings .form-description
+{
+  margin-top: -8px;
+  margin-bottom: 17px;
+  max-width: 600px;
+}
+.settings .form-wrapper
+{
+  overflow: hidden;
+  clear: both;
+  border-top: 1px solid #eee;
+  padding: 15px 0px 15px 0px;
+}
+.settings .form-wrapper > .form-wrapper
+{
+  border: none;
+  padding: 5px 0px 5px 0px;
+}
+
+.settings .form-wrapper fieldset legend
+{
+  width: 180px;
+  font-weight: bold;
+  display: inline-block;
+  float: left;
+  clear: left;
+  font-weight: bold;
+}
+.settings .form-elements
+{
+  overflow: hidden;
+}
+.settings .form-label
+{
+  width: 180px;
+  float: left;
+  clear: left;
+  font-weight: bold;
+  padding-right: 15px;
+  overflow: hidden;
+}
+.settings .form-element
+{
+  float: left;
+  overflow: hidden;
+}
+.settings .form-element .description
+{
+  overflow: hidden;
+  margin: 0px 0px 10px 0px;
+  max-width: 400px;
+  min-width: 300px;
+}
+.settings .form-element select + .description,
+.settings .form-element textarea + .description,
+.settings .form-element input + .description
+{
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+.settings .form-element select + select
+{
+  margin-left: 5px;
+}
+.settings div.form-buttons
+{
+  display: block;
+  clear: both;
+  border-top: 1px solid #ddd;
+}
+.settings div.form-label label
+{
+  font-weight: bold;
+}
+.settings div.form-element ul li
+{
+  margin: 3px 0px 3px 0px;
+}
+.settings div.form-element input[type=text]
+{
+  width: 200px;
+  font-size: 14px;
+  height: auto;
+}
+.settings .form-options-wrapper
+{
+  overflow: hidden;
+}
+.settings .form-options-wrapper > li
+{
+  overflow: hidden;
+}
+.settings .form-options-wrapper input[type=radio],
+.settings .form-options-wrapper input[type=checkbox]
+{
+  float: left;
+  overflow: hidden;
+  vertical-align: top;
+  margin-top: 1px;
+}
+.settings .form-options-wrapper label
+{
+  overflow: hidden;
+}
+.settings div.form-element textarea
+{
+  max-height: 80px;
+}
+.settings div.form-element input.short
+{
+  width: 50px;
+}
+.settings div.form-element img
+{
+  vertical-align: middle;
+}
+.settings div.form-element p
+{
+  clear: both;
+  max-width: 550px;
+}
+.settings #submit-wrapper
+{
+  overflow: hidden;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+.settings #submit-label
+{
+  display: none;
+}
+.settings #submit-element
+{
+  margin: 0px;
+}
+.settings #buttons-wrapper
+{
+  padding-bottom: 0px;
+}
+.settings #buttons-wrapper button
+{
+  margin-right: 3px;
+}
+.settings ul.form-errors,
+.settings ul.form-notices
+{
+  margin-bottom: 15px;
+  overflow: hidden;
+}
+.settings ul.form-errors > li,
+.settings ul.form-notices > li
+{
+  +rounded;
+  font-weight: bold;
+  padding: .5em .75em .5em .75em;
+}
+.settings ul.form-errors > li + li,
+.settings ul.form-notices > li + li
+{
+  margin-top: 5px;
+}
+.settings ul.form-errors > li
+{
+  color: #fff;
+  background-color: #e47c7c;
+  border: 2px solid #cd6262;
+}
+.settings ul.form-notices > li
+{
+  color: #546d50;
+  background-color: #e3f2e1;
+  border: 2px solid #d2e5cf;
+}
+*/

@@ -1,0 +1,1115 @@
+# menu items
+"_SITE_TITLE";"Social Network"
+"Home";"Home"
+"Members";"Members"
+"Layout";"Layout"
+"Stats";"Stats"
+"Ads";"Ads"
+"Plugins";"Plugins"
+"Settings";"Settings"
+"Manage";"Manage"
+"Menu Editor";"Menu Editor"
+"Language Manager";"Language Manager"
+"File & Media Manager";"File & Media Manager"
+"Theme Editor";"Theme Editor"
+"Layout Editor";"Layout Editor"
+"Log Browser";"Log Browser"
+"Server Information";"Server Information"
+"Referring URLs";"Referring URLs"
+"Site-wide Statistics";"Site-wide Statistics"
+"Create New Campaign";"Create New Campaign"
+"Manage Ad Campaigns";"Manage Ad Campaigns"
+"Performance & Caching";"Performance & Caching"
+"System Emails";"System Emails"
+"Friendship Settings";"Friendship Settings"
+"Spam & Banning Tools";"Spam & Banning Tools"
+"Activity Feed Settings";"Activity Feed Settings"
+"Signup Process";"Signup Process"
+"Profile Questions";"Profile Questions"
+"Locale Settings";"Locale Settings"
+"Abuse Reports";"Abuse Reports"
+"Announcements";"Announcements"
+"Networks";"Networks"
+"Member Levels";"Member Levels"
+
+"Save Changes";"Save Changes"
+"Contact Us";"Contact Us"
+"An error occurred:";"An error occurred:"
+"Privacy Statement";"Privacy Statement"
+"Terms of Service";"Terms of Service"
+
+# Common browse filters
+"Browse By";"Browse By"
+"Most Recent";"Most Recent"
+"Most Popular";"Most Popular"
+
+# Common words
+"Delete";"Delete"
+"or";"or"
+" or ";" or "
+"cancel";"cancel"
+"Cancel";"Cancel"
+"Search";"Search"
+"Success";"Success"
+"Description";"Description"
+"Name";"Name"
+"member";"member";"members"
+"friendship";"friendship";"friendships"
+"post";"post";"posts"
+"comment";"comment";"comments"
+"Password";"Password"
+"Login";"Login"
+"Remember Me";"Remember Me"
+"Email Address";"Email Address"
+"Message";"Message"
+"Human Verification";"Human Verification"
+"Please type the characters you see in the image.";"Please type the characters you see in the image."
+"Send Message";"Send Message"
+"Posted by %s";"Posted by %s"
+"%s update";"%s update";"%s updates"
+"%s Update";"%s Update";"%s Updates"
+"updates";"updates"
+"0 Updates";"0 Updates"
+"First";"First"
+"Last";"Last"
+"&#171; Previous";"&#171; Previous"
+"Next &#187;";"Next &#187;"
+"More +";"More +"
+"Copyright";"Copyright"
+
+
+"Created %s by ";"Created %s by "
+"Post Comment";"Post Comment"
+"%s comment";"%s comment";"%s comments"
+"%d hour ago";"%d hour ago";"%d hours ago"
+"There was an error processing your request.  Please try again later.";"There was an error processing your request.  Please try again later."
+"View all %s comment";"View all %s comment";"View all %s comments"
+"Like This";"Like This"
+"Like";"Like"
+"Unlike";"Unlike"
+"Comment";"Comment"
+"Unlike This";"Unlike This"
+"%s likes this";"%s likes this";"%s like this"
+"%s person likes this";"%s person likes this";"%s people like this"
+"View previous comments";"View previous comments"
+"View more comments";"View more comments"
+"View later comments";"View later comments"
+"View All Updates";"View All Updates"
+"Mark All Read";"Mark All Read"
+"You have no new updates.";"You have no new updates."
+
+
+# Forms
+"Report";"Report"
+"Submit Report";"Submit Report"
+"Do you want to report this?";"Do you want to report this?"
+"(select)";"(select)"
+"Spam";"Spam"
+"Abuse";"Abuse"
+"Inappropriate Content";"Inappropriate Content"
+"Licensed Material";"Licensed Material"
+"Other";"Other"
+"Add Link";"Add Link"
+"Edit Thumbnail";"Edit Thumbnail"
+"Apply Changes";"Apply Changes"
+" Loading...";" Loading..."
+"Are you sure you want to delete this link?";"Are you sure you want to delete this link?"
+"Delete Link";"Delete Link"
+
+# Search
+"Please enter a search query.";"Please enter a search query."
+"No results were found.";"No results were found."
+"%s result found";"%s result found";"%s results found"
+
+"Whoops!";"Whoops!"
+"Page Not Found";"Page Not Found"
+"Go Back";"Go Back"
+"The page you have attempted to access could not be found.";"The page you have attempted to access could not be found."
+"Private Page";"Private Page"
+"You do not have permission to view this private page.";"You do not have permission to view this private page."
+"That resource does not exist";"That resource does not exist"
+"Please sign in to continue.";"Please sign in to continue."
+"Like added";"Like added"
+"Like removed";"Like removed"
+"Invalid request method";"Invalid request method"
+"Comment deleted";"Comment deleted"
+"Invalid data";"Invalid data"
+"The requested resource could not be found.";"The requested resource could not be found."
+"You are not authorized to access this resource.";"You are not authorized to access this resource."
+"Please sign in to continue..";"Please sign in to continue."
+"Whoops! Something went wrong!";"Whoops! Something went wrong!"
+"Thank you for your feedback!";"Thank you for your feedback!"
+"Invalid Method";"Invalid Method"
+"Invalid data";"Invalid data"
+"Link created";"Link created"
+"Link doesn't exists or not authorized to delete";"Link doesn't exists or not authorized to delete"
+"Link has been deleted.";"Link has been deleted."
+
+"Birthdays must include a month and a date.";"Birthdays must include a month and a date."
+"Please select a date from the calendar";"Please select a date from the calendar"
+"Please select a time from the dropdown";"Please select a time from the dropdown"
+"Please select AM or PM";"Please select AM or PM"
+"AM/PM value selected without specifying a time";"AM/PM value selected without specifying a time"
+"End time cannot be before start time";"End time cannot be before start time"
+"By %s";"By %s"
+"...";"..."
+"An error has occurred processing the request.  The target may no longer exist.";"An error has occurred processing the request.  The target may no longer exist."
+"Close";"Close"
+",";","
+"Sign In or %1$sJoin%2$s";"Sign In or %1$sJoin%2$s"
+"and";"and"
+
+# timestamps
+"now";"now"
+"in a few seconds";"in a few seconds"
+"a few seconds ago";"a few seconds ago"
+"in %s minute";"in %s minute";"in %s minutes"
+"%s minute ago";"%s minute ago";"%s minutes ago"
+"in %s hour";"in %s hour";"in %s hours"
+"%s hour ago";"%s hour ago";"%s hours ago"
+
+"_ACTIVITY_ACTIONTYPE_LOGIN";"Signing in"
+"_ACTIVITY_ACTIONTYPE_LOGOUT";"Signing out"
+"_ACTIVITY_ACTIONTYPE_NETWORK_JOIN";"Joining a network"
+"_ACTIVITY_ACTIONTYPE_POST";"Posting to someone's profile"
+"_ACTIVITY_ACTIONTYPE_POST_SELF";"Posting a status update to your own profile"
+"_ACTIVITY_ACTIONTYPE_PROFILE_PHOTO_UPDATE";"Changing your photo"
+"_ACTIVITY_ACTIONTYPE_SIGNUP";"Signing up"
+"_ACTIVITY_ACTIONTYPE_STATUS";"Updating my status"
+"_ACTIVITY_ACTIONTYPE_FIELDS_CHANGE_GENERIC";"Updating my profile"
+"_ACTIVITY_ACTIONTYPE_FRIENDS";"When I become friends with someone"
+"_ACTIVITY_ACTIONTYPE_FRIENDS_FOLLOW";"When I follow someone"
+
+"_CORE_CONTACT_DESCRIPTION";"If you want to ask us a question directly, please submit your message with the following form."
+"_CORE_HELP_CONTACT_MESSAGE";"Name: %1$s
+Email: %2$s
+Member Info: (%3$s - %4$s)
+IP: %5$s
+User-agent: %6$s
+Timestamp: %7$s
+Message:
+    %8$s"
+
+"_CORE_PRIVACY_STATEMENT";"This page will contain the privacy statement of your choice."
+"_CORE_TERMS_OF_SERVICE";"This page will contain the terms of service of your choice."
+
+
+"You can no longer respond to this message because %1$s has blocked you.";"You can no longer respond to this message because %1$s has blocked you."
+
+
+# admin
+"Member Level Settings";"Member Level Settings"
+"Select Member Level";"Select Member Level"
+"Public";"Public"
+"Default Level";"Default Level"
+"Moderators";"Moderators"
+"Admins";"Admins"
+"Superadmins";"Super Admins"
+"Options";"Options"
+"Date";"Date"
+"Views";"Views"
+"Owner";"Owner"
+"delete";"delete"
+"Delete Selected";"Delete Selected"
+# admin stats
+"_CORE_ADMIN_STATS_CORE_VIEWS";"Page views"
+"_CORE_ADMIN_STATS_USER_CREATIONS";"Sign-ups"
+"_CORE_ADMIN_STATS_USER_LOGINS";"Sign-ins"
+"_CORE_ADMIN_STATS_MESSAGES_CREATIONS";"Private messages"
+"_CORE_ADMIN_STATS_USER_FRIENDSHIPS";"New friendships"
+"_CORE_ADMIN_STATS_CORE_COMMENTS";"Comments"
+"_CORE_ADMIN_STATS_CORE_REPORTS";"Abuse reports"
+
+"_CORE_ADMIN_STATS_CORE_UNIQUES";"Unique visitors"
+"_CORE_ADMIN_STATS_ACTIVITY_POSTS";"Feed items"
+"_CORE_ADMIN_STATS_AD_IMPRESSIONS";"Ad impressions"
+"_CORE_ADMIN_STATS_AD_CLICKS";"Ad clicks"
+
+"_CORE_ADMIN_STATS_ANNOUNCEMENT_CREATIONS";"Announcements"
+"_CORE_ADMIN_STATS_CORE_EMAILS";"Emails Sent"
+
+#default networks
+"Antarctica";"Antarctica"
+"Australia";"Australia"
+"Africa";"Africa"
+"Asia";"Asia"
+"Europe";"Europe"
+"South America";"South America"
+"North America";"North America"
+
+#ads
+"CORE_VIEWS_SCRIPTS_ADMINADS_INDEX_DESCRIPTION";"Displaying advertisements is an excellent way to monetize your social network. By creating ad campaigns, you can determine exactly where your ads will appear, how long they will be displayed, and who they will be shown to. The key to generating substantial revenue from your social network is to create targeted ad campaigns. This means that you should make an effort to show specific ads to users based on their interests or personal characteristics (e.g. their profile information). To accomplish this, ad campaigns can be created for specific user levels and/or networks."
+"Create New Campaign";"Create New Campaign"
+"You currently have no advertising campaigns.";"You currently have no advertising campaigns."
+
+"Create Advertising Campaign";"Create Advertising Campaign"
+"Follow this guide to design and launch a new advertising campaign.";"Follow this guide to design and launch a new advertising campaign."
+"Campaign Name";"Campaign Name"
+"Start Date";"Start Date"
+"End Date";"End Date"
+"Don't end this campaign on a specific date.";"Don't end this campaign on a specific date."
+"End this campaign on a specific date.";"End this campaign on a specific date."
+"Total Views Allowed";"Total Views Allowed"
+"The campaign will end when this number of views is reached. Enter ""0"" for unlimited views.";"The campaign will end when this number of views is reached. Enter ""0"" for unlimited views."
+"Total Clicks Allowed";"Total Clicks Allowed"
+"The campaign will end when this number of clicks is reached. Enter ""0"" for unlimited clicks.";"The campaign will end when this number of clicks is reached. Enter ""0"" for unlimited clicks."
+"CORE_FORM_ADMIN_ADS_CREATE_LIMITCTR_DESCRIPTION";"If you specify a minimum CTR (click-through ratio, which is the ratio of clicks to views) and the campaign's CTR goes below your limit, the campaign will end. If you decide to specify a minimum CTR limit, you should enter it as a percentage of clicks to views (e.g. 0.05%). To create a campaign with no definite end, don't specify limits and your campaign will continue until you choose to end it."
+"CORE_FORM_ADMINS_ADS_CREATE_ADLEVELS_DESCRIPTION";"Specify which member levels will be shown advertisements from this campaign. To show this ad campaign to all member levels, leave them all selected. Use CTRL-click to select or deselect multiple levels."
+"Networks";"Networks"
+"CORE_FORM_ADMINS_ADS_CREATE_ADNETWORKS_DESCRIPTION";"Specify which networks will be shown advertisements from this campaign. To show this ad campaign to all networks, leave them all selected. Use CTRL-click to select or deselect multiple networks."
+"Show this advertisement to visitors that are not logged in.";"Show this advertisement to visitors that are not logged in."
+"Create Campaign";"Create Campaign"
+"Minimum CTR";"Minimum CTR"
+"pause";"pause"
+"un-pause";"un-pause"
+"CTR";"CTR"
+"Clicks";"Clicks"
+"Edit Advertising Campaign";"Edit Advertising Campaign"
+"Manage Advertisements";"Manage Advertisements"
+"Editing Ad Campaign";"Editing Ad Campaign"
+"There are no advertisements added to this campaign.";"There are no advertisements added to this campaign."
+"Add New Advertisement";"Add New Advertisement"
+"CORE_VIEWS_SCRIPTS_ADMINADS_MANAGEADS_DESCRIPTION";"Displaying advertisements is an excellent way to monetize your social network. By creating ad campaigns, you can determine exactly where your ads will appear, how long they will be displayed, and who they will be shown to. The key to generating substantial revenue from your social network is to create targeted ad campaigns. This means that you should make an effort to show specific ads to users based on their interests or personal characteristics (e.g. their profile information). To accomplish this, ad campaigns can be created for specific user levels and/or networks."
+"Create Advertisement";"Create Advertisement"
+"Follow this guide to design and create a new advertisement.";"Follow this guide to design and create a new advertisement."
+"preview";"preview"
+"Preview";"Preview"
+"HTML Code";"HTML Code"
+"Edit HTML";"Edit HTML"
+"Edit Advertisement";"Edit Advertisement"
+"CORE_FORM_ADMIN_ADS_AD_MEDIATYPE_DESCRIPTION";"Upload a banner image from your computer or specify your advertisement HTML code (e.g. Google Adsense). If you choose to upload an image, it must be a valid GIF, JPG, JPEG, or PNG file under 200kb."
+"Upload Banner Image";"Upload Banner Image"
+"Insert Banner HTML";"Insert Banner HTML"
+"Advertisement Name";"Advertisement Name"
+"Advertisement Media";"Advertisement Media"
+"CORE_VIEWS_SCRIPTS_FANCYUPLOAD_DESCRIPTION";"This form is just an example fallback for the unobtrusive behaviour of FancyUpload. If this part is not changed, something must be wrong with your code."
+"Upload a Photo:";"Upload a Photo:"
+"CORE_VIEWS_SCRIPTS_FANCYUPLOAD_ADDPHOTOS";"Click "Add Photos" to select a photo from your computer. After you have selected the photos, they will begin to upload right away. When your upload is finished, you will be able to preview the advertisement."
+"done";"done"
+"Advertisement Preview";"Advertisement Preview"
+"Delete Advertisement";"Delete Advertisement"
+"Are you sure you want to delete this advertisement?";"Are you sure you want to delete this advertisement?"
+"Delete Ad";"Delete Ad"
+"Advertisement Edited.";"Advertisement Edited."
+"Ad Campaign Deleted";"Ad Campaign Deleted"
+"Advertisement Deleted.";"Advertisement Deleted."
+"Max file size limit exceeded (probably).";"Max file size limit exceeded (probably)."
+"Invalid request method";"Invalid request method"
+"No file";"No file"
+"Invalid Upload";"Invalid Upload"
+"Your changes have been saved.";"Your changes have been saved."
+"ITEM_TYPE_CORE_PAGE";"Pages"
+" - All unsaved changes to pages or widgets will be lost - ";" - All unsaved changes to pages or widgets will be lost - "
+"Any unsaved changes will be lost. Are you sure you want to leave this page?";"Any unsaved changes will be lost. Are you sure you want to leave this page?"
+"Your changes to this page have been saved.";"Your changes to this page have been saved."
+"The selected layout change will cause %s areas containing widgets to be destroyed. Are you sure you want to continue?";"The selected layout change will cause %s areas containing widgets to be destroyed. Are you sure you want to continue?"
+"Tabbed Blocks";"Tabbed Blocks"
+"Give your new page a unique name. This will appear in the list of pages in the ""Open Page"" tab.";"Give your new page a unique name. This will appear in the list of pages in the ""Open Page"" tab."
+"Page Name";"Page Name"
+"Create Page";"Create Page"
+"New Page";"New Page"
+"Open Page";"Open Page"
+"and keep your current layout.";"and keep your current layout."
+"Edit Columns";"Edit Columns"
+"hide on this page";"hide on this page"
+"show on this page";"show on this page"
+"Main Content Area";"Main Content Area"
+"Available Blocks";"Available Blocks"
+"Drop things here to add them to the global footer.";"Drop things here to add them to the global footer."
+"Changes made to this form will not be saved.  Please adjust the permissions (CHMOD) of file %s to 777 and try again.";"Changes made to this form will not be saved.  Please adjust the permissions (CHMOD) of file %s to 777 and try again."
+"Select a new column layout for this page.";"Select a new column layout for this page."
+"Edit Page Info";"Edit Page Info"
+"Page Title <span>(title tag)</span>";"Page Title <span>(title tag)</span>"
+"Page Keywords <span>(meta tag)</span>";"Page Keywords <span>(meta tag)</span>"
+"Page Description <span>(meta tag)</span>";"Page Description <span>(meta tag)</span>"
+"Page URL";"Page URL"
+"Page Name <span>(for your reference only)</span>";"Page Name <span>(for your reference only)</span>"
+"The URL may only contain alphanumeric characters and dashes - any other characters will be stripped. The full url will be http://www.yoursite.com/pages/[url]";"The URL may only contain alphanumeric characters and dashes - any other characters will be stripped. The full url will be http://www.yoursite.com/pages/[url]"
+"Error: no values";"Error: no values"
+"Global Footer";"Global Footer"
+
+"Missing theme";"Missing theme"
+"Not in theme files";"Not in theme files"
+"Not writeable";"Not writeable"
+"Could not create backup";"Could not create backup"
+"Could not save contents";"Could not save contents"
+"Bad params";"Bad params"
+"Please select the type of log you wish to view from the filter above.";"Please select the type of log you wish to view from the filter above."
+"Language Manager";"Language Manager"
+"CORE_VIEWS_SCRIPTS_ADMINLANGUAGE_EDIT_DESCRIPTION";"The language phrases in this pack are show below. If you're looking for a specific phrase, use the search box below to find it. Be sure to click ""Save Changes"" before moving to the next page of phrases if you want to keep your changes. Benealth each phrase, you'll see the original phrase for your reference. This is useful if you've lost or accidentally deleted a phrase. Some phrases are in plural form - you'll see examples of numbers used for these phrases in italics."
+"This phrase is pluralized. Example values:";"This phrase is pluralized. Example values:"
+"When you've finished editing this language pack, you can return to the %s.";"When you've finished editing this language pack, you can return to the %s."
+"Previous Page";"Previous Page"
+"CORE_VIEWS_SCRIPTS_ADMINLANGUAGE_INDEX_DESCRIPTION";"The layout of your community includes hundreds of phrases of text which are stored in a language pack. If you want to change any of these phrases, you can edit a language pack below. If you want to allow your members to pick from multiple languages, you can also create or import additional packs. If you have multiple packs installed, the pack you've marked as your ""default"" will be the language that displays if a member has not specified their language of choice."
+"Upload New Pack";"Upload New Pack"
+"Create New Pack";"Create New Pack"
+"edit phrases";"edit phrases"
+"export";"export"
+"default";"default"
+"Delete Report?";"Delete Report?"
+"Are you sure that you want to delete this report? It will not be recoverable after being deleted.";"Are you sure that you want to delete this report? It will not be recoverable after being deleted."
+"Delete the selected reports?";"Delete the selected reports?"
+"Are you sure that you want to delete this %d report? It will not be recoverable after being deleted.";"Are you sure that you want to delete this %d report? It will not be recoverable after being deleted.";"Are you sure that you want to delete the %d reports? They will not be recoverable after being deleted."
+"Abuse Reports";"Abuse Reports"
+"This page lists all of the reports your users have sent in regarding inappropriate content, system abuse, spam, and so forth. You can use the search field to look for reports that contain a particular word or phrase. Very old reports are periodically deleted by the system.";"This page lists all of the reports your users have sent in regarding inappropriate content, system abuse, spam, and so forth. You can use the search field to look for reports that contain a particular word or phrase. Very old reports are periodically deleted by the system."
+"Dismiss Selected";"Dismiss Selected"
+"There are currently no outstanding abuse reports.";"There are currently no outstanding abuse reports."
+"Content Type";"Content Type"
+"Site-wide Statistics";"Site-wide Statistics"
+"CORE_VIEWS_SCRIPTS_ADMINSTATS_INDEX_DESCRIPTION";"Stay connected to the pulse of your community by observing your site-wide statistics. The filters below allow you to observe various metrics and their change over different time periods."
+"Top Referring Sites";"Top Referring Sites"
+"CORE_VIEWS_SCRIPTS_ADMINSTATS_REFERRERS_DESCRIPTION";"These are the 100 most common referring URLs tracked from your homepage. This indicates where most of your new traffic is coming from. Clearing the list periodically will give you fresh referrer data."
+"Are you sure you want to clear the referrers?";"Are you sure you want to clear the referrers?"
+"Hits";"Hits"
+"Referring URL";"Referring URL"
+"There have not been any referrers logged yet.";"There have not been any referrers logged yet."
+"CORE_VIEWS_SCRIPTS_ADMINSYSTEM_LOG_DESCRIPTION";"System logs are helpful for troubleshooting and debugging. Select the log you would like to view below."
+"Empty Log";"Empty Log"
+"Error log";"Error log"
+"Language log";"Language log"
+"Video encoding log";"Video encoding log"
+"Show %s Line";"Show %s Line";"Show %s Lines"
+"Show 100 Lines";"Show 100 Lines"
+"Show 1000 Lines";"Show 1000 Lines"
+"Show 5000 Lines";"Show 5000 Lines"
+"Show 10000 Lines";"Show 10000 Lines"
+"Show 50000 Lines";"Show 50000 Lines"
+"View Log";"View Log"
+"Are you sure you want to empty the %s";"Are you sure you want to empty the %s"
+"CORE_VIEWS_SCRIPTS_ADMINTHEMES_INDEX_DESCRIPTION";"Customize your community's overall look and feel by editing your current theme or choosing a new one. Themes consist of CSS files, which you can edit directly right here or via FTP on your server. If you want to make custom changes here, select the CSS file you want to edit from the pull-down menu below. If you would rather just pick an entirely different theme, use the theme chooser at the bottom. Customize your community's overall look and feel by editing your current theme or choosing a new one. Your theme consists of several CSS files. If you want to make custom changes to these files, select the one you want to edit from the pull-down below. If you would rather just pick an entirely different theme, use the theme chooser at the bottom."
+"If you leave the page now, your changes will be lost. Are you sure you want to continue?";"If you leave the page now, your changes will be lost. Are you sure you want to continue?"
+"Your changes have been saved!";"Your changes have been saved!"
+"An error has occurred. Changes could NOT be saved.";"An error has occurred. Changes could NOT be saved."
+"CORE_VIEWS_SCRIPTS_ADMINTHEMES_INDEX_REVERTTHEMEFILE";"Are you sure that you want to revert all the changes you have made to this theme? If yes, the original theme will be restored immediately and your changes lost. If you want to backup your changes, export it to your computer first."
+"Edit your current theme:";"Edit your current theme:"
+"CORE_VIEWS_SCRIPTS_ADMINTHEMES_INDEX_STYLESHEETSPERMISSION";"The stylesheets for your current theme are not writeable. Please set full permissions recursively (CHMOD -R 0777) on ""application/themes/%s"" and try again."
+"CORE_VIEWS_SCRIPTS_ADMINTHEMES_INDEX_REVERTTHEMECHANGES";"Are you sure that you want to revert all the changes you have made to this theme? If yes, the original theme will be restored immediately and your changes lost. If you want to backup your changes, export it to your computer first."
+"Upload Theme";"Upload Theme"
+
+"%s's Dashboard";"%s's Dashboard"
+"View Members";"View Members"
+"View Abuse Reports";"View Abuse Reports"
+"Manage Plugins";"Manage Plugins"
+"Edit Site Layout";"Edit Site Layout"
+"Edit Site Theme";"Edit Site Theme"
+"View Statistics";"View Statistics"
+"Post Announcement";"Post Announcement"
+"Get More Plugins";"Get More Plugins"
+"Get More Themes";"Get More Themes"
+"SocialEngine Control Panel";"SocialEngine Control Panel"
+
+"You're signed-in as %s";"You're signed-in as %s"
+"back to network";"back to network"
+"sign out";"sign out"
+
+"News & Updates";"News & Updates"
+"More SE News";"More SE News"
+
+"Select Language: ";"Select Language: "
+
+#locale
+"US/Pacific";"US/Pacific"
+"(UTC-8) Pacific Time (US & Canada)";"(UTC-8) Pacific Time (US & Canada)"
+"US/Mountain";"US/Mountain"
+"(UTC-7) Mountain Time (US & Canada)";"(UTC-7) Mountain Time (US & Canada)"
+"US/Central";"US/Central"
+"(UTC-6) Central Time (US & Canada)";"(UTC-6) Central Time (US & Canada)"
+"US/Eastern";"US/Eastern"
+"(UTC-5) Eastern Time (US & Canada)";"(UTC-5) Eastern Time (US & Canada)"
+"America/Halifax";"America/Halifax"
+"(UTC-4)  Atlantic Time (Canada)";"(UTC-4)  Atlantic Time (Canada)"
+"America/Anchorage";"America/Anchorage"
+"(UTC-9)  Alaska (US & Canada)";"(UTC-9)  Alaska (US & Canada)"
+"Pacific/Honolulu";"Pacific/Honolulu"
+"(UTC-10) Hawaii (US)";"(UTC-10) Hawaii (US)"
+"Pacific/Samoa";"Pacific/Samoa"
+"(UTC-11) Midway Island, Samoa";"(UTC-11) Midway Island, Samoa"
+"Etc/GMT-12";"Etc/GMT-12"
+"(UTC-12) Eniwetok, Kwajalein";"(UTC-12) Eniwetok, Kwajalein"
+"Canada/Newfoundland";"Canada/Newfoundland"
+"(UTC-3:30) Canada/Newfoundland";"(UTC-3:30) Canada/Newfoundland"
+"America/Buenos_Aires";"America/Buenos_Aires"
+"(UTC-3) Brasilia, Buenos Aires, Georgetown";"(UTC-3) Brasilia, Buenos Aires, Georgetown"
+"Atlantic/South_Georgia";"Atlantic/South_Georgia"
+"(UTC-2) Mid-Atlantic";"(UTC-2) Mid-Atlantic"
+"Atlantic/Azores";"Atlantic/Azores"
+"(UTC-1) Azores, Cape Verde Is.";"(UTC-1) Azores, Cape Verde Is."
+"Europe/London";"Europe/London"
+"Greenwich Mean Time (Lisbon, London)";"Greenwich Mean Time (Lisbon, London)"
+"Europe/Berlin";"Europe/Berlin"
+"(UTC+1) Amsterdam, Berlin, Paris, Rome, Madrid";"(UTC+1) Amsterdam, Berlin, Paris, Rome, Madrid"
+"Europe/Athens";"Europe/Athens"
+"(UTC+2) Athens, Helsinki, Istanbul, Cairo, E. Europe";"(UTC+2) Athens, Helsinki, Istanbul, Cairo, E. Europe"
+"Europe/Moscow";"Europe/Moscow"
+"(UTC+3) Baghdad, Kuwait, Nairobi, Moscow";"(UTC+3) Baghdad, Kuwait, Nairobi, Moscow"
+"Iran";"Iran"
+"(UTC+3:30) Tehran";"(UTC+3:30) Tehran"
+"Asia/Dubai";"Asia/Dubai"
+"(UTC+4) Abu Dhabi, Kazan, Muscat";"(UTC+4) Abu Dhabi, Kazan, Muscat"
+"Asia/Kabul";"Asia/Kabul"
+"(UTC+4:30) Kabul";"(UTC+4:30) Kabul"
+"Asia/Yekaterinburg";"Asia/Yekaterinburg"
+"(UTC+5) Islamabad, Karachi, Tashkent";"(UTC+5) Islamabad, Karachi, Tashkent"
+"Asia/Dili";"Asia/Dili"
+"(UTC+5:30) Bombay, Calcutta, New Delhi";"(UTC+5:30) Bombay, Calcutta, New Delhi"
+"Asia/Katmandu";"Asia/Katmandu"
+"(UTC+5:45) Nepal";"(UTC+5:45) Nepal"
+"Asia/Omsk";"Asia/Omsk"
+"(UTC+6) Almaty, Dhaka";"(UTC+6) Almaty, Dhaka"
+"India/Cocos";"India/Cocos"
+"(UTC+6:30) Cocos Islands, Yangon";"(UTC+6:30) Cocos Islands, Yangon"
+"Asia/Krasnoyarsk";"Asia/Krasnoyarsk"
+"(UTC+7) Bangkok, Jakarta, Hanoi";"(UTC+7) Bangkok, Jakarta, Hanoi"
+"Asia/Hong_Kong";"Asia/Hong_Kong"
+"(UTC+8) Beijing, Hong Kong, Singapore, Taipei";"(UTC+8) Beijing, Hong Kong, Singapore, Taipei"
+"Asia/Tokyo";"Asia/Tokyo"
+"(UTC+9) Tokyo, Osaka, Sapporto, Seoul, Yakutsk";"(UTC+9) Tokyo, Osaka, Sapporto, Seoul, Yakutsk"
+"Australia/Adelaide";"Australia/Adelaide"
+"(UTC+9:30) Adelaide, Darwin";"(UTC+9:30) Adelaide, Darwin"
+"Australia/Sydney";"Australia/Sydney"
+"(UTC+10) Brisbane, Melbourne, Sydney, Guam";"(UTC+10) Brisbane, Melbourne, Sydney, Guam"
+"Asia/Magadan";"Asia/Magadan"
+"(UTC+11) Magadan, Soloman Is., New Caledonia";"(UTC+11) Magadan, Soloman Is., New Caledonia"
+"Pacific/Auckland";"Pacific/Auckland"
+"(UTC+12) Fiji, Kamchatka, Marshall Is., Wellington";"(UTC+12) Fiji, Kamchatka, Marshall Is., Wellington"
+
+# widget: admin-statistics
+"Network Information";"Network Information"
+"License Key";"License Key"
+"Created";"Created"
+"Statistics";"Statistics"
+"Today";"Today"
+"Total";"Total"
+"Page Views";"Page Views"
+"Sign-ins";"Sign-ins"
+"Private Messages";"Private Messages"
+"Friendships";"Friendships"
+"Comments";"Comments"
+
+# misc
+"Yes";"Yes"
+"No";"No"
+
+"Are you sure you want to delete these file(s)?";"Are you sure you want to delete these file(s)?"
+"Delete!";"Delete!"
+"Unable to delete";"Unable to delete"
+"File failed to upload. Check your server settings (such as php.ini max_upload_filesize).";"File failed to upload. Check your server settings (such as php.ini max_upload_filesize)."
+"File already exists. Please delete before trying to upload.";"File already exists. Please %s before trying to upload."
+
+"Path is not writeable. Please CHMOD 0777 the public/admin directory.";"Path is not writeable. Please CHMOD 0777 the public/admin directory."
+"Unable to move file to upload directory.";"Unable to move file to upload directory."
+"Back to File Manager";"Back to File Manager"
+"No";"No"
+
+# composer
+"Attach";"Attach"
+"Don't show an image";"Don't show an image"
+"Choose Image:";"Choose Image:"
+"%d of %d";"%d of %d"
+
+"Select File";"Select File"
+"Control Panel";"Control Panel"
+
+"Profile Views: %s view";"Profile Views: %s view";"Profile Views: %s views"
+"Friends: %s friend";"Friends: %s friend";"Friends: %s friends"
+"Last Update: %s";"Last Update: %s"
+"Joined: %s";"Joined: %s"
+
+"Nothing has been posted here yet - be the first!";"Nothing has been posted here yet - be the first!"
+"Post Something...";"Post Something..."
+"Popular Members";"Popular Members"
+"View Recent Updates";"View Recent Updates"
+"View My Profile";"View My Profile"
+"Add Link";"Add Link"
+"Don't show an image";"Don't show an image"
+"Choose Image:";"Choose Image:"
+"What's New";"What's New"
+"Copyright &copy;%s";"Copyright &copy;%s"
+"Contact";"Contact"
+
+"Add to My Friends";"Add to My Friends"
+"Networks:";"Networks:"
+"Send To";"Send To"
+"settings";"settings"
+"enable";"enable"
+"Add New Plugin";"Add New Plugin"
+"Find More Plugins";"Find More Plugins"
+"Version";"Version"
+
+"Layout Editor";"Layout Editor"
+"CORE_LAYOUT_DESC";"Use the layout editor to decide what content appears on specific pages or in your site-wide header and footer. Click and drag the colored ""blocks"" to arrange the content you want on each page. Drag blocks to and from the ""Available Blocks"" area to add or remove them from your page. Use ""HTML Blocks"" if you want to drop in raw HTML or other content."
+"Editing:";"Editing:"
+"Note: Some blocks won't appear if you're not signed-in or if they don't belong on this page.";"Note: Some blocks won't appear if you're not signed-in or if they don't belong on this page."
+
+"CORE_VIEWS_SCRIPTS_ADMINPLUGINS_DESCRIPTION";"Plugins can extend and enhance many aspects of your social network. They often add new features for members, making your community more attractive and interactive. They can also give you more control over how your social network operates. If you've recently purchased a new plugin, you can install it by clicking the ""Add New Plugin"" link below."
+
+"These settings affect your entire community and all your members.";"These settings affect your entire community and all your members."
+"Maintenance Mode";"Maintenance Mode"
+"CORE_FORM_ADMIN_SETTINGS_GENERAL_DESCRIPTION";"Maintenance Mode will prevent site visitors from accessing your website.  You can customize the maintenance mode page by manually editing the file ""/application/maintenance.html""."
+"Online";"Online"
+"Offline (Maintenance Mode)";"Offline (Maintenance Mode)"
+
+"Site Title";"Site Title"
+"CORE_FORM_ADMIN_SETTINGS_GENERAL_SITETITLE_DESCRIPTION";"Give your community a unique name. This will appear in the <title> tag throughout most of your site."
+
+"Site Description";"Site Description"
+"CORE_FORM_ADMIN_SETTINGS_GENERAL_SITEDESCRIPTION_DESCRIPTION";"Enter a brief, concise description of your community. Include any key words or phrases that you want to appear in search engine listings."
+
+"Site Keywords";"Site Keywords"
+"CORE_FORM_ADMIN_SETTINGS_GENERAL_SITEKEYWORDS_DESCRIPTION";"Provide some keywords (separated by commas) that describe your community. These will be the default keywords that appear in the <meta> tag in your page header. Enter the most relevant keywords you can think of to help your community's search engine rankings."
+
+"Member Profiles";"Member Profiles"
+"Yes, give the public access.";"Yes, give the public access."
+"No, visitors must sign in to view member profiles.";"No, visitors must sign in to view member profiles."
+
+"Search Page";"Search Page"
+"Yes, give the public access.";"Yes, give the public access."
+"No, visitors must sign in to view the search page.";"No, visitors must sign in to view the search page."
+
+"Portal Page";"Portal Page"
+"Yes, give the public access.";"Yes, give the public access."
+"No, visitors must sign in to view the main portal page.";"No, visitors must sign in to view the main portal page."
+
+"Browse Members Page";"Browse Members Page"
+"Yes, give the public access.";"Yes, give the public access."
+"No, visitors must sign in to view the members browse page.";"No, visitors must sign in to view the members browse page."
+
+"Storage Quota";"Storage Quota"
+"CORE_FORM_ADMIN_SETTINGS_GENERAL_QUOTA_DESCRIPTION";"How much content (photos, songs, videos, etc.) do you want each member to be able to upload? This limit only applies to uploaded content, not things that are linked or embedded from other websites."
+"1 MB";"1 MB"
+"5 MB";"5 MB"
+"25 MB";"25 MB"
+"100 MB";"100 MB"
+"500 MB";"500 MB"
+"1 GB";"1 GB"
+"2 GB";"2 GB"
+"5 GB";"5 GB"
+"10 GB";"10 GB"
+"Unlimited";"Unlimited"
+
+"Allow HTML in Comments?";"Allow HTML in Comments?"
+"CORE_FORM_ADMIN_SETTINGS_GENERAL_COMMENTHTML_DESCRIPTION";"By default, members may not enter any HTML tags into comments. If you want to allow specific tags, you can enter them below (separated by commas). Example: b, img, a, embed, font"
+
+"Default Timezone";"Default Timezone"
+"CORE_FORM_ADMIN_SETTINGS_LOCALE_DESCRIPTION";"Please select a default timezone setting for your social network. This will be the default timezone applied to users' accounts if they do not select a timezone during signup, or if they are not signed in. Select the date format you want to use on your social network. This will affect the appearance of the dates that appear on your social network pages."
+
+"Invite Only?";"Invite Only?"
+
+"Yes, make members complete the CAPTCHA form.";"Yes, make members complete the CAPTCHA form."
+"No, do not show a CAPTCHA form.";"No, do not show a CAPTCHA form."
+
+"CORE_FORM_ADMIN_SETTINGS_SPAM_DESCRIPTION";"Social networks are often the target of aggressive spam tactics. This most often comes in the form of fake user accounts and spam in comments. On this page, you can manage various anti-spam and censorship features. Note: To turn on the signup image verification feature (a popular anti-spam tool), see the Signup Progress page."
+
+"No, do not show a CAPTCHA form to anyone.";"No, do not show a CAPTCHA form to anyone."
+"Yes, make everyone complete the CAPTCHA form.";"Yes, make everyone complete the CAPTCHA form."
+"Yes, make visitors complete CAPTCHA, but members are exempt.";"Yes, make visitors complete CAPTCHA, but members are exempt."
+
+"Censored Words";"Censored Words"
+"CORE_FORM_ADMIN_SETTINGS_SPAM_CENSOR_DESCRIPTION";"Enter any words that you you want to censor on your users' profiles as well as any plugins you have installed. These will be replaced with asterisks (*), and will only affect new content. Separate words by commas like word1, word2"
+
+"CORE_ADMIN_FORM_SETTINGS_SPAM_COMMENTHTML_DESCRIPTION";"By default, the user may not enter any HTML tags into comments. If you want to allow specific tags, you can enter them below (separated by commas). Example: b, img, a, embed, font"
+
+"Require new users to enter validation code when signing up?";"Require new users to enter validation code when signing up?"
+"Require users to enter validation code when commenting?";"Require users to enter validation code when commenting?"
+"Require users to enter validation code when inviting others?";"Require users to enter validation code when inviting others?"
+"Require users to enter validation code when using the contact form?";"Require users to enter validation code when using the contact form?"
+"Require users to enter validation code when signing in?";"Require users to enter validation code when signing in?"
+
+"IP Address Ban";"IP Address Ban"
+"CORE_FORM_ADMIN_SETTINGS_SPAM_IPBANS_DESCRIPTION";"To ban users by their IP address, enter their address into the field below. Addresses should be separated by commas, like 123.45.67.8, 23.45.67.*, 192.168.1.1-192.168.1.55"
+
+"Email Templates";"Email Templates"
+"CORE_FORM_ADMIN_SETTINGS_EMAIL_DESCRIPTION";"Various notification emails are sent to your members as they interact with the community. Use this form to customize the content of these emails. Any changes you make here will only be saved after you click the ""Save Changes"" button at the bottom of the form."
+
+"From Name";"From Name"
+"Enter the name you want the emails from the system to come from in the field below.";"Enter the name you want the emails from the system to come from in the field below."
+
+"From Address";"From Address"
+"Enter the email address you want the emails from the system to come from in the field below.";"Enter the email address you want the emails from the system to come from in the field below."
+
+"Language Pack";"Language Pack"
+"Your community has more than one language pack installed. Please select the language pack you want to edit right now.";"Your community has more than one language pack installed. Please select the language pack you want to edit right now."
+
+"Choose Message";"Choose Message"
+"Subject";"Subject"
+"Message Body";"Message Body"
+
+"English";"English"
+"Invite Code";"Invite Code"
+"Invitation";"Invitation"
+"Email Address Verification";"Email Address Verification"
+"Email Address Verification With Password";"Email Address Verification With Password"
+"Welcome";"Welcome"
+"Welcome With Password";"Welcome With Password"
+"Also Commented";"Also Commented"
+"Friend Approved";"Friend Approved"
+"Friend Request";"Friend Request"
+"Friend Follow";"Friend Follow"
+"Comment on Liked";"Comment on Liked"
+"Also Commented";"Also Commented"
+
+"Follow Approved";"Follow Approved"
+"Follow Request";"Follow Request"
+"Follow Approved";"Follow Approved"
+"Follow Request";"Follow Request"
+
+"Theme Manager";"Theme Manager"
+"Clone a theme pack";"Clone a theme pack"
+"Title of new theme";"Title of new theme"
+"Theme Description";"Theme Description"
+"Theme to clone";"Theme to clone"
+"Clone";"Clone"
+"Upload a theme pack";"Upload a theme pack"
+"Theme title";"Theme title"
+"What would you like to title this theme? (Leave blank to use the default theme title)";"What would you like to title this theme? (Leave blank to use the default theme title)"
+"Please describe the theme you are uploading.";"Please describe the theme you are uploading."
+"Theme file";"Theme file"
+"Select the theme file you wish to upload. Note: this must be a file packaged into a TAR file.";"Select the theme file you wish to upload. Note: this must be a file packaged into a TAR file."
+"Upload";"Upload"
+"CORE_VIEWS_SCRIPTS_ADMINTHEMES_THEMES_DESCRIPTION";"Customize your community's overall look and feel by editing your current theme or choosing a new one. Your theme consists of several CSS files. If you want to make custom changes to these files, select the one you want to edit from the pull-down below. If you would rather just pick an entirely different theme, use the theme chooser at the bottom."
+"If you leave the page now, your changes will be lost. Are you sure you want to continue?";"If you leave the page now, your changes will be lost. Are you sure you want to continue?"
+"Your changes have been saved!";"Your changes have been saved!"
+"An error has occurred. Changes could NOT be saved.";"An error has occurred. Changes could NOT be saved."
+"CORE_VIEWS_SCRIPTS_ADMINTHEMES_THEMES_REVERTTHEMEFILE";"Are you sure that you want to revert all the changes you have made to this theme? If yes, the original theme will be restored immediately and your changes lost. If you want to backup your changes, export it to your computer first."
+"Edit your current theme:";"Edit your current theme:"
+
+"CORE_VIEWS_SCRIPTS_ADMINTHEMES_THEMES_TIP";"The stylesheets for your current theme are not writeable. Please set full permissions recursively (CHMOD -R 0777) on ""%s"" and try again."
+"Upload New Files";"Upload New Files"
+
+"Create Menu Item";"Create Menu Item"
+"Label";"Label"
+"URL";"URL"
+"Open in a new window?";"Open in a new window?"
+"Delete Menu Item";"Delete Menu Item"
+"Edit Menu Item";"Edit Menu Item"
+
+"CORE_VIEWS_SCRIPTS_ADMINMENU_INDEX_DESCRIPTION";"Use this area to manage the various navigation menus that appear on your social network. When you select the menu you wish to edit, a list of the menu items it contains will be shown. You can drag these items up and down to change their order."
+
+"All";"All"
+"Cumulative";"Cumulative"
+"Change in";"Change in"
+"Page views";"Page views"
+"This week";"This week"
+"This month";"This month"
+"This year";"This year"
+"By Day";"By Day"
+"By Week";"By Week"
+"By Month";"By Month"
+"By Year";"By Year"
+
+"";""
+" ";" "
+"here";"here"
+"install plugin";"install plugin"
+"New plugins available for installation:";"New plugins available for installation:"
+"disable";"disable"
+
+"Putting your site in development mode will disable caching, and will display error messages to the end-user.";"Putting your site in development mode will disable caching, and will display error messages to the end-user."
+"Production Mode";"Production Mode"
+"Development Mode";"Development Mode"
+"Environment Mode";"Environment Mode"
+
+"Loading ...";"Loading ..."
+"CAPTCHA_DESCRIPTION";"Please type the characters you see in the image."
+"_CAPTCHA_DESCRIPTION";"Please type the characters you see in the image."
+
+"Email queue";"Email queue"
+"Utilizing an email queue, you can allow your website to throttle the emails being sent out to prevent overloading the mail server.";"Utilizing an email queue, you can allow your website to throttle the emails being sent out to prevent overloading the mail server."
+"Yes, enable email queue";"Yes, enable email queue"
+"No, always send emails immediately";"No, always send emails immediately"
+"Use the built-in mail() function";"Use the built-in mail() function"
+"Send emails through an SMTP server";"Send emails through an SMTP server"
+
+"Thank you for contacting us!";"Thank you for contacting us!"
+
+
+"Please complete this field - it is required.";"Please complete this field - it is required."
+"ITEM_TYPE_CORE_LINK";"Links"
+"Everything";"Everything"
+"Links";"Links"
+"Emails Sent";"Emails Sent"
+"Online Members";"Online Members"
+"Quick Stats";"Quick Stats"
+"System Mode";"System Mode"
+"Email All Members";"Email All Members"
+"Packages & Plugins";"Packages & Plugins"
+"Mail Templates";"Mail Templates"
+"Mail Settings";"Mail Settings"
+"Admin Password";"Admin Password"
+"Normal";"Normal"
+
+"CORE_FORM_ADMIN_MESSAGE_MAIL_DESCRIPTION";"Using this form, you will be able to send an email out to all of your members. Emails are sent out using a queue system, so they will be sent out over time. An email will be sent to you when all emails have been sent."
+"From:";"From:"
+"From (name):";"From (name):"
+"Subject:";"Subject:"
+"Hold down the CTRL key to select or de-select specific Member Levels.";"Hold down the CTRL key to select or de-select specific Member Levels."
+"(HTML or Plain Text)";"(HTML or Plain Text)"
+"Send Emails";"Send Emails"
+"No, visitors must sign in to view the browse members page.";"No, visitors must sign in to view the browse members page."
+"Notification Update Frequency";"Notification Update Frequency"
+"Default Locale";"Default Locale"
+
+"Facebook App Secret";"Facebook App Secret"
+"This is a 36 character string of letters and numbers provided by Facebook when you create an Application in your account.";"This is a 36 character string of letters and numbers provided by Facebook when you create an Application in your account."
+"Facebook App ID";"Facebook App ID"
+"Integrate Features";"Integrate Features"
+"What features would you like to integrate?";"What features would you like to integrate?"
+"None";"None"
+"Signup/Login only";"Signup/Login only"
+"Publish to Facebook";"Publish to Facebook"
+
+"Email Queue";"Email Queue"
+"Send through SMTP";"Send through SMTP"
+"SMTP Server Address";"SMTP Server Address"
+"SMTP Server Port";"SMTP Server Port"
+"SMTP Authentication?";"SMTP Authentication?"
+"Use SSL or TLS?";"Use SSL or TLS?"
+"Default: 25. Also commonly on port 465 (SMTP over SSL) or port 587.";"Default: 25. Also commonly on port 465 (SMTP over SSL) or port 587."
+"Does your SMTP Server require authentication?";"Does your SMTP Server require authentication?"
+
+"Use Cache?";"Use Cache?"
+"Yes, enable caching.";"Yes, enable caching."
+"No, do not enable caching.";"No, do not enable caching."
+"Memcache Host";"Memcache Host"
+"Cache Lifetime";"Cache Lifetime"
+"Caching Feature";"Caching Feature"
+"File-based";"File-based"
+"Memcache";"Memcache"
+"Can be a domain name, hostname, or an IP address (recommended)";"Can be a domain name, hostname, or an IP address (recommended)"
+"Memcache Port";"Memcache Port"
+"Memcache compression?";"Memcache compression?"
+"Flush cache?";"Flush cache?"
+"File-based Cache Directory";"File-based Cache Directory"
+"File locking?";"File locking?"
+"Note: your site is currently not in production mode, so caching will be disabled regardless of these settings.";"Note: your site is currently not in production mode, so caching will be disabled regardless of these settings."
+
+"CORE_FORM_ADMIN_SETTINGS_PERFORMANCE_DESCRIPTION";"For very large social networks,
+it may be necessary to enable caching to improve performance. If there is a noticable
+decrease in performance on your social network, consider enabling caching below
+(or upgrading your hardware). Caching takes some load off the database server by
+storing commonly retrieved data in temporary files (file-based caching) or memcached
+(memory-based caching). If you are not familiar with caching, we do not recommend
+that you change any of these settings."
+"CORE_FORM_ADMIN_SETTINGS_PERFORMANCE_LIFETIME_DESCRIPTION";"This determines how long
+the system will keep cached data before reloading it from the database server. A
+shorter cache lifetime causes greater database server CPU usage, however the data
+will be more current. We recommend starting off with 60-120 seconds."
+"CORE_FORM_ADMIN_SETTINGS_PERFORMANCE_TYPE_DESCRIPTION";"If you have enabled
+caching above, please select the type of caching that you want to use. Memcache
+caching (if available) will use memory (RAM) which is not as abundant as disk
+space, however it will be faster than file-based caching when performing
+read/write operations"
+"CORE_FORM_ADMIN_SETTINGS_PERFORMANCE_FILE_PATH_DESCRIPTION";"This is where the
+temporary files containing the cached data are stored. Folder must be writable
+(chmod 777). This should be a path relative to the base directory where
+SocialEngine is installed."
+"CORE_FORM_ADMIN_SETTINGS_PERFORMANCE_ENABLE_DESCRIPTION";"Enable caching? Enabling
+caching will decrease the CPU
+usage of your database server (resulting in a decrease of page load
+times). While some non-critical data may appear slightly out of date,
+this will usually not be noticeable to users. For example, some of the
+general site statistics on your homepage may take longer to update.
+This will not be noticeable if your social network is already large and
+populated with a lot of data"
+
+"Admin Reauthentication";"Admin Reauthentication"
+"Conrols settings about access to the admin panel.";"Conrols settings about access to the admin panel."
+"Do not require reauthentication.";"Do not require reauthentication."
+"Require admins to re-enter their password when they try to access the admin panel.";"Require admins to re-enter their password when they try to access the admin panel."
+"Require admins to enter a global password when they try to access the admin panel.";"Require admins to enter a global password when they try to access the admin panel."
+"The password for ""Require admins to enter a global password when they try to access the admin panel."" above (otherwise ignore).";"The password for ""Require admins to enter a global password when they try to access the admin panel."" above (otherwise ignore)."
+
+"Confirm password";"Confirm password"
+"Timeout";"Timeout"
+"How long (in seconds) before admins have to reauthenticate?";"How long (in seconds) before admins have to reauthenticate?"
+
+"Page Block Placement";"Page Block Placement"
+"Global Header";"Global Header"
+"Global Footer";"Global Footer"
+"Delete Page";"Delete Page"
+"Tabbed Blocks";"Tabbed Blocks"
+
+"HTML Block";"HTML Block"
+"Activity Feed";"Activity Feed"
+"Ad Campaign";"Ad Campaign"
+"Content";"Content"
+"Footer Menu";"Footer Menu"
+"Generic Menu";"Generic Menu"
+"Main Menu";"Main Menu"
+"Mini Menu";"Mini Menu"
+"Profile Links";"Profile Links"
+"Requests";"Requests"
+"Site Logo";"Site Logo"
+"Tab Container";"Tab Container"
+"Core";"Core"
+
+"Available Themes";"Available Themes"
+"Active Theme";"Active Theme"
+"Editing File:";"Editing File:"
+"this is your current theme";"this is your current theme"
+"Export";"Export"
+"Upload New Theme";"Upload New Theme"
+"Activate Theme";"Activate Theme"
+
+"by %s";"by %s"
+
+"You may want to quickly upload images, icons, or other media for use in your layout, announcements, blog entries, etc. You can upload and manage these files here. Move your mouse over a filename to preview an image.";"You may want to quickly upload images, icons, or other media for use in your layout, announcements, blog entries, etc. You can upload and manage these files here. Move your mouse over a filename to preview an image."
+"download";"download"
+"copy URL";"copy URL"
+"Showing %s-%s of %s file.";"Showing %s-%s of %s file.";"Showing %s-%s of %s files."
+
+"make default";"make default"
+"Create a new language pack";"Create a new language pack"
+"Which language do you want to create a language pack for?";"Which language do you want to create a language pack for?"
+
+"variable";"variable"
+"Add Item";"Add Item"
+
+"Main Navigation Menu";"Main Navigation Menu"
+"Mini Navigation Menu";"Mini Navigation Menu"
+"Footer Menu";"Footer Menu"
+"Sitemap";"Sitemap"
+
+"%s at %s";"%s at %s"
+"Your community is currently in %s mode.";"Your community is currently in %s mode."
+"Most error messages are shown and caching is disabled. Changes to your CSS, theme, or view scripts will appear immediately, but your system may run more slowly. Only use this mode when making changes or troubleshooting.";"Most error messages are shown and caching is disabled. Changes to your CSS, theme, or view scripts will appear immediately, but your system may run more slowly. Only use this mode when making changes or troubleshooting."
+
+# tasks
+"Task Scheduler";"Task Scheduler"
+"CORE_VIEWS_SCRIPTS_ADMINTASKS_INDEX_DESCRIPTION";"These are actions that are
+run silently in the background. Some are run periodically, while others can be
+run as desired. You can view the current status here."
+"Disable Auto-Refresh";"Disable Auto-Refresh"
+"Enable Auto-Refresh";"Enable Auto-Refresh"
+"Tasks are ready to be run again.";"Tasks are ready to be run again."
+"Tasks are checked every %1$s seconds.";"Tasks are checked every %1$s seconds."
+"Tasks are considered to have timed out after %1$d seconds.";"Tasks are considered to have timed out after %1$d seconds."
+"Tasks can be run again in %1$s seconds.";"Tasks can be run again in %1$s seconds."
+"Tasks are currently being executed.";"Tasks are currently being executed."
+"%1$d tasks are currently running.";"%1$d tasks are currently running."
+"Tasks have not executed for more than %1$d seconds. Please check your configuration.";"Tasks have not executed for more than %1$d seconds. Please check your configuration."
+"%1$s%%";"%1$s%%"
+"%1$s%% complete";"%1$s%% complete"
+"%1$s of %2$s";"%1$s of %2$s"
+"%1$s in queue";"%1$s in queue"
+"%1$s processed";"%1$s processed"
+"%1$s second";"%1$s second";"%1$s seconds"
+"System";"System"
+"Rebuild Privacy";"Rebuild Privacy"
+"Maintenance";"Maintenance"
+"Automatic";"Automatic"
+"Semi-automatic";"Semi-automatic"
+"Manual";"Manual"
+"Disabled";"Disabled"
+"Active";"Active"
+"Sleeping";"Sleeping"
+"Ready";"Ready"
+"Dormant";"Dormant"
+"State";"State"
+"Module";"Module"
+"A-Z";"A-Z"
+"Z-A";"Z-A"
+"Order";"Order"
+"Enabled";"Enabled"
+"Direction";"Direction"
+"Filter";"Filter"
+"Change Settings";"Change Settings"
+
+
+# fancyupload
+"Overall Progress ({total})";"Overall Progress ({total})"
+"File Progress";"File Progress"
+"Uploading ""{name}""";"Uploading ""{name}"""
+"Upload: {bytesLoaded} with {rate}, {timeRemaining} remaining.";"Upload: {bytesLoaded} with {rate}, {timeRemaining} remaining."
+"{name}";"{name}"
+"Remove";"Remove"
+"Click to remove this entry.";"Click to remove this entry."
+"Upload failed";"Upload failed"
+"{name} already added.";"{name} already added."
+"{name} ({size}) is too small, the minimal file size is {fileSizeMin}.";"{name} ({size}) is too small, the minimal file size is {fileSizeMin}."
+"{name} ({size}) is too big, the maximal file size is {fileSizeMax}.";"{name} ({size}) is too big, the maximal file size is {fileSizeMax}."
+"{name} could not be added, amount of {fileListMax} files exceeded.";"{name} could not be added, amount of {fileListMax} files exceeded."
+"{name} ({size}) is too big, overall filesize of {fileListSizeMax} exceeded.";"{name} ({size}) is too big, overall filesize of {fileListSizeMax} exceeded."
+"Server returned HTTP-Status <code>#{code}</code>";"Server returned HTTP-Status <code>#{code}</code>"
+"Security error occurred ({text})";"Security error occurred ({text})"
+"Error caused a send or load operation to fail ({text})";"Error caused a send or load operation to fail ({text})"
+
+"Please select a valid language.";"Please select a valid language."
+
+# Zend_Captcha_Word validator messages
+"Empty captcha value";"Please be sure that you've entered the same characters you see in the image."
+"Captcha ID field is missing";"Please be sure that you've entered the same characters you see in the image."
+"Captcha value is wrong";"Please be sure that you've entered the same characters you see in the image."
+
+# Zend_Validate_Alnum validator messages
+"Invalid type given, value should be float, string, or integer";"Please enter only alphabetic and digit characters"
+"'%value%' has not only alphabetic and digit characters";"Please enter only alphabetic and digit characters"
+"'%value%' is an empty string";"Please enter only alphabetic and digit characters"
+
+# Zend_Validate_Alpha validator messages
+"Invalid type given, value should be a string";"Please enter only alphabetic and digit characters"
+"'%value%' has not only alphabetic characters";"Please enter only alphabetic and digit characters"
+"'%value%' is an empty string";"Please enter only alphabetic and digit characters"
+
+# Zend_Validate_Between validator messages
+"'%value%' is not between '%min%' and '%max%', inclusively";"Please pick a number between '%min%' and '%max%'"
+"'%value%' is not strictly between '%min%' and '%max%'";"Please pick a number between '%min%' and '%max%'"
+
+# Zend_Validate_Date validator messages
+"Invalid type given, value should be string, integer, array or Zend_Date";"Please pick a valid date"
+"'%value%' is not of the format YYYY-MM-DD";"Please pick a valid date"
+"'%value%' does not appear to be a valid date";"Please pick a valid date"
+"'%value%' does not fit given date format";"Please pick a valid date"
+
+# Zend_Validate_Digits validator messages
+"'%value%' contains not only digit characters";"Please enter only digits"
+"'%value%' is an empty string";"Please enter only digits"
+"Invalid type given, value should be string, integer or float";"Please enter only digits"
+
+# Zend_Validate_EmailAddress validator messages
+"Invalid type given, value should be a string";"Please enter a valid email address"
+"'%value%' is not a valid email address in the basic format local-part@hostname";"Please enter a valid email address"
+"'%hostname%' is not a valid hostname for email address '%value%'";"Please enter a valid email address"
+"'%hostname%' does not appear to have a valid MX record for the email address '%value%'";"Please enter a valid email address"
+"'%localPart%' not matched against dot-atom format";"Please enter a valid email address"
+"'%localPart%' not matched against quoted-string format";"Please enter a valid email address"
+"'%localPart%' is not a valid local part for email address '%value%'";"Please enter a valid email address"
+"'%value%' exceeds the allowed length";"Please enter a valid email address"
+
+# Zend_Validate_Float validator messages
+"Invalid type given, value should be float, string, or integer";"Please enter a valid decimal number"
+"'%value%' does not appear to be a float";"Please enter a valid decimal number"
+
+# Zend_Validate_GreaterThan
+"'%value%' is not greater than '%min%'";"Please pick a number greater than '%min%'"
+
+# Zend_Validate_Int
+"Invalid type given, value should be a string or a integer";"Please enter a valid integer"
+"'%value%' does not appear to be an integer";"Please enter a valid integer"
+
+# Zend_Validate_LessThan
+"'%value%' is not less than '%max%'";"Please enter a number less than '%max%'"
+
+# Zend_Validate_NotEmpty
+"Value is required and can't be empty";"Please complete this field - it is required."
+"Please fill in this field.";"Please complete this field - it is required."
+"Invalid type given, value should be float, string, array, boolean or integer";"Please provide a valid answer for this field."
+
+# Zend_Validate_StringLength
+"Invalid type given, value should be a string";"Please enter a valid string"
+"'%value%' is less than %min% characters long";"Please enter a string at least %min% characters long"
+"'%value%' is greater than %max% characters long";"Please enter a string no more than %max% characters long"
+
+# Engine_Validate_AtLeast
+"'%value%' is not at least '%min%'";"Please enter a number that is at least '%min%'"
+
+
+# mail templates
+
+# header
+"_EMAIL_HEADER_TITLE";"Header (Non-members)"
+"_EMAIL_HEADER_DESCRIPTION";"This can be added to other emails using the [header] placeholder."
+"_EMAIL_HEADER_SUBJECT";""
+"_EMAIL_HEADER_BODY";"Hello,"
+
+# footer
+"_EMAIL_FOOTER_TITLE";"Footer (Non-members)"
+"_EMAIL_FOOTER_DESCRIPTION";"This can be added to other emails using the [footer] placeholder."
+"_EMAIL_FOOTER_SUBJECT";""
+"_EMAIL_FOOTER_BODY";"Best Regards,
+Social Network Administration"
+
+# header_member
+"_EMAIL_HEADER_MEMBER_TITLE";"Header (Members)"
+"_EMAIL_HEADER_MEMBER_DESCRIPTION";"This can be added to other emails using the [header] placeholder."
+"_EMAIL_HEADER_MEMBER_SUBJECT";""
+"_EMAIL_HEADER_MEMBER_BODY";"Hello [recipient_title],"
+
+# footer_member
+"_EMAIL_FOOTER_MEMBER_TITLE";"Footer (Members)"
+"_EMAIL_FOOTER_MEMBER_DESCRIPTION";"This can be added to other emails using the [footer] placeholder."
+"_EMAIL_FOOTER_MEMBER_SUBJECT";""
+"_EMAIL_FOOTER_MEMBER_BODY";"Best Regards,
+Social Network Administration"
+
+# core_contact
+"_EMAIL_CORE_CONTACT_TITLE";"Contact Form Email"
+"_EMAIL_CORE_CONTACT_DESCRIPTION";"This email is sent to the Super Admin when a member sends a message using the contact page."
+"_EMAIL_CORE_CONTACT_SUBJECT";"A member has sent you a message using the contact page."
+"_EMAIL_CORE_CONTACT_BODY";"[header]
+
+[sender_title] has sent you a message using the contact page:
+
+Email : [sender_email]
+Message:
+[message][error_report]
+
+[footer]"
+
+# core_verification
+"_EMAIL_CORE_VERIFICATION_TITLE";"Email Address Verification"
+"_EMAIL_CORE_VERIFICATION_DESCRIPTION";"This is the email that gets sent to members to verify their email addresses if random passwords are disabled."
+"_EMAIL_CORE_VERIFICATION_SUBJECT";"Social Network - Email Verification"
+"_EMAIL_CORE_VERIFICATION_BODY";"[header]
+
+Thank you for joining our social network. To verify your email address and continue, please click the following link:
+[object_link]
+
+Email: [email]
+
+[footer]"
+
+# core_verification_password
+"_EMAIL_CORE_VERIFICATION_PASSWORD_TITLE";"Email Address Verification With Password"
+"_EMAIL_CORE_VERIFICATION_PASSWORD_DESCRIPTION";"This is the email that gets sent to members to verify their email addresses if you have enabled random passwords."
+"_EMAIL_CORE_VERIFICATION_PASSWORD_SUBJECT";"Social Network - Email Verification"
+"_EMAIL_CORE_VERIFICATION_PASSWORD_BODY";"[header]
+
+Thank you for joining our social network. To verify your email address and continue, please click the following link:
+[object_link]
+
+Email: [email]
+Password: [password]
+
+[footer]"
+
+# core_welcome
+"_EMAIL_CORE_WELCOME_TITLE";"Welcome"
+"_EMAIL_CORE_WELCOME_DESCRIPTION";"This is the email that gets sent when a member signs up if random passwords are disabled."
+"_EMAIL_CORE_WELCOME_SUBJECT";"Welcome to the social network!"
+"_EMAIL_CORE_WELCOME_BODY";"[header]
+
+Thank you for joining our social network. Click the following link and enter your information below to login:
+
+[object_link]
+
+Email: [email]
+
+[footer]"
+
+# core_welcome_password
+"_EMAIL_CORE_WELCOME_PASSWORD_TITLE";"Welcome With Password"
+"_EMAIL_CORE_WELCOME_PASSWORD_DESCRIPTION";"This is the email that gets sent when a member signs up if random passwords are enabled. Please note that if you have email verification enabled, the password variable is not available. This is due to the fact that passwords are securely encrypted upon signup and cannot be unencrypted when a member verifies their email address and the welcome email is sent."
+"_EMAIL_CORE_WELCOME_PASSWORD_SUBJECT";"Welcome to the social network!"
+"_EMAIL_CORE_WELCOME_PASSWORD_BODY";"[header]
+
+Thank you for joining our social network. Click the following link and enter your information below to login:
+
+[object_link]
+
+Email: [email]
+Password: [password]
+
+[footer]"
+
+# core_lostpassword
+"_EMAIL_CORE_LOSTPASSWORD_TITLE";"Lost Password"
+"_EMAIL_CORE_LOSTPASSWORD_DESCRIPTION";"This is the email that gets sent if a member forgets their password and requests to create a new one."
+"_EMAIL_CORE_LOSTPASSWORD_SUBJECT";"Social Network - Lost Password"
+"_EMAIL_CORE_LOSTPASSWORD_BODY";"[header]
+
+You have requested to reset your password because you have forgotten your password. If you did not request this, please ignore it. It will expire in 24 hours. To reset your password, please click the following link:
+
+[object_link]
+
+[footer]"

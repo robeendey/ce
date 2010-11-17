@@ -1,0 +1,43 @@
+
+# $Id: .htaccess 7554 2010-10-05 03:40:58Z john $
+
+<IfModule mod_rewrite.c>
+  Options +FollowSymLinks
+  RewriteEngine On
+
+  # Get rid of index.php
+  RewriteCond %{REQUEST_URI} /index\.php
+  RewriteRule (.*) index.php?rewrite=2 [L,QSA]
+
+  # Rewrite all directory-looking urls
+  RewriteCond %{REQUEST_URI} /$
+  RewriteRule (.*) index.php?rewrite=1 [L,QSA]
+
+  # Special cases
+  RewriteCond %{REQUEST_URI} static
+  # RewriteRule (.*) Boostrap.php [L,QSA]
+  RewriteRule (.*) index.php?rewrite=1 [L,QSA]
+
+  # Try to route missing files
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} public\/ [OR]
+  RewriteCond %{REQUEST_FILENAME} \.(jpg|gif|png|ico|flv|htm|html|php|css|js)$
+  RewriteRule . - [L]
+
+  # If the file doesn't exist, rewrite to index
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^(.*)$ index.php?rewrite=1 [L,QSA]
+
+</IfModule>
+
+<IfModule mod_php5.c>
+  php_value   post_max_size         100M
+  php_value   upload_max_filesize   100M
+  php_value   max_input_time        600
+  php_value   max_execution_time    600
+  php_value   memory_limit          128M
+</IfModule>
+
+# @todo This may not be effective in some cases
+FileETag Size

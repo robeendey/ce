@@ -1,0 +1,27 @@
+
+/* $Id: main.css 7533 2010-10-02 09:42:49Z john $ */
+
+
+@include "~/application/modules/Core/externals/styles/constants.css";
+
+
+/*
+ANNOUNCEMENTS WIDGET
+Used to display announcements.
+*/
+#announcements
+{
+  +foreground;
+  padding: 7px;
+  border-top-width: 1px;
+  margin-bottom: 15px;
+}
+
+
+
+
+/* ITEM TYPE ICONS */
+.item_icon_announcement
+{
+  background-image: url(~/application/modules/Announcement/externals/images/types/announcement.png);
+}

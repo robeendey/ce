@@ -1,0 +1,256 @@
+"Forums Plugin";"Forums Plugin"
+"Forum";"Forum"
+"Forums";"Forums"
+"Create Forum";"Create Forum"
+"No forums in this category.";"No forums in this category."
+"Moderators:";"Moderators:"
+"Moderator";"Moderator"
+"Moderators";"Moderators"
+"Last post";"Last post"
+
+"view";"view";"views"
+"%1$s %2$s view";"%1$s %2$s view";"%1$s %2$s views"
+"reply";"reply";"replies"
+"%1$s %2$s reply";"%1$s %2$s reply";"%1$s %2$s replies"
+"post";"post";"posts"
+"topic";"topic";"topics"
+
+"By";"By"
+"in";"in"
+"%1$sLast post%2$s by %3$s";"%1$sLast post%2$s by %3$s"
+
+"Post Reply";"Post Reply"
+"Edit Post";"Edit Post"
+"Post Topic";"Post Topic"
+
+"Back To Topics";"Back To Topics"
+
+"Make Sticky";"Make Sticky"
+"Remove Sticky";"Remove Sticky"
+"Close";"Close"
+"Open";"Open"
+"Rename";"Rename"
+"Delete";"Delete"
+
+"This topic has been closed.";"This topic has been closed."
+"posts";"posts"
+
+"Quote";"Quote"
+"Edit";"Edit"
+
+"This post was edited by %1$s at %2$s";""This post was edited by %1$s at %2$s"
+
+"Post deleted.";"Post deleted."
+"Topic deleted.";"Topic deleted."
+"Topic renamed.";"Topic renamed."
+
+"Title";"Title"
+"Create";"Create"
+"Description";"Description"
+
+"<a id=""photo-label"" href=""javascript:showUploader();"">Attach a Photo</a>";"<a id=""photo-label"" href=""javascript:showUploader();"">Attach a Photo</a>"
+"or";"or"
+"cancel";"cancel"
+
+"Delete Post";"Delete Post"
+"Are you sure you want to delete this post?";"Are you sure you want to delete this post?"
+"Cancel";"Cancel"
+
+"This post has a photo attached. Do you want to delete it?";"This post has a photo attached. Do you want to delete it?"
+"Quick Reply";"Quick Reply"
+"Save Changes";"Save Changes"
+
+"Topic Title";"Topic Title"
+"Delete Topic";"Delete Topic"
+"Are you sure you want to delete this topic?";"Are you sure you want to delete this topic?"
+
+"Rename Topic";"Rename Topic"
+"forum topic";"forum topic";"forum topics"
+
+"Category Title";"Category Title"
+"Forum Title";"Forum Title"
+"Forum Description";"Forum Description"
+Category;Category
+"Member Name";"Member Name"
+"Delete Category";"Delete Category"
+"Delete Forum";"Delete Forum"
+"Are you sure you want to delete this category?";"Are you sure you want to delete this category?"
+"These settings affect all members in your community.";"These settings affect all members in your community."
+"How many posts will be shown per topic page? (Enter a number between 1 and 999";"How many posts will be shown per topic page? (Enter a number between 1 and 999"
+"Posts per topic page";"Posts per topic page"
+"How topics will be shown per forum page? (Enter a number between 1 and 999";"How topics will be shown per forum page? (Enter a number between 1 and 999"
+"Topics per forum page";"Topics per forum page"
+"Yes, members can use BBCode tags.";"Yes, members can use BBCode tags."
+"No, do not let members use BBCode.";"No, do not let members use BBCode."
+"Enable BBCode";"Enable BBCode"
+"Yes, members can use HTML in their posts.";"Yes, members can use HTML in their posts."
+"No, strip HTML from posts.";"No, strip HTML from posts."
+"Enable HTML";"Enable HTML"
+
+"FORUM_FORM_ADMIN_LEVEL_DESCRIPTION";"These settings are applied on a per
+member level basis. Start by selecting the member level you want to modify,
+then adjust the settings for that level below. Note that settings on this page
+override the abilities granted to moderators. If you select ""No"" to an option,
+even moderators will not be able to perform that action. Conversely, if you
+select the ""Yes, even private ones""/""Yes, including other members'"" options,
+they will be able to perform that action even if they are not a moderator."
+
+"Allow Viewing of Forums?";"Allow Viewing of Forums?"
+"FORUM_FORM_ADMIN_LEVEL_VIEW_DESCRIPTION";"Do you want to let users view forums? If set to no, some other settings on this page may not apply."
+"Yes, allow viewing and subscription of forums.";"Yes, allow viewing and subscription of forums."
+"No, do not allow forum to be viewed or subscribed to.";"No, do not allow forum to be viewed or subscribed to."
+
+"Allow Creation of Topics?";"Allow Creation of Topics?"
+"FORUM_FORM_ADMIN_LEVEL_TOPIC_CREATE_DESCRIPTION";"Do you want to allow users to create topics in forums?"
+"Yes, allow creation of topics in forums, even private ones.";"Yes, allow creation of topics in forums, even private ones."
+"Yes, allow creation of topics.";"Yes, allow creation of topics."
+"No, do not allow topics to be created.";"No, do not allow topics to be created."
+
+"Allow Editing of Topics?";"Allow Editing of Topics?"
+"FORUM_FORM_ADMIN_LEVEL_TOPIC_EDIT_DESCRIPTION";"Do you want to allow users to edit topics in forums?"
+"Yes, allow editing of topics in forums, including other members' topics.";"Yes, allow editing of topics in forums, including other members' topics."
+"Yes, allow editing of topics.";"Yes, allow editing of topics."
+"No, do not allow topics to be edited.";"No, do not allow topics to be edited."
+
+"Allow Deletion of Topics?";"Allow Deletion of Topics?"
+"FORUM_FORM_ADMIN_LEVEL_TOPIC_DELETE_DESCRIPTION";"Do you want to allow users to delete topics in forums?"
+"Yes, allow deletion of topics in forums, including other members' topics.";"Yes, allow deletion of topics in forums, including other members' topics."
+"Yes, allow deletion of topics.";"Yes, allow deletion of topics."
+"No, do not allow topics to be deleted.";"No, do not allow topics to be deleted."
+
+"Allow Posting?";"Allow Posting?"
+"FORUM_FORM_ADMIN_LEVEL_POST_CREATE_DESCRIPTION";"Do you want to allow users to post to the forums? If set to no, some other settings on this page may not apply. This is useful if you want users to be able to view forums and manage their subscriptions, but only want certain levels to be able to create forums."
+"Yes, allow posting to forums.";"Yes, allow posting to forums."
+"No, do not allow forum posts.";"No, do not allow forum posts."
+
+"Allow Editing of Posts?";"Allow Editing of Posts?"
+"FORUM_FORM_ADMIN_LEVEL_POST_EDIT_DESCRIPTION";"Do you want to allow users to edit posts in forums?"
+"Yes, allow editing of posts, including other members' posts.";"Yes, allow editing of posts, including other members' posts."
+"Yes, allow editing of posts.";"Yes, allow editing of posts."
+"No, do not allow forum posts to be edited.";"No, do not allow forum posts to be edited."
+
+"Allow Deletion of Posts?";"Allow Deletion of Posts?"
+"FORUM_FORM_ADMIN_LEVEL_POST_DELETE_DESCRIPTION";"Do you want to allow users to delete posts in forums?"
+"Yes, allow deletion of posts, including other members' posts.";"Yes, allow deletion of posts, including other members' posts."
+"Yes, allow deletion of posts.";"Yes, allow deletion of posts."
+"No, do not allow forum posts to be deleted.";"No, do not allow forum posts to be deleted."
+
+"Allow HTML in posts?";"Allow HTML in posts?"
+"FORUM_FORM_ADMIN_LEVEL_CONTENTHTML_DESCRIPTION";"If you have disabled HTML in posts but want to allow specific tags, you can enter them below (separated by commas). If you have enabled HTML in posts, this setting will have no effect.  Example: b, img, a, embed, font"
+
+"Remove Moderator";"Remove Moderator"
+"Are you sure you want to remove this moderator?";"Are you sure you want to remove this moderator?"
+
+"Forum renamed.";"Forum renamed."
+"Category added.";"Category added."
+"Forum added.";"Forum added."
+"Moderator Added";"Moderator Added"
+"Moderator Removed";"Moderator Removed"
+"Category deleted.";"Category deleted."
+"Forum deleted.";"Forum deleted."
+
+"Add Moderator";"Add Moderator"
+"Search for a member to add as a moderator for this forum.";"Search for a member to add as a moderator for this forum."
+
+"Add Category";"Add Category"
+"Add Forum";"Add Forum"
+"move up";"move up"
+
+"Your search returned too many results; only displaying the first 20.";"Your search returned too many results; only displaying the first 20."
+
+"Post New Topic";"Post New Topic"
+
+"Off-Topic";"Off-Topic"
+"Off-topic";"Off-topic"
+"News and Announcements";"News and Announcements"
+"Support";"Support"
+"Off-Topic Discussions";"Off-Topic Discussions"
+"Introduce Yourself";"Introduce Yourself"
+"Suggestions";"Suggestions"
+
+"Manage Forums";"Manage Forums"
+"add";"add"
+"remove";"remove"
+
+"Last reply by %1$s in %2$s";"Last reply by %1$s in %2$s"
+
+
+# action type titles
+"ADMIN_ACTIVITY_TYPE_FORUM_TOPIC_CREATE";"When I create a forum topic."
+"ADMIN_ACTIVITY_TYPE_FORUM_TOPIC_REPLY";"When people reply to forum topics that I've replied to."
+"ADMIN_ACTIVITY_TYPE_FORUM_TOPIC_RESPONSE";"When people reply to forum topics that I create."
+"ADMIN_ACTIVITY_TYPE_FORUM_PROMOTE";"When I'm given moderator status in a forum."
+
+"_ACTIVITY_ACTIONTYPE_FORUM_PROMOTE";"Forum promotions"
+"_ACTIVITY_ACTIONTYPE_FORUM_TOPIC_CREATE";"Creating a forum topic"
+"_ACTIVITY_ACTIONTYPE_FORUM_TOPIC_REPLY";"Replying to a forum topic"
+
+"ACTIVITY_TYPE_FORUM_TOPIC_REPLY";"When people reply to forum topics that I've replied to."
+"ACTIVITY_TYPE_FORUM_TOPIC_RESPONSE";"When people reply to forum topics that I create."
+"ACTIVITY_TYPE_FORUM_PROMOTE";"When I'm given moderator status in a forum."
+
+
+# item types
+"ITEM_TYPE_FORUM_CATEGORY";"Forum Categories"
+"ITEM_TYPE_FORUM";"Forums"
+"ITEM_TYPE_FORUM_TOPIC";"Forum Topics"
+"ITEM_TYPE_FORUM_POST";"Forum Posts"
+
+
+# action types
+"{item:$subject} has been made a moderator for the forum {item:$object}";"{item:$subject} has been made a moderator for the forum {item:$object}"
+"{item:$subject} posted a {item:$object:topic} in the forum {itemParent:$object:forum}: {body:$body}";"{item:$subject} posted a {item:$object:topic} in the forum {itemParent:$object:forum}: {body:$body}"
+"{item:$subject} replied to a {item:$object:topic} in the forum {itemParent:$object:forum}: {body:$body}";"{item:$subject} replied to a {item:$object:topic} in the forum {itemParent:$object:forum}: {body:$body}"
+
+
+# notification types
+"{item:$subject} has {item:$object:posted} on a {itemParent:$object::forum topic} you created.";"{item:$subject} has {item:$object:posted} on a {itemParent:$object::forum topic} you created."
+"{item:$subject} has {item:$object:posted} on a {itemParent:$object::forum topic} you posted on.";"{item:$subject} has {item:$object:posted} on a {itemParent:$object::forum topic} you posted on."
+"You were promoted to moderator in the forum {item:$object}.";"You were promoted to moderator in the forum {item:$object}."
+
+
+# mail templates
+
+# notify_forum_topic_reply
+"_EMAIL_NOTIFY_FORUM_TOPIC_REPLY_TITLE";"Forum Topic Reply"
+"_EMAIL_NOTIFY_FORUM_TOPIC_REPLY_DESCRIPTION";"This email is sent to the member when people reply to forum topics that the member created."
+"_EMAIL_NOTIFY_FORUM_TOPIC_REPLY_SUBJECT";"A member has posted a reply to your topic ""[object_title]"" in the forum ""[object_parent_title]"""
+"_EMAIL_NOTIFY_FORUM_TOPIC_REPLY_BODY";"[header]
+
+[sender_title] has posted a reply to your topic ""[object_title]"" in the forum ""[object_parent_title]"":
+
+""[message]""
+
+Please click the following link to view it:
+
+http://[host][object_link]
+
+[footer]"
+
+# notify_forum_topic_response
+"_EMAIL_NOTIFY_FORUM_TOPIC_RESPONSE_TITLE";"Forum Topic Response"
+"_EMAIL_NOTIFY_FORUM_TOPIC_RESPONSE_DESCRIPTION";"This email is sent to the member when people reply to forum topics that the member replied to."
+"_EMAIL_NOTIFY_FORUM_TOPIC_RESPONSE_SUBJECT";"A member has posted a reply to the topic ""[object_title]"" you replied to in the forum ""[object_parent_title]"""
+"_EMAIL_NOTIFY_FORUM_TOPIC_RESPONSE_BODY";"[header]
+
+[sender_title] has posted a reply to the topic ""[object_title]"" you replied to in the forum ""[object_parent_title]"":
+
+""[message]""
+
+Please click the following link to view it:
+
+http://[host][object_link]
+
+[footer]"
+
+# notify_forum_promote
+"_EMAIL_NOTIFY_FORUM_PROMOTE_TITLE";"Forum Promotion"
+"_EMAIL_NOTIFY_FORUM_PROMOTE_DESCRIPTION";"This email is sent when a member is promoted to moderator in a forum."
+"_EMAIL_NOTIFY_FORUM_PROMOTE_SUBJECT";"You have been promoted to moderator in the forum [object_title]"
+"_EMAIL_NOTIFY_FORUM_PROMOTE_BODY";"[header]
+
+You have been promoted to moderator in the forum ""[object_title]"". Please click the following link to view it:
+
+http://[host][object_link]
+
+[footer]"

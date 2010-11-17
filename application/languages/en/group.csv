@@ -1,0 +1,518 @@
+"Group";"Group"
+"Groups";"Groups"
+"view";"view"
+"View All Groups";"View All Groups"
+"group";"group";"groups"
+"%s group";"%s group";"%s groups"
+
+"This group has %s member.";"This group has %s member.";"This group has %s members."
+
+"Delete Group:";"Delete Group:"
+"Create New Group";"Create New Group"
+"Edit Group";"Edit Group"
+"Delete Group";"Delete Group"
+"Join Group";"Join Group"
+"Leave Group";"Leave Group"
+
+"%s member";"%s member";"%s members"
+"led by";"led by"
+
+"You have no friends you can invite.";"You have no friends you can invite."
+
+"Tip: %1$sClick here%2$s to create the first group!";"Tip: %1$sClick here%2$s to create the first group!"
+"Tip: %1$sClick here%2$s to create a group or %3$sbrowse%2$s for groups to join!";"Tip: %1$sClick here%2$s to create a group or %3$sbrowse%2$s for groups to join!"
+
+"Close";"Close"
+"You have no friends you can invite.";"You have no friends you can invite."
+
+"&#187; Photos";"&#187; Photos"
+"Group Photos";"Group Photos"
+
+"ADD TAG";"ADD TAG"
+"Type a tag or select a name from the list.";"Type a tag or select a name from the list."
+
+"Photo";"Photo"
+"of";"of"
+
+"Next";"Next"
+"Prev";"Prev"
+
+"By";"By"
+"Tagged:";"Tagged:"
+"Added";"Added"
+
+"Add Tag";"Add Tag"
+
+"Quote";"Quote"
+"Edit";"Edit"
+"Delete";"Delete"
+"Share";"Share"
+"Report";"Report"
+"Make Profile Photo";"Make Profile Photo"
+
+"%s total view";"%s total view";"%s total views"
+"%s total member";"%s total member";"%s total members"
+"Last updated %s";"Last updated %s"
+"%s group invite";"%s group invite";"%s group invites"
+
+"This group has %s member waiting for approval or waiting for an invite response.";"This group has %s member waiting for approval or waiting for an invite response.";"This group has %s members waiting for approval or waiting for an invite response."
+
+"&#187; Discussions";"&#187; Discussions"
+"Back to Group";"Back to Group"
+"reply";"reply";"replies"
+"Last Post";"Last Post"
+
+"Back to Topics";"Back to Topics"
+"Post Reply";"Post Reply"
+"Make Sticky";"Make Sticky"
+"Remove Sticky";"Remove Sticky"
+"Open";"Open"
+"Rename";"Rename"
+"This topic has been closed.";"This topic has been closed."
+
+"Join Group";"Join Group"
+"or";"or"
+"ignore request";"ignore request"
+
+"Post New Topic";"Post New Topic"
+"View All";"View All"
+
+"Last Post";"Last Post"
+
+"No topics have been posted in this group yet.";"No topics have been posted in this group yet."
+"total views";"total views"
+"total members";"total members"
+"last updated";"last updated"
+
+"Add Friend";"Add Friend"
+"Remove Friend";"Remove Friend"
+"Remove Member";"Remove Member"
+"Approve Request";"Approve Request"
+"Reject Request";"Reject Request"
+"Cancel Invite";"Cancel Invite"
+"Demote Officer";"Demote Officer"
+"Make Officer";"Make Officer"
+
+"Previous";"Previous"
+"Next";"Next"
+
+"No photos have been uploaded to this group yet.";"No photos have been uploaded to this group yet."
+"By";"By"
+
+"View All Photos";"View All Photos"
+"Upload Photos";"Upload Photos"
+
+"The image you selected was too large.";"The image you selected was too large."
+"Your changes have been saved.";"Your changes have been saved."
+
+"Group joined";"Group joined"
+"Group left";"Group left"
+
+"Group membership request sent";"Group membership request sent"
+"Group membership request cancelled.";"Group membership request cancelled."
+
+"Invalid Data";"Invalid Data"
+"Invalid Method";"Invalid Method"
+
+"You have accepted the invite to the group %s";"You have accepted the invite to the group %s"
+"You have ignored the invite to the group %s";"You have ignored the invite to the group %s"
+
+"Member Promoted";"Member Promoted"
+"Member Demoted";"Member Demoted"
+"Group member removed.";"Group member removed."
+"Members invited";"Members invited"
+
+"Group request approved";"Group request approved"
+"Member title changed";"Member title changed"
+
+"Changes saved";"Changes saved"
+"Photo deleted";"Photo deleted"
+
+"Max file size limit exceeded (probably).";"Max file size limit exceeded (probably)."
+"Invalid request method";"Invalid request method"
+"No file";"No file"
+"Invalid Upload";"Invalid Upload"
+"An error occurred.";"An error occurred"
+
+"Post deleted.";"Post deleted."
+"This has been closed for posting.";"This has been closed for posting."
+"Topic renamed.";"Topic renamed."
+"Topic deleted.";"Topic deleted."
+
+"All My Groups";"All My Groups"
+"Only Groups I Lead";"Only Groups I Lead"
+"Search:";"Search:"
+"View:";"View:"
+
+"Accept Group Invitation";"Accept Group Invitation"
+"Would you like to join this group?";"Would you like to join this group?"
+"Join Group";"Join Group"
+"Cancel";"Cancel"
+
+"Approve Group Membership Request";"Approve Group Membership Request"
+"Would you like to approve the request for membership in this group?";"Would you like to approve the request for membership in this group?"
+"Approve Request";"Approve Request"
+
+"Cancel Group Membership Request";"Cancel Group Membership Request"
+"Would you like to cancel your request for membership in this group?";"Would you like to cancel your request for membership in this group?"
+"Cancel Request";"Cancel Request"
+
+"Demote Member";"Demote Member"
+"Are you sure you want to demote this member from officer?";"Are you sure you want to demote this member from officer?"
+
+"Edit Member Title";"Edit Member Title"
+"Enter a special title for this person.";"Enter a special title for this person."
+"Title";"Title"
+"Save Changes";"Save Changes"
+
+"Join Group";"Join Group"
+"Would you like to join this group?";"Would you like to join this group?"
+
+"Leave Group";"Leave Group"
+"Are you sure you want to leave this group?";"Are you sure you want to leave this group?"
+
+"Promote Member";"Promote Member"
+"Are you sure you want to promote this member to officer?";"Are you sure you want to promote this member to officer?"
+
+"Reject Group Invitation";"Reject Group Invitation"
+"Would you like to reject the invitation to this group?";"Would you like to reject the invitation to this group?"
+"Reject Invitation";"Reject Invitation"
+
+"Are you sure you want to remove this member from the group?";"Are you sure you want to remove this member from the group?"
+
+"Request Group Membership";"Request Group Membership"
+"Would you like to request membership in this group?";"Would you like to request membership in this group?"
+"Send Request";"Send Request"
+
+"Delete Group Photo";"Delete Group Photo"
+"Are you sure you want to delete this photo?";"Are you sure you want to delete this photo?"
+"Delete Photo";"Delete Photo"
+
+"Edit Photo";"Edit Photo"
+"Title";"Title"
+"Description";"Description"
+
+"Group Info";"Group Info"
+"Edit Group Details";"Edit Group Details"
+"Edit Group Style";"Edit Group Style"
+"Share Group";"Share Group"
+"Add Events";"Add Events"
+"No events have been added to this group yet.";"No events have been added to this group yet."
+
+"Add New Photos";"Add New Photos"
+"Choose photos on your computer to add to this album. (2MB maximum)";"Choose photos on your computer to add to this album. (2MB maximum)"
+"Save Photos";"Save Photos"
+
+"Reply";"Reply"
+"Body";"Body"
+"Delete Post";"Delete Post"
+"Are you sure you want to delete this post?";"Are you sure you want to delete this post?"
+
+"Edit Post";"Edit Post"
+
+"Post Discussion Topic";"Post Discussion Topic"
+"Message";"Message"
+
+"Delete Topic";"Delete Topic"
+"Are you sure you want to delete this topic?";"Are you sure you want to delete this topic?"
+
+"Rename Topic";"Rename Topic"
+"Are you sure you want to delete this group?";"Are you sure you want to delete this group?"
+
+"Group Name";"Group Name"
+"Profile Photo";"Profile Photo"
+"Category";"Category"
+
+"Include in search results?";"Include in search results?"
+"Yes, include in search results.";"Yes, include in search results."
+"No, hide from search results.";"No, hide from search results."
+
+"Let members invite others?";"Let members invite others?"
+"Yes, members can invite other people.";"Yes, members can invite other people."
+"No, only officers can invite other people.";"No, only officers can invite other people."
+
+"Approve members?";"Approve members?"
+"When people try to join this group, should they be allowed to join immediately, or should they be forced to wait for approval?";"When people try to join this group, should they be allowed to join immediately, or should they be forced to wait for approval?"
+"New members can join immediately.";"New members can join immediately."
+"New members must be approved.";"New members must be approved."
+
+"View Privacy";"View Privacy"
+"Who may see this group?";"Who may see this group?"
+"Everyone";"Everyone"
+"Registered Members";"Registered Members"
+"Members, Officers, and Owner";"Members, Officers, and Owner"
+
+"Comment Privacy";"Comment Privacy"
+"Who may post on this group's wall?";"Who may post on this group's wall?"
+"Members, Officers, and Owner";"Members, Officers, and Owner"
+"Officers and Owner Only";"Officers and Owner Only"
+
+"Photo Uploads";"Photo Uploads"
+"Who may upload photos to this group?";"Who may upload photos to this group?"
+"Members, Officers, and Owner Only";"Members, Officers, and Owner Only"
+"Officers and Owner Only";"Officers and Owner Only"
+
+"Invite Members";"Invite Members"
+"Choose the people you want to invite to this group.";"Choose the people you want to invite to this group."
+"Members";"Members"
+"Choose All Friends";"Choose All Friends"
+"Send Invites";"Send Invites"
+
+"Group Styles";"Group Styles"
+"Custom Group Styles";"Custom Group Styles"
+"You can change the colors, fonts, and styles of your group by adding CSS code below. The contents of the text area below will be output between <style> tags on your group.";"You can change the colors, fonts, and styles of your group by adding CSS code below. The contents of the text area below will be output between <style> tags on your group."
+
+"%1$s has invited you to the group %2$s";"%1$s has invited you to the group %2$s"
+
+"This group has %1$s member.";"This group has %1$s member.";"This group has %1$s members."
+"This group has %1$s member that matched the query ""%2$s"".";"This group has %1$s member that matched the query ""%2$s"".";"This group has %1$s members that matched the query ""%2$s""."
+
+"See Waiting";"See Waiting"
+
+"This group has %s member waiting approval or waiting for a invite response.";"This group has %s member waiting approval or waiting for a invite response."
+
+"ADMIN_ACTIVITY_TYPE_GROUP_CREATE";"When a new group is created."
+"ADMIN_ACTIVITY_TYPE_GROUP_JOIN";"When a new member joins a group."
+"ADMIN_ACTIVITY_TYPE_GROUP_PHOTO_UPLOAD";"When a new photo is uploaded to a group."
+"ADMIN_ACTIVITY_TYPE_GROUP_TOPIC_CREATE";"When a new group topic is created."
+"ADMIN_ACTIVITY_TYPE_GROUP_TOPIC_REPLY";"When someone replies to a group topic."
+"ADMIN_ACTIVITY_TYPE_GROUP_ACCEPTED";"When my request to join a group is approved."
+"ADMIN_ACTIVITY_TYPE_GROUP_DISCUSSION_REPLY";"When people reply to discussion topics that I've replied to."
+"ADMIN_ACTIVITY_TYPE_GROUP_DISCUSSION_RESPONSE";"When people reply to discussion topics that I create."
+"ADMIN_ACTIVITY_TYPE_GROUP_INVITE";"When I'm invited to join a group."
+"ADMIN_ACTIVITY_TYPE_GROUP_PROMOTE";"When I'm given officer status in a group."
+"ADMIN_ACTIVITY_TYPE_GROUP_ACCEPTED";"When my request to join a group is approved."
+"ADMIN_ACTIVITY_TYPE_GROUP_DISCUSSION_REPLY";"When people reply to discussion topics that I've replied to."
+"ADMIN_ACTIVITY_TYPE_GROUP_DISCUSSION_RESPONSE";"When people reply to discussion topics that I create."
+"ADMIN_ACTIVITY_TYPE_GROUP_INVITE";"When I'm invited to join a group."
+"ADMIN_ACTIVITY_TYPE_LIKE_GROUP";"When someone likes one of my groups."
+"ADMIN_ACTIVITY_TYPE_LIKED_GROUP";"When someone comments on a group I liked."
+"ADMIN_ACTIVITY_TYPE_COMMENTED_GROUP";"When someone comments on a group I commented on."
+"ADMIN_ACTIVITY_TYPE_COMMENT_GROUP";"When someone comments on one of my groups."
+
+"_ACTIVITY_ACTIONTYPE_GROUP_CREATE";"New groups"
+"_ACTIVITY_ACTIONTYPE_GROUP_JOIN";"Joining a group"
+"_ACTIVITY_ACTIONTYPE_GROUP_PHOTO_UPLOAD";"Uploading a group photo"
+"_ACTIVITY_ACTIONTYPE_GROUP_PROMOTE";"Group promotions"
+"_ACTIVITY_ACTIONTYPE_GROUP_TOPIC_CREATE";"Creating a group discussion topic"
+"_ACTIVITY_ACTIONTYPE_GROUP_TOPIC_REPLY";"Replying to a group discussion topic"
+
+"ACTIVITY_TYPE_COMMENTED_GROUP";"When someone comments on a group I commented on."
+"ACTIVITY_TYPE_COMMENT_GROUP";"When someone comments on one of my groups."
+"ACTIVITY_TYPE_LIKED_GROUP";"When someone comments on a group I liked."
+"ACTIVITY_TYPE_LIKE_GROUP";"When someone likes one of my groups."
+"ACTIVITY_TYPE_GROUP_APPROVE";"When someone requests to join a group I created."
+"ACTIVITY_TYPE_GROUP_ACCEPTED";"When my request to join a group is approved."
+"ACTIVITY_TYPE_GROUP_CREATE";"When a new group is created."
+"ACTIVITY_TYPE_GROUP_DISCUSSION_REPLY";"When people reply to discussion topics that I've replied to."
+"ACTIVITY_TYPE_GROUP_DISCUSSION_RESPONSE";"When people reply to discussion topics that I create."
+"ACTIVITY_TYPE_GROUP_INVITE";"When I'm invited to join a group."
+"ACTIVITY_TYPE_GROUP_JOIN";"When a new member joins a group."
+"ACTIVITY_TYPE_GROUP_PHOTO_UPLOAD";"When a new photo is uploaded to a group."
+"ACTIVITY_TYPE_GROUP_PROMOTE";"When I'm given officer status in a group."
+"ACTIVITY_TYPE_GROUP_TOPIC_CREATE";"When a new group topic is created."
+"ACTIVITY_TYPE_GROUP_TOPIC_REPLY";"When someone replies to a group topic."
+
+"These settings affect all members in your community.";"These settings affect all members in your community."
+"GROUP_FORM_ADMIN_LEVEL_DESCRIPTION";"These settings are applied on a per member level basis. Start by selecting the member level you want to modify, then adjust the settings for that level below."
+
+"Allow Viewing of Groups?";"Allow Viewing of Groups?"
+"GROUP_FORM_ADMIN_LEVEL_VIEW_DESCRIPTION";"Do you want to let users view groups? If set to no, some other settings on this page may not apply."
+"No, do not allow groups to be viewed.";"No, do not allow groups to be viewed."
+"Yes, allow viewing and subscription of groups.";"Yes, allow viewing and subscription of groups."
+"Yes, allow members to view all groups, even private ones.";"Yes, allow members to view all groups, even private ones."
+
+"Allow Creation of Groups?";"Allow Creation of Groups?"
+"GROUP_FORM_ADMIN_LEVEL_CREATE_DESCRIPTION";"Do you want to let users create groups? If set to no, some other settings on this page may not apply. This is useful if you want users to be able to view groups and manage their subscriptions, but only want certain levels to be able to create groups."
+"No, do not allow groups to be created.";"No, do not allow groups to be created."
+"Yes, allow creation of groups.";"Yes, allow creation of groups."
+
+"Allow Editing of Groups?";"Allow Editing of Groups?"
+"Do you want to let users edit and delete groups?";"Do you want to let users edit and delete groups?"
+"No, do not allow groups to be edited.";"No, do not allow groups to be edited."
+"Yes, allow  members to edit their own groups.";"Yes, allow  members to edit their own groups."
+"Yes, allow members to edit everyone's groups.";"Yes, allow members to edit everyone's groups."
+
+"Group Privacy";"Group Privacy"
+"GROUP_FORM_ADMIN_LEVEL_AUTHVIEW_DESCRIPTION";"Your users can choose from any of the options checked below when they decide who can see their group. If you do not check any options, everyone will be allowed to view groups."
+
+"Group Posting Options";"Group Posting Options"
+"GROUP_FORM_ADMIN_LEVEL_AUTHCOMMENT_DESCRIPTION";"Your users can choose from any of the options checked below when they decide who can post to their group discussions. If you do not check any options, everyone will be allowed to post."
+"Registered Members";"Registered Members"
+"Members, Officers, and Owner";"Members, Officers, and Owner"
+"Officers and Owner Only";"Officers and Owner Only"
+"Owner Only";"Owner Only"
+
+"Photo Upload Options";"Photo Upload Options"
+"GROUP_FORM_ADMIN_LEVEL_AUTHPHOTO_DESCRIPTION";"Your users can choose from any of the options checked below when they decide who can upload photos to their groups. If you do not check any options, all members will be allowed to upload."
+
+"My Groups";"My Groups"
+
+"Delete Group?";"Delete Group?"
+"Are you sure that you want to delete this group? It will not be recoverable after being deleted.";"Are you sure that you want to delete this group? It will not be recoverable after being deleted."
+
+"Are you sure you want to delete the selected groups?";"Are you sure you want to delete the selected groups?"
+"GROUP_VIEWS_SCRIPTS_ADMINMANAGE_INDEX_DESCRIPTION";"This page lists all of the group entries your users have posted. You can use this page to monitor these groups and delete offensive material if necessary. Entering criteria into the filter fields will help you find specific group entries. Leaving the filter fields blank will show all the group entries on your social network."
+"GROUP_VIEWS_SCRIPTS_ADMINSETTINGS_CATEGORIES_DESCRIPTION";"If you want to allow your users to categorize their groups, create the categories below. This feature is useful if you want to list all your users' group that If you have no categories, your users will not be given the option of assigning a group category."
+
+"There are currently no categories.";"There are currently no categories."
+
+"Delete Group Category?"
+"Are you sure that you want to delete this category? It will not be recoverable after being deleted."
+
+"Search Members";"Search Members"
+"owner";"owner"
+"officer";"officer"
+
+"Browse Groups";"Browse Groups"
+"All Group Members";"All Group Members"
+
+"Groups Plugin";"Groups Plugin"
+"Manage Groups";"Manage Groups"
+"Allow Deletion of Groups?";"Allow Deletion of Groups?"
+"Do you want to let members delete groups? If set to no, some other settings on this page may not apply.";"Do you want to let members delete groups? If set to no, some other settings on this page may not apply."
+"Yes, allow members to delete their own groups.";"Yes, allow members to delete their own groups."
+"No, do not allow members to delete their groups.";"No, do not allow members to delete their groups."
+"Allow Commenting on Groups?";"Allow Commenting on Groups?"
+"Do you want to let members of this level comment on groups?";"Do you want to let members of this level comment on groups?"
+"Yes, allow members to comment on groups.";"Yes, allow members to comment on groups."
+"No, do not allow members to comment on groups.";"No, do not allow members to comment on groups."
+
+"Group Profile Discussions";"Group Profile Discussions"
+"Group Profile Events";"Group Profile Events"
+"Group Profile Info";"Group Profile Info"
+"Group Profile Members";"Group Profile Members"
+"Group Profile Options";"Group Profile Options"
+"Group Profile Photo";"Group Profile Photo"
+"Group Profile Photos";"Group Profile Photos"
+"Group Profile Status";"Group Profile Status"
+"Profile Groups";"Profile Groups"
+
+
+# categories
+"Animals";"Animals"
+"Business & Finance";"Business & Finance"
+"Computers & Internet";"Computers & Internet"
+"Cultures & Community";"Cultures & Community"
+"Dating & Relationships";"Dating & Relationships"
+"Entertainment & Arts";"Entertainment & Arts"
+"Family & Home";"Family & Home"
+"Games";"Games"
+"Government & Politics";"Government & Politics"
+"Health & Wellness";"Health & Wellness"
+"Hobbies & Crafts";"Hobbies & Crafts"
+"Music";"Music"
+"Recreation & Sports";"Recreation & Sports"
+"Regional";"Regional"
+"Religion & Beliefs";"Religion & Beliefs"
+"Schools & Education";"Schools & Education"
+"Science";"Science"
+
+
+# item types
+"ITEM_TYPE_GROUP";"Groups"
+"ITEM_TYPE_GROUP_ALBUM";"Group Albums"
+"ITEM_TYPE_GROUP_PHOTO";"Group Photos"
+"ITEM_TYPE_GROUP_TOPIC";"Group Discussion Topic"
+"ITEM_TYPE_GROUP_POST";"Group Discussion Post"
+
+
+# action types
+"{item:$subject} created a new group:";"{item:$subject} created a new group:"
+"{item:$subject} joined the group {item:$object}";"{item:$subject} joined the group {item:$object}"
+"{item:$subject} added {var:$count} photo(s).";"{item:$subject} added {var:$count} photo(s)."
+"{item:$subject} has been made an officer for the group {item:$object}";"{item:$subject} has been made an officer for the group {item:$object}"
+"{item:$subject} posted a {item:$object:topic} in the group {itemParent:$object:group}: {body:$body}";"{item:$subject} posted a {item:$object:topic} in the group {itemParent:$object:group}: {body:$body}"
+"{item:$subject} replied to a {item:$object:topic} in the group {itemParent:$object:group}: {body:$body}";"{item:$subject} replied to a {item:$object:topic} in the group {itemParent:$object:group}: {body:$body}"
+
+
+# notification types
+"{item:$subject} has {item:$object:posted} on a {itemParent:$object::group topic} you created.";"{item:$subject} has {item:$object:posted} on a {itemParent:$object::group topic} you created."
+"{item:$subject} has {item:$object:posted} on a {itemParent:$object::group topic} you posted on.";"{item:$subject} has {item:$object:posted} on a {itemParent:$object::group topic} you posted on."
+"{item:$subject} has invited you to the group {item:$object}.";"{item:$subject} has invited you to the group {item:$object}."
+"{item:$subject} has requested to join the group {item:$object}.";"{item:$subject} has requested to join the group {item:$object}."
+"Your request to join the group {item:$subject} has been approved.";"Your request to join the group {item:$subject} has been approved."
+"You were promoted to officer in the group {item:$object}.";"You were promoted to officer in the group {item:$object}."
+
+
+# mail templates
+
+# notify_group_accepted
+"_EMAIL_NOTIFY_GROUP_ACCEPTED_TITLE";"Group Approved"
+"_EMAIL_NOTIFY_GROUP_ACCEPTED_DESCRIPTION";"This email is sent to the member when they are approved to join a group."
+"_EMAIL_NOTIFY_GROUP_ACCEPTED_SUBJECT";"You have been approved to join the group [object_title]"
+"_EMAIL_NOTIFY_GROUP_ACCEPTED_BODY";"[header]
+
+You have been approved to join the group ""[object_title]"". Please click the following link to view it:
+
+http://[host][object_link]
+
+[footer]"
+
+# notify_group_approve
+"_EMAIL_NOTIFY_GROUP_APPROVE_TITLE";"Group Request"
+"_EMAIL_NOTIFY_GROUP_APPROVE_DESCRIPTION";"This email is sent to the member when someone requests to join their group."
+"_EMAIL_NOTIFY_GROUP_APPROVE_SUBJECT";"[sender_title] has requested to join the group [object_title]"
+"_EMAIL_NOTIFY_GROUP_APPROVE_BODY";"[header]
+
+[sender_title] has requested to join the group ""[object_title]"". Please click the following link to view it:
+
+http://[host][object_link]
+
+[footer]"
+
+# notify_group_discussion_reply
+"_EMAIL_NOTIFY_GROUP_DISCUSSION_REPLY_TITLE";"Group Discussion Reply"
+"_EMAIL_NOTIFY_GROUP_DISCUSSION_REPLY_DESCRIPTION";"This email is sent to the member when people reply to discussion topics that the member created."
+"_EMAIL_NOTIFY_GROUP_DISCUSSION_REPLY_SUBJECT";"A member has posted a reply to your topic ""[object_title]"" in the group ""[object_parent_title]"""
+"_EMAIL_NOTIFY_GROUP_DISCUSSION_REPLY_BODY";"[header]
+
+[sender_title] has posted a reply to your topic ""[object_title]"" in the group ""[object_parent_title]"":
+
+""[message]""
+
+Please click the following link to view it:
+
+http://[host][object_link]
+
+[footer]"
+
+# notify_group_discussion_response
+"_EMAIL_NOTIFY_GROUP_DISCUSSION_RESPONSE_TITLE";"Group Discussion Response"
+"_EMAIL_NOTIFY_GROUP_DISCUSSION_RESPONSE_DESCRIPTION";"This email is sent to the member when people reply to discussion topics that the member replied to."
+"_EMAIL_NOTIFY_GROUP_DISCUSSION_RESPONSE_SUBJECT";"A member has posted a reply to the topic ""[object_title]"" you replied to in the group ""[object_parent_title]"""
+"_EMAIL_NOTIFY_GROUP_DISCUSSION_RESPONSE_BODY";"[header]
+
+[sender_title] has posted a reply to the topic ""[object_title]"" you replied to in the group ""[object_parent_title]"":
+
+""[message]""
+
+Please click the following link to view it:
+
+http://[host][object_link]
+
+[footer]"
+
+# notify_group_invite
+"_EMAIL_NOTIFY_GROUP_INVITE_TITLE";"Group Invitation"
+"_EMAIL_NOTIFY_GROUP_INVITE_DESCRIPTION";"This email is sent to the member when they are invited to a group."
+"_EMAIL_NOTIFY_GROUP_INVITE_SUBJECT";"You have been invited to join the group [object_title]"
+"_EMAIL_NOTIFY_GROUP_INVITE_BODY";"[header]
+
+You have been invited to join the group ""[object_title]"". Please click the following link to view it:
+
+http://[host][object_link]
+
+[footer]"
+
+# notify_group_promote
+"_EMAIL_NOTIFY_GROUP_PROMOTE_TITLE";"Group Promotion"
+"_EMAIL_NOTIFY_GROUP_PROMOTE_DESCRIPTION";"This email is sent when a member is promoted to officer in a group."
+"_EMAIL_NOTIFY_GROUP_PROMOTE_SUBJECT";"You have been promoted to officer in the group [object_title]"
+"_EMAIL_NOTIFY_GROUP_PROMOTE_BODY";"[header]
+
+You have been promoted to officer in the group ""[object_title]"". Please click the following link to view it:
+
+http://[host][object_link]
+
+[footer]"

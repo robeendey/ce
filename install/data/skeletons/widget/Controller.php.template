@@ -1,0 +1,9 @@
+<?php
+
+class Widget_%%nameInflected%%Controller extends Engine_Content_Widget_Abstract
+{
+  public function indexAction()
+  {
+
+  }
+}

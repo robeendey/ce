@@ -1,0 +1,6 @@
+<?php
+
+class %%nameInflected%%_Bootstrap extends Engine_Application_Bootstrap_Abstract
+{
+
+}

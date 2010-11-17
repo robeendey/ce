@@ -1,0 +1,71 @@
+
+/* $Id: main.css 7533 2010-10-02 09:42:49Z john $ */
+
+
+@include "~/application/modules/Core/externals/styles/constants.css";
+
+
+
+/*
+NETWORK SETTINGS
+Used to style the networks page in the member's
+settings area.
+*/
+ul.networks
+{
+  width: 350px;
+  margin: 15px 0px 15px 0px;
+}
+ul.networks > li
+{
+  overflow: hidden;
+  border: 1px solid $theme_border_medium_color;
+  padding: 10px;
+}
+ul.networks > li + li
+{
+  margin-top: 10px;
+}
+ul.networks > li > div
+{
+  float: left;
+  overflow: hidden;
+  font-weight: bold;
+}
+html[dir="rtl"] ul.networks > li > div
+{
+  float: right;
+}
+ul.networks > li > div > span
+{
+  font-weight: normal;
+  font-size: .8em;
+}
+ul.networks > li > a
+{
+  display: block;
+  overflow: hidden;
+  text-align: right;
+}
+html[dir="rtl"] ul.networks > li > a
+{
+  text-align: left;
+}
+
+
+
+/* USER NETWORK SETTINGS */
+
+form#network-form input.network_join_selected
+{
+  background-color: #eee;
+}
+
+
+
+
+/* ITEM TYPE ICONS */
+.item_icon_network
+{
+  background-image: url(~/application/modules/Network/externals/images/types/network.png);
+}

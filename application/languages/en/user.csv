@@ -1,0 +1,585 @@
+"User";"User"
+
+"Post";"Post"
+
+"If you already have an account, please enter your details below. If you don't have one yet, please <a href='%s'>sign up</a> first.";"If you already have an account, please enter your details below. If you don't have one yet, please <a href='%s'>sign up</a> first."
+"<span><a href='%s'>Forgot Password?</a></span>";"<span><a href='%s'>Forgot Password?</a></span>"
+
+"Block Member";"Block Member"
+"Do you want to block this member?";"Do you want to block this member?"
+"Cancel";"Cancel"
+
+"Unblock Member";"Unblock Member"
+"Do you want to unblock this member?";"Do you want to unblock this member?"
+
+"Make Profile Photo";"Make Profile Photo"
+"Do you want to make this photo your profile photo?";"Do you want to make this photo your profile photo?"
+"Save";"Save"
+
+"Edit Member Profile";"Edit Member Profile"
+"%1$s's Profile";"%1$s's Profile"
+"Current Photo";"Current Photo"
+"Choose New Photo";"Choose New Photo"
+"Save Photo";"Save Photo"
+"Profile Photos";"Profile Photos"
+
+"Profile Style";"Profile Style"
+"Add your own CSS code above to give your profile a more personalized look.";"Add your own CSS code above to give your profile a more personalized look."
+"Save Styles";"Save Styles"
+
+"Add Friend";"Add Friend"
+"Would you like to add this member as a friend?";"Would you like to add this member as a friend?"
+
+"Cancel Friend Request";"Cancel Friend Request"
+"Do you want to cancel your friend request?";"Do you want to cancel your friend request?"
+"Cancel Request";"Cancel Request"
+
+"Confirm Friend";"Confirm Friend"
+"Would you like to confirm this member as a friend?";"Would you like to confirm this member as a friend?"
+
+"Reject Friend";"Reject Friend"
+"Would you like to reject this member as a friend?";"Would you like to reject this member as a friend?"
+
+"Remove Friend";"Remove Friend"
+"Are you sure you want to remove this member as a friend?";"Are you sure you want to remove this member as a friend?"
+
+"Delete Account";"Delete Account"
+"Are you sure you want to delete your account? Any content you've uploaded in the past will be permanently deleted. You will be immediately signed out and will no longer be able to sign in with this account.";"Are you sure you want to delete your account? Any content you've uploaded in the past will be permanently deleted. You will be immediately signed out and will no longer be able to sign in with this account."
+"Yes, Delete My Account";"Yes, Delete My Account"
+"This is the last super admin account. Please reconsider before deleting this account.";"This is the last super admin account. Please reconsider before deleting this account."
+
+"My Settings";"My Settings"
+"General";"General"
+"Notifications";"Notifications"
+"General Settings";"General Settings"
+"Notification Settings";"Notification Settings"
+"Email Address";"Email Address"
+"Please enter a valid email address.";"Please enter a valid email address."
+"Someone has already registered this email address, please use another one.";"Someone has already registered this email address, please use another one."
+"Profile Address";"Profile Address"
+"Please enter a valid profile address.";"Please enter a valid profile address."
+"Someone has already picked this profile address, please use another one.";"Someone has already picked this profile address, please use another one."
+"Profile addresses must start with a letter.";"Profile addresses must start with a letter."
+"Profile addresses must be alphanumeric.";"Profile addresses must be alphanumeric."
+
+"Account Type";"Account Type"
+"Timezone";"Timezone"
+"Select the city closest to you that shares your same timezone."
+"Locale";"Locale"
+"Dates, times, and other settings will be displayed using this locale setting.";"Dates, times, and other settings will be displayed using this locale setting."
+"Email Alerts";"Email Alerts"
+"Which of the these do you want to receive email alerts about?";"Which of the these do you want to receive email alerts about?"
+
+"Join Network";"Join Network"
+"Change Password";"Change Password"
+"Old Password";"Old Password"
+"New Password";"New Password"
+"Passwords must be at least 6 characters in length.";"Passwords must be at least 6 characters in length."
+"New Password (again)";"New Password (again)"
+"Enter your password again for confirmation.";"Enter your password again for confirmation."
+"Change Password";"Change Password"
+
+"Privacy Settings";"Privacy Settings"
+"Blocked Members";"Blocked Members"
+"Adding a person to your block list makes your profile (and all of your other content) unviewable to them. Any connections you have to the blocked person will be canceled. To add someone to your block list, visit that person's profile page.";"Adding a person to your block list makes your profile (and all of your other content) unviewable to them. Any connections you have to the blocked person will be canceled. To add someone to your block list, visit that person's profile page."
+"Do not display me in searches, browsing members, or the ""Online Members"" list.";"Do not display me in searches, browsing members, or the ""Online Members"" list."
+
+"Profile Privacy";"Profile Privacy"
+"Who can view your profile?";"Who can view your profile?"
+"Profile Posting Privacy";"Profile Posting Privacy"
+"Who can post on your profile?";"Who can post on your profile?"
+"Only Me";"Only Me"
+"Only My Friends";"Only My Friends"
+"Only My Networks";"Only My Networks"
+"All Members";"All Members"
+
+"Recent Activity Privacy";"Recent Activity Privacy"
+"Which of the following things do you want to have published about you in the recent activity feed? Note that changing this setting will only affect future news feed items.";"Which of the following things do you want to have published about you in the recent activity feed? Note that changing this setting will only affect future news feed items."
+
+"Create Account";"Create Account"
+"You will use your email address to login.";"You will use your email address to login."
+"Password";"Password"
+"Please enter a valid password.";"Please enter a valid password."
+"Password Again";"Password Again"
+"Please make sure the ""password"" and ""password again"" fields match.";"Please make sure the ""password"" and ""password again"" fields match."
+"Password did not match";"Password did not match"
+
+"Language";"Language"
+
+"Continue";"Continue"
+
+"Current Photo";"Current Photo"
+"Choose New Photo";"Choose New Photo"
+
+"Member Sign In";"Member Sign In"
+"Remember Me";"Remember Me"
+
+"Human Verification";"Human Verification"
+"Please validate that you are not a robot by typing in the letters and numbers in this image:";"Please validate that you are not a robot by typing in the letters and numbers in this image:"
+
+"Login";"Login"
+"Edit My Profile";"Edit My Profile"
+"Personal Info";"Personal Info"
+"Edit My Photo";"Edit My Photo"
+
+"clear";"clear"
+
+"add to list";"add to list"
+"Choose Friend List";"Choose Friend List"
+"New list...";"New list..."
+
+"%1$s has sent you a friend request.";"%1$s has sent you a friend request."
+"or";"or"
+"ignore request";"ignore request"
+
+"Browse Members";"Browse Members"
+"%s member found.";"%s member found.";"%s members found."
+
+"Loading...";"Loading..."
+"View More";"View More"
+"Post something...";"Post something..."
+"Post Something...";"Post Something..."
+"Missing heading";"Missing heading"
+
+"Member Info";"Member Info"
+"Member Type:";"Member Type:"
+
+"This profile is private - only friends of this member may view it.";"This profile is private - only friends of this member may view it."
+"Settings were successfully saved.";"Settings were successfully saved."
+
+"My Networks";"My Networks"
+"You belong to %s network.";"You belong to %s network.";"You belong to %s networks."
+"%s member.";"%s member.";"%s members."
+
+"Leave Network";"Leave Network"
+"To add a new network, begin typing its name below.";"To add a new network, begin typing its name below."
+
+"We now";"We now"
+"yourname";"yourname"
+"Signup complete!";"Signup complete!"
+"Yes, Delete My Account";"Yes, Delete My Account"
+"skip";"skip"
+
+"Edit Thumbnail";"Edit Thumbnail"
+"Apply Changes";"Apply Changes"
+
+"Hi %1$s!";"Hi %1$s!"
+
+"Missing heading";"Missing heading"
+"Lists:";"Lists"
+
+"Mutual Friends";"Mutual Friends"
+"Member Type:";"Member Type:"
+"Profile Views:";"Profile Views:"
+"Friends:";"Friends:"
+"Last Update:";"Last Update:"
+"Joined:";"Joined:"
+
+"%s view";"%s view";"%s views"
+"%s friend";"%s friend";"%s friends"
+
+"You are already signed in.";"You are already signed in."
+"No record of a member with that email was found.";"No record of a member with that email was found."
+"Invalid credentials";"Invalid credentials"
+"Invalid credentials supplied";"Invalid credentials supplied"
+"You are already logged out.";"You are already logged out."
+"Another member has already associated with that facebook account";"Another member has already associated with that facebook account"
+"Login successful";"Login successful"
+"You are now logged out.";"You are now logged out."
+
+"No member specified";"No member specified"
+"No action taken";"No action taken"
+"Invalid data";"Invalid data"
+"An error has occurred.";"An error has occurred."
+"Member unblocked";"Member unblocked"
+"Member blocked";"Member blocked"
+"The uploaded file is not supported or is corrupt.";"The uploaded file is not supported or is corrupt."
+"Set as profile photo";"Set as profile photo"
+"Your changes have been saved.";"Your changes have been saved."
+
+"Missing list/not authorized";"Missing list/not authorized"
+"Already in list";"Already in list"
+"Member added to list.";"Member added to list."
+"Already not in list";"Already not in list"
+"Member removed from list.";"Member removed from list."
+"List deleted";"List deleted"
+"You cannot befriend yourself.";"You cannot befriend yourself."
+"You are already friends with this member.";"You are already friends with this member."
+"Friendship request was not sent because you blocked this member.";"Friendship request was not sent because you blocked this member."
+
+"No action taken";"No action taken"
+"Your friend request has been sent.";"Your friend request has been sent."
+"Your friend request has been cancelled.";"Your friend request has been cancelled."
+
+"You are now friends with %1$s";"You are now friends with %1$s"
+"You ignored a friend request from %1$s";"You ignored a friend request from %1$s"
+"This person has been removed from your friends.";"This person has been removed from your friends."
+
+"Settings saved.";"Settings saved."
+"Settings were successfully saved.";"Settings were successfully saved."
+"Passwords did not match";"Passwords did not match"
+"Old password did not match";"Old password did not match"
+"Network not found";"Network not found"
+
+"Invalid param count";"Invalid param count"
+"Invalid param value";"Invalid param value"
+
+"USER_ADMIN_SIGNUP_STEP_1";"Create Account"
+"USER_ADMIN_SIGNUP_STEP_2";"Create Profile"
+"USER_ADMIN_SIGNUP_STEP_3";"Add Your Photo"
+"USER_ADMIN_SIGNUP_STEP_4";"Invite Your Friends"
+"USER_ADMIN_SETTINGS_FACEBOOK_DESCRIPTION";"You can now integrate SocialEngine to Facebook.  To do so, create an Application through the <a href=""http://www.facebook.com/developers/#!/developers/apps.php"" target=""_blank"">Facebook Developers</a> page."
+
+"Please make sure the ""password"" and ""password again"" fields match.";"Please make sure the ""password"" and ""password again"" fields match."
+
+"I have read and agree to the <a target=""_blank"" href=""%s/help/terms"">terms of service</a>.";"I have read and agree to the <a target=""_blank"" href=""%s/help/terms"">terms of service</a>."
+"Terms of Service";"Terms of Service"
+"You must agree to the terms of service to continue.";"You must agree to the terms of service to continue."
+"This will be the end of your profile link, for example: <br /> <span id=""profile_address"">http://%s</span>";"This will be the end of your profile link, for example: <br /> <span id=""profile_address"">http://%s</span>"
+
+"You are now friends with %s";"You are now friends with %s"
+"You ignored %s's request to follow you";"You ignored %s's request to follow you"
+"You ignored a friend request from %s";"You ignored a friend request from %s"
+"You are now following this member.";"You are now following this member."
+"You are now friends with this member.";"You are now friends with this member."
+
+"Delete User";"Delete User"
+"Are you sure you want to delete this user?";"Are you sure you want to delete this user?"
+"Remove User";"Remove User"
+
+"Edit Member";"Edit Member"
+"You can change the details of this member's account here.";"You can change the details of this member's account here."
+
+"Enabled?";"Enabled?"
+"Verified?";"Verified?"
+"Approved";"Approved"
+"Not Approved";"Not Approved"
+"Search";"Search"
+
+"Friendship Settings";"Friendship Settings"
+"USER_FORM_ADMIN_SETTINGS_FRIENDS_DESCRIPTION";"Facilitating relationships between members is essential to building a successful social network. There are several different types of connections that can exist between members. Use this page to determine how members will associate with each other. Note that although we refer to these relationships as "friendships" in this control panel, you should use a word that best fits with your social network's theme. For example, if you are running a business-oriented social network, you may want to change this word to ""connections."""
+
+"Who Can Become Friends";"Who Can Become Friends"
+"USER_FORM_ADMIN_SETTINGS_ELIGIBLE_DESCRIPTION";"Who can members invite to become their friends? Note that if you select "nobody", none of the other settings on this page will apply."
+
+"All Members";"All Members"
+"Only members in their networks";"Only members in their networks"
+"Nobody";"Nobody"
+"Friendship Direction";"Friendship Direction"
+"USER_FORM_ADMIN_SETTINGS_DIRECTION_DESCRIPTION";"Your social network can allow either one-way or two-way friendships. The default setting is two-way friendships as this is typical for most social networks. One-way friendships mean that when MemberA adds MemberB, MemberB will appear on MemberA's friend list but NOT the reverse."
+"Two-way Friendships";"Two-way Friendships"
+"One-way Friendships";"One-way Friendships"
+
+"Friendship Verification";"Friendship Verification"
+"USER_FORM_ADMIN_SETTINGS_VERIFICATION_DESCRIPTION";"Your social network can allow either verified or unverified friendship requests. The default setting is verified friendship requests as this is typical for most social networks. Unverified friendship requests mean that when MemberA adds MemberB as a friend, MemberA and MemberB will immediately become friends without any confirmation."
+"Verified Friendships";"Verified Friendships"
+"Unverified Friendships";"Unverified Friendships"
+
+"Friend Lists";"Friend Lists"
+"USER_FORM_ADMIN_SETTINGS_LISTS_DESCRIPTION";"Add friendship types to allow your users to specify their varying degrees of friendships. Example friendship types include "Acquaintance", "Co-Worker", "Best Friend", "Significant Other", etc. If you only specify one friendship type or leave this area blank, users will not be prompted to specify a friendship type when connecting to other users."
+"Yes, users can group their friends into lists";"Yes, users can group their friends into lists"
+"No, do not allow friend lists";"No, do not allow friend lists"
+"Specify what privacy options will be available to members in this level.";"Specify what privacy options will be available to members in this level."
+
+"Allow Blocking?";"Allow Blocking?"
+"USER_FORM_ADMIN_SETTINGS_LEVEL_BLOCK_DESCRIPTION";"If set to ""yes"", members can block other members from sending them private messages, requesting their friendship, and viewing their profile. This helps fight spam and network abuse."
+"Search Privacy Options";"Search Privacy Options"
+"USER_FORM_ADMIN_SETTINGS_LEVEL_SEARCH_DESCRIPTION";"If set to ""yes"", members will be able to exclude themselves from search results and the lists of members on the homepage (such as Recent Signups). Otherwise, all members will be included in search results."
+
+"Profile Viewing Options";"Profile Viewing Options"
+"USER_FORM_ADMIN_SETTINGS_LEVEL_AUTHVIEW_DESCRIPTION";"Your members can choose from any of the options checked below when they decide who can see their profile. If you do not check any options, everyone will be allowed to view profiles."
+
+"Profile Commenting Options";"Profile Commenting Options"
+"USER_FORM_ADMIN_SETTINGS_LEVEL_AUTHCOMMENT_DESCRIPTION";"Your members can choose from any of the options checked below when they decide who can post comments on their profile. If you do not check any options, everyone will be allowed to post comments on profiles."
+
+"Allow status messages?";"Allow status messages?"
+"USER_FORM_ADMIN_SETTINGS_LEVEL_STATUS_DESCRIPTION";"If set to ""yes"", members can post their ""status"" on their profile. By updating their status, members can tell others what they are up to, what's on their minds, etc."
+
+"Allow username changes?";"Allow username changes?"
+"USER_FORM_ADMIN_SETTINGS_LEVEL_USERNAME_DESCRIPTION";"If set to ""yes"", members will have the option of changing their username. If usernames are not enabled, this setting has no effect."
+
+"Allow account deletion?";"Allow account deletion?"
+"If set to ""yes"", members will have the option of deleting their accounts.";"If set to ""yes"", members will have the option of deleting their accounts."
+"Step 1: Create Account";"Step 1: Create Account"
+
+"Auto-approve Members";"Auto-approve Members"
+"USER_FORM_ADMIN_SIGNUP_APPROVE_DESCRIPTION";"If you have selected YES, members will automatically be enabled when they signup. If you select NO, you will need to manually enable members through the View Members page. Members that are not enabled cannot login."
+"Yes, enable members upon signup.";"Yes, enable members upon signup."
+"No, do not enable members upon signup.";"No, do not enable members upon signup."
+
+"Yes, make members agree to your terms of service on signup.";"Yes, make members agree to your terms of service on signup."
+"No, members will not be shown a terms of service checkbox on signup.";"No, members will not be shown a terms of service checkbox on signup."
+"USER_FORM_ADMIN_SIGNUP_TERMS_DESCRIPTION";"Require members to agree to your terms of service?  You can modifying your terms of service by editing the _CORE_TERMS_OF_SERVICE language variable in the application/languages/en/core.csv file."
+
+"Generate Random Passwords?";"Generate Random Passwords?"
+"USER_FORM_ADMIN_SIGNUP_RANDOM_DESCRIPTION";"If you have selected YES, a random password will be created for members when they signup. The password will be emailed to them upon the completion of the signup process. This is another method of verifying members' email addresses."
+"Yes, generate random passwords and email to new members.";"Yes, generate random passwords and email to new members."
+"No, let members choose their own passwords.";"No, let members choose their own passwords."
+
+"Verify Email Address?";"Verify Email Address?"
+"USER_FORM_ADMIN_SIGNUP_VERIFYEMAIL_DESCRIPTION";"Force members to verify their email address before they can login? If set to YES, members will be sent an email with a verification link which they must click to activate their account."
+"Yes, verify email addresses.";"Yes, verify email addresses."
+"No, just send members a welcome email";"No, just send members a welcome email"
+"No, do not email new members.";"No, do not email new members."
+
+"USER_FORM_ADMIN_SIGNUP_INVITEONLY_DESCRIPTION";"Do you want to turn off public signups and only allow invited members to signup? If yes, you can choose to have either admins and members invite new members, or just admins. If set to yes, an invite code will be required on the signup page.  Note that if you choose to allow only admins to invite new members then the 'Invite Your Friends' signup step will be disabled, even if you have enabled it elsewhere."
+"Yes, admins and members must invite new members before they can signup.";"Yes, admins and members must invite new members before they can signup."
+"Yes, admins must invite new members before they can signup.";"Yes, admins must invite new members before they can signup."
+"No, disable the invite only feature.";"No, disable the invite only feature."
+
+"Empty";"Empty"
+"USER_FORM_ADMIN_SIGNUP_CHECKEMAIL_DESCRIPTION";"Should each invite code be bound to each invited email address? If set to NO, anyone with a valid invite code can signup regardless of their email address. If set to YES, anyone with a valid invite code that matches an email address that was invited can signup."
+"Yes, check that a member's email address was invited.";"Yes, check that a member's email address was invited."
+"No, anyone with an invite code can signup.";"No, anyone with an invite code can signup."
+"Terms of Service";"Terms of Service"
+
+"Step %d: Create Profile";"Step %d: Create Profile"
+"USER_FORM_ADMIN_SIGNUP_FIELDS_DESCRIPTION";"In the next step of the signup process the member will fill out their profile field information.  Click <a href='%s'>here</a> to edit field settings."
+
+"Step %d: Invite Your Friends";"Step %d: Invite Your Friends"
+"Invite Friends";"Invite Friends"
+"USER_FORM_ADMIN_SIGNUP_FIELDS_ENABLE_DESCRIPTION";"Do you want members to invite their friends during the signup process?  Note that this setting will be ignored if you've chosen to limit invitation privileges to admins only."
+"Yes, include the "Invite Friends" step during signup.";"Yes, include the "Invite Friends" step during signup."
+"No, do not include this step.";"No, do not include this step."
+
+"User Photo Upload";"User Photo Upload"
+"Do you want your users to be able to upload a photo of themselves upon signup?";"Do you want your users to be able to upload a photo of themselves upon signup?"
+"Do you want your users to be able to upload a photo of themselves upon signup?";"Do you want your users to be able to upload a photo of themselves upon signup?"
+"Yes, give users the option to upload a photo upon signup.";"Yes, give users the option to upload a photo upon signup."
+"No, do not allow users to upload a photo upon signup.";"No, do not allow users to upload a photo upon signup."
+
+"Lost Password";"Lost Password"
+"USER_FORM_AUTH_FORGOT_DESCRIPTION";"If you cannot login because you have forgotten your password, please enter your email address in the field below."
+"USER_FORM_AUTH_FACEBOOK_NOACCOUNT";"Your Facebook login was accepted, but no linked account was found. Would you like to <a href=""%s"">create an account</a>?<br>You may also log in to an existing account below, then link your Facebook account in the <a href=""%2$s"">Settings</a> page."
+"Send Email";"Send Email"
+"Reset password?";"Reset password?"
+"Confirm New Password";"Confirm New Password"
+"Reset Password";"Reset Password"
+"Facebook Integration";"Facebook Integration"
+"Integrate with my Facebook";"Integrate with my Facebook"
+
+"USER_VIEWS_SCRIPTS_ADMINMANAGE_INDEX_DESCRIPTION";"The members of your social network are listed here. If you need to search for a specific member, enter your search criteria in the fields below."
+"Are you sure you want to delete the selected user accounts?";"Are you sure you want to delete the selected user accounts?"
+
+"Manage Members";"Manage Members"
+"%s member found";"%s member found";"%s members found"
+"Are you sure you want to delete the selected user accounts?";"Are you sure you want to delete the selected user accounts?"
+"User Level";"User Level"
+
+"Member Settings";"Member Settings"
+"Member Signup Process";"Member Signup Process"
+"USER_VIEWS_SCRIPTS_ADMINSIGNUP_INDEX_DESCRIPTION";"When new members sign up, they are led through a step-by-step process that helps them create an account and fill out their profile. You can customize most aspects of this sign-up process here. On the left, there is a list of steps that make up the sign-up process. You can change the order of these steps by clicking on the arrows and dragging up or down. The first step's position cannot be changed, as this is where new members create their accounts."
+
+"USER_VIEWS_SCRIPTS_AUTH_FORGOT_DESCRIPTION";"You have been sent an email with instructions how to reset your password. If the email does not arrive within several minutes, be sure to check your spam or junk mail folders."
+"Your password has been reset. Click %s to sign-in.";"Your password has been reset. Click %s to sign-in."
+"OK, thanks!";"OK, thanks!"
+"Your account has been verified.  Please click %s to login, or wait to be redirected.";"Your account has been verified.  Please click %s to login, or wait to be redirected."
+"Linking your Facebook account will give you access to use your Facebook account to log in.";"Linking your Facebook account will give you access to use your Facebook account to log in."
+"Linking your Facebook account will give you access to use your Facebook account to log in and publish to your Facebook account.";"Linking your Facebook account will give you access to use your Facebook account to log in and publish to your Facebook account."
+# widget: core.menu-mini
+"Updates";"Updates"
+"Admin";"Admin"
+"My Profile";"My Profile"
+"Messages";"Messages"
+"Settings";"Settings"
+"Sign Out";"Sign Out"
+"Sign In";"Sign In"
+"Sign Up";"Sign Up"
+
+# widget: core.menu-footer
+"Copyright &copy;%s";"Copyright &copy;%s"
+"Privacy";"Privacy"
+"Terms of Service";"Terms of Service"
+"Contact";"Contact"
+
+# widget: core.statstics
+"Network Stats";"Network Stats"
+
+# widget: user.list-online
+"%s Members Online";"%s Member Online";"%s Members Online"
+
+# widget: user.list-popular
+"Popular Members";"Popular Members"
+
+# widget: user.list-signups
+"Newest Members";"Newest Members"
+
+# widget: user.home-links
+"View Recent Updates";"View Recent Updates"
+"View My Profile";"View My Profile"
+"Edit My Profile";"Edit My Profile"
+"Browse Members";"Browse Members"
+
+# widget: activity.feed
+"What's New";"What's New"
+
+# widgets: (various user profile)
+"Info";"Info"
+
+# fields (default)
+"Profile Type";"Profile Type"
+"Regular Member";"Regular Member"
+"Personal Information";"Personal Information"
+"First Name";"First Name"
+"Last Name";"Last Name"
+"Gender";"Gender"
+"Male";"Male"
+"Female";"Female"
+"Birthday";"Birthday"
+"Birthdate";"Birthdate"
+"Contact Information";"Contact Information"
+"Website";"Website"
+"Facebook";"Facebook"
+"Twitter";"Twitter"
+"Personal Details";"Personal Details"
+"AIM";"AIM"
+"About Me";"About Me"
+"Interests";"Interests"
+"Age";"Age"
+
+# admin (misc)
+"Username";"Username"
+"Email";"Email"
+"Level";"Level"
+"Superadmins";"Super Admins"
+"Signup Date";"Signup Date"
+
+"Step %d:  Add Your Photo";"Step %d:  Add Your Photo"
+"Step %d: Create Profile";"Step %d: Create Profile"
+
+"Yes, include the ""Invite Friends"" step during signup.";"Yes, include the ""Invite Friends"" step during signup."
+"_ACTIVITY_ACTIONTYPE_TAGGED";"Tagged"
+
+"You are now friends with this member.";"You are now friends with this member."
+"You are now following this member.";"You are now following this member."
+
+"Welcome! A verification message has been sent to your email address with instructions on how to activate your account. Once you have clicked the link provided in the email and we have approved your account, you will be able to sign in.";"Welcome! A verification message has been sent to your email address with instructions on how to activate your account. Once you have clicked the link provided in the email and we have approved your account, you will be able to sign in."
+"Welcome! A verification message has been sent to your email address with instructions for activating your account. Once you have activated your account, you will be able to sign in.";"Welcome! A verification message has been sent to your email address with instructions for activating your account. Once you have activated your account, you will be able to sign in."
+"Welcome! A verification message has been sent to your email address with instructions for activating your account. Once you have activated your account, you will be able to sign in.";"Welcome! A verification message has been sent to your email address with instructions for activating your account. Once you have activated your account, you will be able to sign in."
+
+"ITEM_TYPE_USER";"Members"
+
+"Select the city closest to you that shares your same timezone.";"Select the city closest to you that shares your same timezone."
+"Display Name";"Display Name"
+"login";"login"
+
+"Login or Signup";"Login or Signup"
+"Online Users";"Online Users"
+"Profile Fields";"Profile Fields"
+"Profile Friends";"Profile Friends"
+"Profile Info";"Profile Info"
+"Profile Mutual Friends";"Profile Mutual Friends"
+"Profile Options";"Profile Options"
+"Profile Status";"Profile Status"
+"Profile Tags";"Profile Tags"
+"Quick Links";"Quick Links"
+"Recent Signups";"Recent Signups"
+"User Photo";"User Photo"
+
+"Remove from Friends";"Remove from Friends"
+"Approve Selected";"Approve Selected"
+
+"Member Home Quick Links Menu";"Member Home Quick Links Menu"
+"Member Profile Options Menu";"Member Profile Options Menu"
+"Member Edit Profile Navigation Menu";"Member Edit Profile Navigation Menu"
+"Member Settings Navigation Menu";"Member Settings Navigation Menu"
+
+"This account still requires either email verification or admin approval.";"This account still requires either email verification or admin approval."
+"Click <a href=""%s"">here</a> to resend the email.";"Click <a href=""%s"">here</a> to resend the email."
+
+
+# notification types
+"{item:$subject} has posted on your {item:$object:profile}.";"{item:$subject} has posted on your {item:$object:profile}."
+"You and {item:$subject} are now friends.";"You and {item:$subject} are now friends."
+"{item:$subject} has requested to be your friend.";"{item:$subject} has requested to be your friend."
+"{item:$subject} has requested to follow you.";"{item:$subject} has requested to follow you."
+"You are now following {item:$subject}.";"You are now following {item:$subject}."
+"{item:$subject} is now following you.";"{item:$subject} is now following you."
+"{item:$subject} tagged you in a {item:$object:$label}.";"{item:$subject} tagged you in a {item:$object:$label}."
+
+
+# mail templates
+
+# notify_friend_accepted
+"_EMAIL_NOTIFY_FRIEND_ACCEPTED_TITLE";"Friend Approved"
+"_EMAIL_NOTIFY_FRIEND_ACCEPTED_DESCRIPTION";"This is the email that gets sent to a member when their friendship request have been approved."
+"_EMAIL_NOTIFY_FRIEND_ACCEPTED_SUBJECT";"[sender_title] has approved you as a friend."
+"_EMAIL_NOTIFY_FRIEND_ACCEPTED_BODY";"[header]
+
+[sender_title] has approved you as a friend. Please click the following link to login:
+
+http://[host][object_link]
+
+[footer]"
+
+# notify_friend_follow
+"_EMAIL_NOTIFY_FRIEND_FOLLOW_TITLE";"Friend Follow"
+"_EMAIL_NOTIFY_FRIEND_FOLLOW_DESCRIPTION";"This is the email that gets sent to a member when another member starts following them."
+"_EMAIL_NOTIFY_FRIEND_FOLLOW_SUBJECT";"[sender_title] has started following you."
+"_EMAIL_NOTIFY_FRIEND_FOLLOW_BODY";"[header]
+
+[sender_title] has started following you. Please click the following link to view the member:
+
+http://[host][object_link]
+
+[footer]"
+
+# notify_friend_follow_accepted
+"_EMAIL_NOTIFY_FRIEND_FOLLOW_ACCEPTED_TITLE";"Follow Approved"
+"_EMAIL_NOTIFY_FRIEND_FOLLOW_ACCEPTED_DESCRIPTION";"This is the email that gets sent to a member when their follow request have been approved."
+"_EMAIL_NOTIFY_FRIEND_FOLLOW_ACCEPTED_SUBJECT";"[sender_title] has approved your request to follow them."
+"_EMAIL_NOTIFY_FRIEND_FOLLOW_ACCEPTED_BODY";"[header]
+
+[sender_title] has approved you to follow them. Please click the following link to login:
+
+http://[host][object_link]
+
+[footer]"
+
+# notify_friend_follow_request
+"_EMAIL_NOTIFY_FRIEND_FOLLOW_REQUEST_TITLE";"Follow Request"
+"_EMAIL_NOTIFY_FRIEND_FOLLOW_REQUEST_DESCRIPTION";"This is the email that gets sent to a member when they are requested to be followed by another member."
+"_EMAIL_NOTIFY_FRIEND_FOLLOW_REQUEST_SUBJECT";"[sender_title] has requested to follow you."
+"_EMAIL_NOTIFY_FRIEND_FOLLOW_REQUEST_BODY";"[header]
+
+[sender_title] has requested to follow you. Please click the following link to login and confirm this request:
+
+http://[host][object_link]
+
+[footer]"
+
+# notify_friend_request
+"_EMAIL_NOTIFY_FRIEND_REQUEST_TITLE";"Friend Request"
+"_EMAIL_NOTIFY_FRIEND_REQUEST_DESCRIPTION";"This is the email that gets sent to a member when they are requested to be a friend by another member."
+"_EMAIL_NOTIFY_FRIEND_REQUEST_SUBJECT";"[sender_title] has added you as a friend."
+"_EMAIL_NOTIFY_FRIEND_REQUEST_BODY";"[header]
+
+[sender_title] has added you as a friend. Please click the following link to login and confirm this friendship request:
+
+http://[host][object_link]
+
+[footer]"
+
+# notify_post_user
+"_EMAIL_NOTIFY_POST_USER_TITLE";"Post on Profile"
+"_EMAIL_NOTIFY_POST_USER_DESCRIPTION";"This email is sent to the member when someone has posted something on the member's profile."
+"_EMAIL_NOTIFY_POST_USER_SUBJECT";"[sender_title] has posted on your profile"
+"_EMAIL_NOTIFY_POST_USER_BODY";"[header]
+
+[sender_title] has posted something on your profile. Please click the following link to view it.
+
+http://[host][object_link]
+
+[footer]"
+
+# notify_tagged
+"_EMAIL_NOTIFY_TAGGED_TITLE";"Tagged"
+"_EMAIL_NOTIFY_TAGGED_DESCRIPTION";"This email is sent to the member when someone tags them."
+"_EMAIL_NOTIFY_TAGGED_SUBJECT";"You have Been Tagged"
+"_EMAIL_NOTIFY_TAGGED_BODY";"[header]
+
+You have been tagged in a [object_type_name]. Please click the following link to view it:
+
+http://[host][object_link]
+
+[footer]"

@@ -1,0 +1,448 @@
+{
+  "type": "module",
+  "name": "messages",
+  "version": "4.0.5",
+  "revision": "7562",
+  "path": "application\/modules\/Messages",
+  "repository": null,
+  "date": "Fri, 08 Oct 2010 23:13:44 +0000",
+  "title": "Messages",
+  "description": "Messages",
+  "developer": null,
+  "authors": [
+    "Webligo Developments"
+  ],
+  "changeLog": null,
+  "meta": {
+    "date": "Fri, 08 Oct 2010 23:13:44 +0000",
+    "title": "Messages",
+    "description": "Messages",
+    "developer": null,
+    "authors": [
+      "Webligo Developments"
+    ],
+    "changeLog": null
+  },
+  "actions": [
+    "install",
+    "upgrade",
+    "refresh"
+  ],
+  "callback": {
+    "path": null,
+    "class": "Engine_Package_Installer_Module",
+    "priority": 100
+  },
+  "dependencies": {
+    "module-core": {
+      "type": "module",
+      "name": "core",
+      "guid": "module-core",
+      "minVersion": "4.0.5",
+      "maxVersion": null,
+      "excludeExcept": null
+    }
+  },
+  "tests": [
+    
+  ],
+  "permissions": [
+    
+  ],
+  "structure": {
+    "application\/modules\/Messages": {
+      "type": "directory",
+      "path": "application\/modules\/Messages",
+      "structure": [
+        {
+          "path": "settings",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "settings\/changelog.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 2515,
+          "sha1": "45bacdb00375e565d6b56ca18bd67262b75ff8a2"
+        },
+        {
+          "path": "settings\/my.sql",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 4736,
+          "sha1": "b1cf56592ce744488b90bcca4f9137fa4b1bd819"
+        },
+        {
+          "path": "settings\/manifest.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 2448,
+          "sha1": "1db733926f2884412a6b19982c122ba746043788"
+        },
+        {
+          "path": "settings\/my-upgrade-4.0.3-4.0.4.sql",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 1663,
+          "sha1": "d3da32376bf27bf7853498fd3c9f4ea15517af52"
+        },
+        {
+          "path": "settings\/my-upgrade-4.0.1-4.0.2.sql",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 279,
+          "sha1": "2537a542ecefa9c1f91c50355a7554db4dec0a73"
+        },
+        {
+          "path": "settings\/my-upgrade-4.0.2-4.0.3.sql",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 160,
+          "sha1": "dfc4989748122538511fa3c463b748d7dc841fef"
+        },
+        {
+          "path": "Api",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "Api\/Core.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 11111,
+          "sha1": "f31ded966cdd4b375b2fe725ea9d7e7f4f133ccb"
+        },
+        {
+          "path": "Plugin",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "Plugin\/Menus.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 1751,
+          "sha1": "fbeb4d364353f6b3ec9448f188bb9845bccbc250"
+        },
+        {
+          "path": "Model",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "Model\/Exception.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 515,
+          "sha1": "92a17bc67ffd50fdcfb4795fed85fd1a3942c082"
+        },
+        {
+          "path": "Model\/DbTable",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "Model\/DbTable\/Recipients.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 578,
+          "sha1": "ea1142e8850f0e9f39de616081d8b56ffc14d376"
+        },
+        {
+          "path": "Model\/DbTable\/Conversations.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 5363,
+          "sha1": "614149ce15a30fa7a3e0d299588998f0e77e3dc8"
+        },
+        {
+          "path": "Model\/DbTable\/Messages.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 572,
+          "sha1": "6572c4774e40c0a7cf9e69194f6f5dae722e11c6"
+        },
+        {
+          "path": "Model\/Recipient.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 520,
+          "sha1": "5d08e51794a0b4a546a4d43f4de64ecb63689374"
+        },
+        {
+          "path": "Model\/Conversation.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 6158,
+          "sha1": "326176db60aaf573d6bcf619de6547b857345e64"
+        },
+        {
+          "path": "Model\/Message.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 1266,
+          "sha1": "52b1c0ac73f3de1f0e6538db752c941f81484f66"
+        },
+        {
+          "path": "controllers",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "controllers\/AdminSettingsController.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 1241,
+          "sha1": "9ff920bd14677f7d519914a6f80e020826e90637"
+        },
+        {
+          "path": "controllers\/MessagesController.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 13217,
+          "sha1": "a7316c8c34d3a901bbe6e7faca79c6bf7a563c62"
+        },
+        {
+          "path": "externals",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "externals\/images",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "externals\/images\/attachment.png",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 391,
+          "sha1": "fa205706241698058266262c2b420d9c4336ba27"
+        },
+        {
+          "path": "externals\/images\/send.png",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 3305,
+          "sha1": "d66e7354fcfe133d9d00f86757170a1cccc733d2"
+        },
+        {
+          "path": "externals\/.htaccess",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 147,
+          "sha1": "9f1638a8edbe1c5d28789e017fb35b2f2465f01e"
+        },
+        {
+          "path": "externals\/styles",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "externals\/styles\/main.css",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 7288,
+          "sha1": "d29914a1da30759f44cb78b98d04c55b006389ea"
+        },
+        {
+          "path": "Form",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "Form\/Admin",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "Form\/Admin\/Level.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 1904,
+          "sha1": "1c34fb8a9b041b56c639d793b8a9edc10e94e336"
+        },
+        {
+          "path": "Form\/Reply.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 1195,
+          "sha1": "53e77ae72092d9d6844ba386c410a2d76a7cda6d"
+        },
+        {
+          "path": "Form\/Compose.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 2009,
+          "sha1": "84fd8584a9f5a064897a29d02789b2a219eb7e8c"
+        },
+        {
+          "path": "views",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "views\/scripts",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "views\/scripts\/admin-settings",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "views\/scripts\/admin-settings\/level.tpl",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 546,
+          "sha1": "eb6b536daf2dc9c74ee71a2492f2b5ec5ce60b65"
+        },
+        {
+          "path": "views\/scripts\/messages",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "views\/scripts\/messages\/delete.tpl",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 1700,
+          "sha1": "26b2b6dd7eabe24ae411bac976b90854725ce39a"
+        },
+        {
+          "path": "views\/scripts\/messages\/success.tpl",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 373,
+          "sha1": "a5103927a1aaf476b9d3d0ef0dc29464f8115136"
+        },
+        {
+          "path": "views\/scripts\/messages\/inbox.tpl",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 4201,
+          "sha1": "e2e5ba682f91ddc9b7b9b6888968f43a68806a5e"
+        },
+        {
+          "path": "views\/scripts\/messages\/view.tpl",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 5029,
+          "sha1": "405f61758beffe546a200224ea1b8c8f17f7e5a2"
+        },
+        {
+          "path": "views\/scripts\/messages\/compose.tpl",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 6272,
+          "sha1": "720891a71ea212e0851d58b49aebec4586fffb1d"
+        },
+        {
+          "path": "views\/scripts\/messages\/outbox.tpl",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 4052,
+          "sha1": "b423dabd48d5af45bd0f7c489453d009202f6881"
+        },
+        {
+          "path": "Bootstrap.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 534,
+          "sha1": "ff04e641e4e3439be174daff6f540aff8dc65345"
+        }
+      ]
+    },
+    "application\/languages\/en\/messages.csv": {
+      "type": "file",
+      "path": "application\/languages\/en\/messages.csv",
+      "structure": {
+        "path": "messages.csv",
+        "dir": false,
+        "file": true,
+        "perms": "0644",
+        "size": 2883,
+        "sha1": "6d54e3b0e265724554747d9449c8a9db7a657d4e"
+      }
+    }
+  }
+}

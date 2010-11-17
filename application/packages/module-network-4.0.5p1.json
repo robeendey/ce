@@ -1,0 +1,488 @@
+{
+  "type": "module",
+  "name": "network",
+  "version": "4.0.5p1",
+  "revision": "7615",
+  "path": "application\/modules\/Network",
+  "repository": null,
+  "date": "Fri, 08 Oct 2010 23:13:44 +0000",
+  "title": "Networks",
+  "description": "Networks",
+  "developer": null,
+  "authors": [
+    "Webligo Developments"
+  ],
+  "changeLog": null,
+  "meta": {
+    "date": "Fri, 08 Oct 2010 23:13:44 +0000",
+    "title": "Networks",
+    "description": "Networks",
+    "developer": null,
+    "authors": [
+      "Webligo Developments"
+    ],
+    "changeLog": null
+  },
+  "actions": [
+    "install",
+    "upgrade",
+    "refresh"
+  ],
+  "callback": {
+    "path": null,
+    "class": "Engine_Package_Installer_Module",
+    "priority": 4000
+  },
+  "dependencies": {
+    "module-core": {
+      "type": "module",
+      "name": "core",
+      "guid": "module-core",
+      "minVersion": "4.0.5",
+      "maxVersion": null,
+      "excludeExcept": null
+    },
+    "module-fields": {
+      "type": "module",
+      "name": "fields",
+      "guid": "module-fields",
+      "minVersion": "4.0.5",
+      "maxVersion": null,
+      "excludeExcept": null
+    }
+  },
+  "tests": [
+    
+  ],
+  "permissions": [
+    
+  ],
+  "structure": {
+    "application\/modules\/Network": {
+      "type": "directory",
+      "path": "application\/modules\/Network",
+      "structure": [
+        {
+          "path": "settings",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "settings\/changelog.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 2040,
+          "sha1": "945f6bd3a766252a5ede69e32eb36b020e367a0a"
+        },
+        {
+          "path": "settings\/my-upgrade-4.0.5-4.0.5p1.sql",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 63,
+          "sha1": "1537615926c99806e93eeba2684ee45c0582abfd"
+        },
+        {
+          "path": "settings\/my.sql",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 3451,
+          "sha1": "28024db247203839fedac86aacf11eb9bf5f4482"
+        },
+        {
+          "path": "settings\/manifest.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 2220,
+          "sha1": "16138f9e8330c95d8c08b50fc1b7f0b78b5bccf6"
+        },
+        {
+          "path": "settings\/my-upgrade-4.0.3-4.0.4.sql",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 244,
+          "sha1": "d115c0a8ea0ef32699517b49e85d43963d31b60e"
+        },
+        {
+          "path": "Api",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "Api\/Core.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 695,
+          "sha1": "5ee4b1c0c15e40876666e7f1a9b0a17a0dfff8ed"
+        },
+        {
+          "path": "Plugin",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "Plugin\/Task",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "Plugin\/Task\/Maintenance",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "Plugin\/Task\/Maintenance\/RebuildMembership.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 2853,
+          "sha1": "fc67620e01d994c7590abac5dfab7770940ed0f1"
+        },
+        {
+          "path": "Plugin\/User.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 1310,
+          "sha1": "c0ca355b36223e4d72712fde7a53a461f9e2c80b"
+        },
+        {
+          "path": "Plugin\/Menus.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 490,
+          "sha1": "f66aa6ca48425e87193459d143809e632ef376de"
+        },
+        {
+          "path": "Model",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "Model\/DbTable",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "Model\/DbTable\/Networks.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 950,
+          "sha1": "0b6b1efd622e16a1af68970b19e16a17a8cee6ff"
+        },
+        {
+          "path": "Model\/DbTable\/Membership.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 771,
+          "sha1": "36a4aff6e7fff64ebd317d91dc95cf41fa6ffb6c"
+        },
+        {
+          "path": "Model\/Network.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 6119,
+          "sha1": "9ccadba74f7d30d9935c3a786acd7cb28fd9c59c"
+        },
+        {
+          "path": "controllers",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "controllers\/AdminManageController.php",
+          "dir": false,
+          "file": true,
+          "perms": "0755",
+          "size": 6003,
+          "sha1": "c6a390fa9b347b675936a9a46977804ccc322013"
+        },
+        {
+          "path": "controllers\/NetworkController.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 1704,
+          "sha1": "5af2bdfbbb0a06efbc6f6ccc1896b638a6b2aaa0"
+        },
+        {
+          "path": "externals",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "externals\/images",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "externals\/images\/admin",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "externals\/images\/admin\/add.png",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 940,
+          "sha1": "f758695229b2edd273e3692a10fda583feeced63"
+        },
+        {
+          "path": "externals\/images\/types",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "externals\/images\/types\/network.png",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 923,
+          "sha1": "46267432bf24381ef65f7c8086148da2aa23aacc"
+        },
+        {
+          "path": "externals\/images\/add.png",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 940,
+          "sha1": "f758695229b2edd273e3692a10fda583feeced63"
+        },
+        {
+          "path": "externals\/images\/nophoto_network_thumb_icon.png",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 2219,
+          "sha1": "1b98a69276c7bb183a1bd70dbc594d01768769f5"
+        },
+        {
+          "path": "externals\/.htaccess",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 147,
+          "sha1": "9f1638a8edbe1c5d28789e017fb35b2f2465f01e"
+        },
+        {
+          "path": "externals\/styles",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "externals\/styles\/main.css",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 1039,
+          "sha1": "d33421eff93449e1e6bf5e737da2015a89e1e6b3"
+        },
+        {
+          "path": "Form",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "Form\/Admin",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "Form\/Admin\/Delete.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 1177,
+          "sha1": "5b6dc523059dcc38176b433844994830264b0a30"
+        },
+        {
+          "path": "Form\/Admin\/Filter.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 811,
+          "sha1": "727c9929517cc446ef6ac1a58fdd56a2038b0ea7"
+        },
+        {
+          "path": "Form\/Admin\/Network.php",
+          "dir": false,
+          "file": true,
+          "perms": "0755",
+          "size": 6267,
+          "sha1": "bfe33e07f0bbe3bf1629ed4d2f70f757bc7f07ab"
+        },
+        {
+          "path": "views",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "views\/helpers",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "views\/helpers\/NetworkField.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 2101,
+          "sha1": "1648504c607a9178805c0b426c87743d8a1ea16f"
+        },
+        {
+          "path": "views\/scripts",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "views\/scripts\/_formAdminJs.tpl",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 2549,
+          "sha1": "fe31d0e050925d6a4206a616dd08f42925eaf29a"
+        },
+        {
+          "path": "views\/scripts\/admin-manage",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "views\/scripts\/admin-manage\/delete.tpl",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 676,
+          "sha1": "c469b6df3a1b36ff52325a49caac6c4b3b5ec869"
+        },
+        {
+          "path": "views\/scripts\/admin-manage\/index.tpl",
+          "dir": false,
+          "file": true,
+          "perms": "0755",
+          "size": 4360,
+          "sha1": "b1cdeb86760242a7b70e58cc657cb058a965c06e"
+        },
+        {
+          "path": "views\/scripts\/admin-manage\/edit.tpl",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 455,
+          "sha1": "5523fa42cd55e844a376c21c73b9cd4ec5a49cc9"
+        },
+        {
+          "path": "views\/scripts\/admin-manage\/search.tpl",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 712,
+          "sha1": "68619f8fa364fce3a92016d6b65866773aa88ee4"
+        },
+        {
+          "path": "views\/scripts\/admin-manage\/create.tpl",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 457,
+          "sha1": "06ade230b81932b46db888e32999318b701f53a3"
+        },
+        {
+          "path": "views\/scripts\/admin-manage\/deleteselected.tpl",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 1441,
+          "sha1": "18993444d8ce021949579d00a5ac988e8d98dedd"
+        },
+        {
+          "path": "Bootstrap.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 552,
+          "sha1": "557e66110381ee0770988bd2c7b73591daa3904e"
+        }
+      ]
+    },
+    "application\/languages\/en\/network.csv": {
+      "type": "file",
+      "path": "application\/languages\/en\/network.csv",
+      "structure": {
+        "path": "network.csv",
+        "dir": false,
+        "file": true,
+        "perms": "0644",
+        "size": 2873,
+        "sha1": "f93a7064d42777e14ae3a6b88a0261a11bfd94d3"
+      }
+    }
+  }
+}

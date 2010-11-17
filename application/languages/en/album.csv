@@ -1,0 +1,218 @@
+"Album";"Album"
+"Albums";"Albums"
+
+"Photo Albums";"Photo Albums"
+"photo";"photo";"photos"
+"Wall Photos";"Wall Photos"
+"View All Albums";"View All Albums"
+
+"ADMIN_ACTIVITY_TYPE_ALBUM_PHOTO_NEW";"When a new photo is uploaded."
+"ADMIN_ACTIVITY_TYPE_LIKE_ALBUM";"When someone likes one of my albums."
+"ADMIN_ACTIVITY_TYPE_LIKE_ALBUM_PHOTO";"When someone likes one of my photos."
+"ADMIN_ACTIVITY_TYPE_LIKED_ALBUM";"When someone comments on an album I liked."
+"ADMIN_ACTIVITY_TYPE_LIKED_ALBUM_PHOTO";"When someone comments on a photo I liked."
+"ADMIN_ACTIVITY_TYPE_COMMENTED_ALBUM";"When someone comments on an album I commented on."
+"ADMIN_ACTIVITY_TYPE_COMMENTED_ALBUM_PHOTO";"When someone comments on a photo I commented on."
+"ADMIN_ACTIVITY_TYPE_COMMENT_ALBUM";"When someone comments on one of my albums."
+"ADMIN_ACTIVITY_TYPE_COMMENT_ALBUM_PHOTO";"When someone comments on one of my photos."
+
+"_ACTIVITY_ACTIONTYPE_ALBUM_PHOTO_NEW";"New photo albums"
+"_ACTIVITY_ACTIONTYPE_COMMENT_ALBUM";"Comments on your photo albums"
+"_ACTIVITY_ACTIONTYPE_COMMENT_ALBUM_PHOTO";"Comments on your photos"
+
+"ACTIVITY_TYPE_COMMENTED_ALBUM";"When someone comments on an album I commented on."
+"ACTIVITY_TYPE_COMMENTED_ALBUM_PHOTO";"When someone comments on a photo I commented on."
+"ACTIVITY_TYPE_COMMENT_ALBUM";"When someone comments on one of my albums."
+"ACTIVITY_TYPE_COMMENT_ALBUM_PHOTO";"When someone comments on one of my photos."
+"ACTIVITY_TYPE_LIKED_ALBUM";"When someone comments on an album I liked."
+"ACTIVITY_TYPE_LIKED_ALBUM_PHOTO";"When someone comments on a photo I liked."
+"ACTIVITY_TYPE_LIKE_ALBUM";"When someone likes one of my albums."
+"ACTIVITY_TYPE_LIKE_ALBUM_PHOTO";"When someone likes one of my photos."
+"ACTIVITY_TYPE_ALBUM_PHOTO_NEW";"When a new photo is uploaded."
+
+"Browse albums by:";"Browse albums by:"
+"Most Recent";"Most Recent"
+"Most Viewed";"Most Viewed"
+
+"Add New Photos";"Add New Photos"
+
+"Nobody has created an album yet.";"Nobody has created an album yet."
+"Be the first to %1$screate%2$s one!";"Be the first to %1$screate%2$s one!"
+
+"%s photo";"%s photo";"%s photos"
+
+"By";"By"
+
+"Manage Photos";"Manage Photos"
+"Edit Settings";"Edit Settings"
+"Delete Album";"Delete Album"
+
+"Add More Photos";"Add More Photos"
+"Manage Photos";"Manage Photos"
+"Edit Settings";"Edit Settings"
+
+"You do not have any albums yet.";"You do not have any albums yet."
+
+"ADD TAG";"ADD TAG"
+"Add Tag";"Add Tag"
+"Type a tag or select a name from the list.";"Type a tag or select a name from the list."
+
+"Prev";"Prev"
+"Next";"Next"
+
+"Tagged:";"Tagged:"
+"Added";"Added"
+
+"Share";"Share"
+"Report";"Report"
+"Make Profile Photo";"Make Profile Photo"
+
+"Photo %1$s of %2$s in %3$s";"Photo %1$s of %2$s in %3$s"
+"Photo";"Photo"
+"of";"of"
+"in";"in"
+
+"%1$s's Album: %2$s";"%1$s's Album: %2$s"
+
+"Are you sure you want to delete this album?";"Are you sure you want to delete this album?"
+"Cancel";"Cancel"
+
+"Edit Album Settings";"Edit Album Settings"
+"Album Name";"Album Name"
+"Please specify an album title";"Please specify an album title"
+"Album Description";"Album Description"
+"Show this album in search results";"Show this album in search results"
+
+"Everyone";"Everyone"
+"Friends of Friends";"Friends of Friends"
+"Friends Only";"Friends Only"
+"Just Me";"Just Me"
+
+"Privacy";"Privacy"
+"Who may see this album?";"Who may see this album?"
+"Comment Privacy";"Comment Privacy"
+"Who may post comments on this album?";"Who may post comments on this album?"
+
+"Tagging";"Tagging"
+"Who may tag photos in this album?";"Who may tag photos in this album?"
+
+"Save Album";"Save Album"
+"Album Cover";"Album Cover"
+"Save Changes";"Save Changes"
+
+"Title";"Title"
+"Caption";"Caption"
+"Delete Photo";"Delete Photo"
+
+"Add New Photos";"Add New Photos"
+"Choose photos on your computer to add to this album.";"Choose photos on your computer to add to this album."
+"Save Photos";"Save Photos"
+"Choose Album";"Choose Album"
+"Create A New Album";"Create A New Album"
+"Everyone's Albums";"Everyone's Albums"
+"My Albums";"My Albums"
+"Album Title";"Album Title"
+
+"or";"or"
+"cancel";"cancel"
+
+"Unable to upload photo. Please click cancel and try again";"Unable to upload photo. Please click cancel and try again"
+"Add Photo";"Add Photo"
+
+"Global Settings";"Global Settings"
+"These settings affect all members in your community.";"These settings affect all members in your community."
+
+"Thumbnails Per Page";"Thumbnails Per Page"
+"How many albums will be shown per page?";"How many albums will be shown per page?"
+"View Albums";"View Albums"
+
+"ALBUM_FORM_ADMIN_LEVEL_DESCRIPTION";"These settings are applied on a per member level basis. Start by selecting the member level you want to modify, then adjust the settings for that level below."
+
+"Allow Viewing of Photo Albums?";"Allow Viewing of Photo Albums?"
+"ALBUM_FORM_ADMIN_LEVEL_VIEW_DESCRIPTION";"Do you want to let users view photo albums? If set to no, some other settings on this page may not apply."
+"Yes, allow members to view all albums, even private ones.";"Yes, allow members to view all albums, even private ones."
+"Yes, allow viewing and subscription of photo albums.";"Yes, allow viewing and subscription of photo albums."
+"No, do not allow photo albums to be viewed.";"No, do not allow photo albums to be viewed."
+
+"Allow Creation of Photo Albums?";"Allow Creation of Photo Albums?"
+"ALBUM_FORM_ADMIN_LEVEL_CREATE_DESCRIPTION";"Do you want to let users create photo albums? If set to no, some other settings on this page may not apply. This is useful if you want users to be able to view photo albums and manage their subscriptions, but only want certain levels to be able to create photo albums."
+"Yes, allow creation of photo albums.";"Yes, allow creation of photo albums."
+"No, do not allow photo album to be created.";"No, do not allow photo album to be created."
+
+"Allow Editing of Photo Albums?";"Allow Editing of Photo Albums?"
+"Do you want to let members of this level edit photo albums?";"Do you want to let members of this level edit photo albums?"
+
+"No, do not allow photo album to be edited.";"No, do not allow photo album to be edited."
+"Yes, allow members to edit their own albums.";"Yes, allow members to edit their own albums."
+"Yes, allow members to edit all albums.";"Yes, allow members to edit all albums."
+
+"Album Privacy";"Album Privacy"
+"ALBUM_FORM_ADMIN_LEVEL_AUTHVIEW_DESCRIPTION";"Your users can choose from any of the options checked below when they decide who can see their albums. These options appear on your users' ""Create Album"" and ""Edit Album"" pages. If you do not check any options, everyone will be allowed to view albums."
+
+"Album Comment Options";"Album Comment Options"
+"ALBUM_FORM_ADMIN_LEVEL_AUTHCOMMENT_DESCRIPTION";"Your users can choose from any of the options checked below when they decide who can post comments on their albums and photos. If you do not check any options, everyone will be allowed to post comments on albums."
+
+"Album Tag Options";"Album Tag Options"
+"ALBUM_FORM_ADMIN_LEVEL_AUTHTAG_DESCRIPTION";"Your users can choose from any of the options checked below when they decide who can post tags on their albums and photos. If you do not check any options, everyone will be allowed to post tags on albums."
+
+"Are you sure you want to delete the selected photo albums?";"Are you sure you want to delete the selected photo albums?"
+"ALBUM_VIEWS_SCRIPTS_ADMINMANAGE_INDEX_DESCRIPTION";"This page lists all of the photo albums your users have posted. You can use this page to monitor these albums and delete offensive material if necessary. Entering criteria into the filter fields will help you find specific album entries. Leaving the filter fields blank will show all the album entries on your social network."
+
+"view";"view"
+
+"Invalid method";"Invalid method"
+"Invalid Upload";"Invalid Upload"
+"Invalid data";"Invalid data"
+"No file";"No file"
+"An error occurred.";"An error occurred."
+"Invalid request method";"Invalid request method"
+"Max file size limit exceeded (probably).";"Max file size limit exceeded (probably)."
+"Invalid data";"Invalid data"
+"Album doesn't exists or not authorized to delete";"Album doesn't exists or not authorized to delete"
+"Album has been deleted.";"Album has been deleted."
+"Photo saved successfully";"Photo saved successfully"
+
+"Select File";"Select File"
+"This plugin gives your users their own personal photo albums. These albums can be configured to store photos, videos, or any other file types you choose to allow. Users can interact by commenting on each others photos and viewing their friends' recent updates.";"This plugin gives your users their own personal photo albums. These albums can be configured to store photos, videos, or any other file types you choose to allow. Users can interact by commenting on each others photos and viewing their friends' recent updates."
+"Get started by %1$screating%2$s your first album!";"Get started by %1$screating%2$s your first album!"
+
+"ALBUM_VIEW_SCRIPTS_ADMINSETTINGS_CATEGORIES_DESCRIPTION";"If you want to allow your users to categorize their photo albums, create the categories below. This feature is useful if you want to list all your users' photo albums that If you have no categories, your users will not be given the option of assigning a category."
+"Edit Category";"Edit Category"
+"Category Name";"Category Name"
+"Add Category";"Add Category"
+"Add New Category";"Add New Category"
+"Your changes have been saved.";"Your changes have been saved."
+"Delete Album Category?";"Delete Album Category?"
+"Are you sure that you want to delete this category? It will not be recoverable after being deleted.";"Are you sure that you want to delete this category? It will not be recoverable after being deleted."
+"Category";"Category"
+"Search Albums:";"Search Albums:"
+"Album Categories";"Album Categories"
+
+"Attached Image";"Attached Image"
+
+"Photo Albums Plugin";"Photo Albums Plugin"
+"No, do not allow photo albums to be edited.";"No, do not allow photo albums to be edited."
+"Allow Deletion of Photo Albums?";"Allow Deletion of Photo Albums?"
+"Do you want to let members of this level delete photo albums?";"Do you want to let members of this level delete photo albums?"
+"Yes, allow members to delete all photo albums.";"Yes, allow members to delete all photo albums."
+"Yes, allow members to delete their own photo albums.";"Yes, allow members to delete their own photo albums."
+"No, do not allow members to delete their photo albums.";"No, do not allow members to delete their photo albums."
+"Allow Commenting on Photo Albums?";"Allow Commenting on Photo Albums?"
+"Do you want to let members of this level comment on photo albums?";"Do you want to let members of this level comment on photo albums?"
+"Yes, allow members to comment on all photo albums, including private ones.";"Yes, allow members to comment on all photo albums, including private ones."
+"Yes, allow members to comment on albums.";"Yes, allow members to comment on albums."
+"No, do not allow members to comment on photo albums.";"No, do not allow members to comment on photo albums."
+
+"Profile Albums";"Profile Albums"
+
+"Album Main Navigation Menu";"Album Main Navigation Menu"
+"Album Quick Navigation Menu";"Album Quick Navigation Menu"
+
+# action types
+"{item:$subject} added {var:$count} photo(s) to the album {item:$object}:";"{item:$subject} added {var:$count} photo(s) to the album {item:$object}:"
+"{item:$subject} commented on {item:$owner}'s {item:$object:album}: {body:$body}";"{item:$subject} commented on {item:$owner}'s {item:$object:album}: {body:$body}"
+"{item:$subject} commented on {item:$owner}'s {item:$object:photo}: {body:$body}";"{item:$subject} commented on {item:$owner}'s {item:$object:photo}: {body:$body}"
+
+# item types
+"ITEM_TYPE_ALBUM";"Albums"
+"ITEM_TYPE_ALBUM_PHOTO";"Album Photos"

@@ -1,0 +1,360 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+  <!-- $Id: README.html 7539 2010-10-04 04:41:38Z john $ -->
+  <head>
+    <title>Getting Started</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <style type="text/css">
+      body
+      {
+        font-family: tahoma;
+        font-size: 10pt;
+        margin: 0px;
+        padding: 0px;
+        color: #555;
+        margin-bottom: 40px;
+        line-height: 1.4em;
+      }
+      p
+      {
+        line-height: 1.4em;
+      }
+      a
+      {
+        color: #5BA1CD;
+      }
+      h1
+      {
+        font-size: 13pt;
+      }
+      h2
+      {
+        font-size: 13pt;
+      }
+      h3
+      {
+        font-size: 10pt;
+      }
+      h1,
+      h2
+      {
+        -moz-border-radius: 4px;
+        -webkit-border-radius: 4px;
+        background: #E9F4FA;
+        padding: 5px 8px 5px 8px;
+        color: #555;
+      }
+      ul.toc
+      {
+        padding: 4px;
+        margin-left: 0;
+      }
+      ul.toc li
+      {
+        list-style-type: none;
+      }
+      ul.toc li.heading2
+      {
+        margin-left: 1em;
+      }
+      ul.toc li.heading3
+      {
+        margin-left: 2em;
+      }
+      a.wiki-anchor
+      {
+        display: none;
+        margin-left: 6px;
+        text-decoration: none;
+      }
+      a.wiki-anchor:hover
+      {
+        color: #aaa !important;
+        text-decoration: none;
+      }
+      h1:hover a.wiki-anchor,
+      h2:hover a.wiki-anchor,
+      h3:hover a.wiki-anchor
+      {
+        display: inline;
+        color: #ddd;
+      }
+      code
+      {
+        font-family: "Courier New", courier, serif;
+      }
+
+      .logo > img
+      {
+        display: block;
+        margin: 40px auto 0px auto;
+      }
+      .content
+      {
+        width: 800px;
+        margin: 0px auto 0px auto;
+      }
+      .indent
+      {
+        padding-left: 10px;
+      }
+      .copyright
+      {
+        padding-left: 10px;
+        margin-top: 50px;
+      }
+    </style>
+  </head>
+  <body>
+
+    <div class="logo">
+      <img src="application/modules/Core/externals/images/admin_logo.png" alt="SocialEngine 4" title="SocialEngine 4" />
+    </div>
+
+    <div class="content">
+
+
+
+      <h1 id="Getting-Started">Getting Started<a href="#Getting-Started" class="wiki-anchor">&para;</a></h1>
+
+      <p>This documentation describes how to get started with SocialEngine 4.</p>
+
+      <br />
+
+      <h2 id="Requirements">Requirements<a href="#Requirements" class="wiki-anchor">&para;</a></h2>
+      <div class="indent">
+        <h3 id="Minimum">Minimum<a href="#Minimum" class="wiki-anchor">&para;</a></h3>
+        <ul>
+          <li>Apache-based shared web server</li>
+          <li>Apache mod_rewrite (only for Apache v2.0.29 or below)</li>
+          <li>MySQL 4.1</li>
+          <li>PHP 5.12</li>
+          <li>PHP safe mode: OFF</li>
+          <li>PHP extensions: gd2, curl</li>
+          <li>PHP memory limit: 32M+</li>
+          <li>Sendmail</li>
+        </ul>
+        <h3 id="Recommended">Recommended<a href="#Recommended" class="wiki-anchor">&para;</a></h3>
+        <ul>
+          <li>Apache-based VPS or dedicated web server</li>
+          <li>PHP 5.26 or newer</li>
+          <li>MySQL 5.0 or newer</li>
+          <li>crontab</li>
+        </ul>
+        <h3 id="Optional">Optional<a href="#Optional" class="wiki-anchor">&para;</a></h3>
+        <ul>
+          <li>memcached (speed boost)</li>
+          <li>PHP extensions: apc (speed boost), bcmath (speed boost), json (speed boost), mbstring (required for non-English support)</li>
+          <li>Apache mod_rewrite (for SEO-friendly URLs)</li>
+        </ul>
+        <h3 id="Optional-Requirements-for-Video-Plugin">Optional Requirements for Video Plugin<a href="#Optional-Requirements-for-Video-Plugin" class="wiki-anchor">&para;</a></h3>
+        <ul>
+          <li>ffmpeg (for encoding video) - without ffmpeg, users can still post YouTube and Vimeo videos.</li>
+        </ul>
+        <h3 id="Optional-Requirements-for-Chat-Plugin">Optional Requirements for Chat Plugin<a href="#Optional-Requirements-for-Chat-Plugin" class="wiki-anchor">&para;</a></h3>
+        <ul>
+          <li>VPS or dedicated server - budget/shared servers may not handle a high volume of users chatting at the same time</li>
+        </ul>
+        <h3 id="How-do-I-check-if-my-host-is-compatible-with-SocialEngine4">How do I check if my host is compatible with SocialEngine4?<a href="#How-do-I-check-if-my-host-is-compatible-with-SocialEngine4" class="wiki-anchor">&para;</a></h3>
+        <p>Most modern hosting providers are compatible with SocialEngine4 but if in doubt you can contact them directly and refer them to this page.</p>
+      </div>
+
+      <br />
+
+
+      <h2 id="Installation-and-Upgrade-Instructions">Installing SocialEngine<a href="#Installation-and-Upgrade-Instructions" class="wiki-anchor">&para;</a></h2>
+      <div class="indent">
+
+        <h3 id="Installation-Instructions">Installation Instructions<a href="#Installation-Instructions" class="wiki-anchor">&para;</a></h3>
+
+
+        <ol>
+          <li>In order to install SocialEngine4, you need four pieces of information. If you don't have any of these, please contact your hosting provider and ask them for assistance.
+            <ul>
+              <li>MySQL Server Address (often "localhost", "127.0.0.1", or the server IP address)</li>
+              <li>MySQL Database Name</li>
+              <li>MySQL Username</li>
+              <li>MySQL Password</li>
+            </ul>
+          </li>
+          <li>Download the SocialEngine4 ZIP file and extract it to your computer.</li>
+          <li>Upload all of the files to your hosting account (it can exist either in the root HTML directory, or a subdirectory).
+            <ul>
+              <li>If you are using a Unix server (or Unix variant, like Linux, OS X, FreeBSD, etc.) you must set the permissions (CHMOD) of the following directories and files to 777:
+                <ul>
+                  <li><code>/install/config/</code> (recursively; all directories and files contained within this must also be changed)</li>
+                  <li><code>/temporary/</code> (recursively; all directories and files contained within this must also be changed)</li>
+                  <li><code>/public/</code> (recursively; all directories and files contained within this must also be changed)</li>
+                  <li><code>/application/themes/</code> (recursively; all directories and files contained within this should also be changed)</li>
+                  <li><code>/application/packages/</code> (recursively; all directories and files contained within this should also be changed)</li>
+                  <li><code>/application/languages/</code> (recursively; all directories and files contained within this must also be changed)</li>
+                  <li><code>/application/settings/</code> (recursively; all files contained within this must also be changed)</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>Access the SocialEngine installer by accessing your website; the installer wizard will automatically begin.</li>
+          <li>Upload all the files to a hosting account.  These files should be uploaded to a web-accessible directory.</li>
+        </ol>
+
+
+        <h3 id="Plugin-Installation">Plugin Installation<a href="#Plugin-Installation" class="wiki-anchor">&para;</a></h3>
+
+
+        <p>Plugin installation will function very similarly to the SocialEngine upgrade process.</p>
+        <ol>
+          <li>Download each of the plugin TAR files you wish to install.</li>
+          <li>Log into your SocialEngine 4 site and access the Admin area.</li>
+          <li>Access the <em>Manage</em> menu and click on <em>Packages &amp; Plugins</em>.</li>
+          <li>Click on the <em>Install New Packages</em> link, then on the <em>Add Packages</em> link.</li>
+          <li>Select the TAR files you download in step 1</li>
+          <li>Follow the step-by-step wizard to complete the installation of the plugin files.</li>
+        </ol>
+
+        <h3 id="Signing-In">Signing In<a href="#Signing-In" class="wiki-anchor">&para;</a></h3>
+
+        <p>Member and Admin accounts are unified in SocialEngine, so you as the site owner can use the same username and password to access the website.  A user account with super-admin privileges is created for you during the installation process.  Additional user accounts can be created via the signup process, and specific privileges can be assigned by you, the admin, after the account has been created.</p>
+
+
+      </div>
+
+
+      <br />
+
+      <h2 id="Upgrading-Instructions">Upgrading SocialEngine<a href="#Upgrading-Instructions" class="wiki-anchor">&para;</a></h2>
+      <div class="indent">
+        <p>As of SocialEngine 4 (Release Candidate 1) we now support upgrades via our package manager.</p>
+
+        <h4 id="Upgrading-from-Beta3">Upgrading from SE4 Beta3<a href="#Upgrading-from-Beta3" class="wiki-anchor">&para;</a></h4>
+        <ol>
+          <li>Download the Package Manager from the <a href="http://www.socialengine.net/clients/" target="_blank">SocialEngine Clients</a> area.</li>
+          <li>Decompress the upgrade files, then upload them to the root of your SocialEngine 4 website.  You'll notice the directories will be similar; overwrite any existing files with the uploaded ones.</li>
+          <li>Change the permission of <code>/application/packages/</code> to (CHMOD) 777, as well as all the files within that directory.</li>
+          <li>Log into the Admin area of your SocialEngine 4 website, then click <em>Manage > Plugins</em>, or on the <em>Upgrade to RC1</em> link.</li>
+          <li>Follow the step-by-step wizard to upgrade the core components of SocialEngine 4.</li>
+          <li>If you have any plugins installed, please see the instructions below on upgrading plugins.</li>
+        </ol>
+
+        <h4 id="Upgrading-SocialEngine">Upgrading SocialEngine 4<a href="#Upgrading-SocialEngine" class="wiki-anchor">&para;</a></h4>
+        <ol>
+          <li>Download the latest Core available from your <a href="http://www.socialengine.net/clients/" target="_blank">SocialEngine Clients area</a>.</li>
+          <li>Log into your SocialEngine 4 site and access the Admin area.</li>
+          <li>Access the <em>Manage</em> menu and click on <em>Packages &amp; Plugins</em>.</li>
+          <li>Click on the <em>Install New Packages</em> link, then on the <em>Add Packages</em> link.</li>
+          <li>Select the Core file you download in step 1.  After the file is uploaded, a <em>Continue</em> button will appear at the bototm of the page.
+            <br /><small>Note: if you have trouble uploading the files using the uploader tool, you can also upload the TAR file manually over FTP to the <code>/temporary/package/archive/</code> directory.</small></li>
+          <li>Follow the step-by-step wizard to complete the installation of the Core.</li>
+        </ol>
+
+
+      </div>
+
+
+      <br />
+
+      <h2 id="Developers-Guide">Developers Guide<a href="#Developers-Guide" class="wiki-anchor">&para;</a></h2>
+      <div class="indent">
+        <h3 id="Tools">Tools<a href="#Tools" class="wiki-anchor">&para;</a></h3>
+
+
+        While the following are not necessary for modifying SocialEngine 4, we recommend the following tools for your development environment.
+        <ul>
+          <li>Netbeans IDE ( <a class="external" href="http://netbeans.org/features/php/">http://netbeans.org/features/php/</a> )</li>
+          <li>Set SocialEngine4 to be in "Development" mode (see <code>Admin &gt; Settings &gt; General Settings</code>).  This prevents the use of caching, while also enables error messages to be displayed to the front-end interface.</li>
+        </ul>
+
+
+        <h3 id="Structure">Structure<a href="#Structure" class="wiki-anchor">&para;</a></h3>
+
+
+        <p>SocialEngine4 is based on the Zend Framework, and is built in an MVC (Model-View-Controller) structure.  It is also built with modularity in mind.</p>
+
+
+        The directory structure is as follows:
+        <ul>
+          <li><code>/application/</code><br />
+            This directory contains the majority of SocialEngine files.
+            <ul>
+              <li><code>/application/languages/</code><br />
+                See the section below on <a href="#Languages" class="wiki-page">Languages</a></li>
+              <li><code>/application/libraries/</code><br />
+                Third party PHP libraries are typically contained in here.  For example, Zend Framework and CSS Scaffold both live in this directory, as does our extensions to Zend Framework (called Engine).</li>
+              <li><code>/application/modules/</code><br />
+                See the section below on <a href="#Plugins" class="wiki-page">Plugins</a></li>
+              <li><code>/application/settings/</code><br />
+                These files contain configurations that typically will not be modified after your initial installation.  Things like your database username/password, cache settings, mail settings, etc are stored in here.</li>
+              <li><code>/application/themes/</code><br />
+                See the section below on <a href="#Themes" class="wiki-page">Themes</a></li>
+            </ul>
+          </li>
+          <li><code>/development/</code><br />
+            Various tools that we have used during development are contained in this directory.  You can mostly ignore this hodge-podge of files.</li>
+          <li><code>/externals/</code><br />
+            Most of our images, javascript libraries, and flash applications that are used globally are retained in this directory.  These should contain trusted (i.e. not user-uploaded) content.</li>
+          <li><code>/public/</code><br />
+            User-uploaded content is always contained in here.  This directory should be both web-accessible and writable by the web server (chmod 777 recursively).</li>
+          <li><code>/temporary/</code><br />
+            Various temporary files, such as cache files, logs, session files, etc are stored in this directory.  It should not be web-accessible, but must be writable by the web server (chmod 777 recursively).  We provide an ".htaccess" file to block access to this directory from the web browser, but if you are using a web server other than Apache, we recommend you configure the web server accordingly to prevent view access.</li>
+        </ul>
+
+
+        <h3 id="Plugins">Plugins<a href="#Plugins" class="wiki-anchor">&para;</a></h3>
+
+
+        <p><code>/application/modules/*</code></p>
+
+
+        <p>Most of SocialEngine's functionality resides here.  Each module contains within it the MVC structure, where the "Model", "views", and "controllers" directories correspond to the MVC paths.  Please see our included skeleton module "HelloWorld" for more information on this.</p>
+
+
+        <h3 id="Languages">Languages<a href="#Languages" class="wiki-anchor">&para;</a></h3>
+
+
+        <p><code>/application/languages/*</code></p>
+
+
+        <p>Each language gets its own two-letter (or 5-character with localization support) directory in this sub-directory.  The language files are in multiple CSV files, though they are concatenated into one large CSV file (in no particular order, except that "custom.csv" is the last).  One important point to keep in mind is that duplicate keys override previously defined keys.  So, for example, if you have a key "Turtles are fast!" in both core.csv and custom.csv, since custom.csv is loaded last, the value set to "Turtles run fast!" in custom.csv will be the one used.</p>
+
+
+        The CSV files have several requirements:
+        <ul>
+          <li>Each line has at minimum two columns, and can contain more for different pluralizations.</li>
+          <li>Each column is separated using a semi-colon, and is enclosed in "double-quotes" if it contains any sort of white-space (we recommend wrapping your values in quotes in all cases just to be safe).</li>
+          <li>The first column is always going to be the <code>key</code>.  This is the English word or phrase that exists in the view script, controller, or other portion of the code.</li>
+          <li>The second column is always going to be the default translation of the <code>key</code>.</li>
+          <li>If there is an subsequent columns after the second column, it will be for various pluralizations of the <code>key</code>.</li>
+          <li>Untranslated variables can be contained within a translation <code>key</code> and translations.  Variable replacement is done using the PHP function <a href="http://php.net/sprintf" class="external">sprintf</a> , and so the same rules apply.  When only one variable is being injected into a translation, typically "%s" is the placeholder for that variable.  If multiple variables are being injected, you can use "%1$s", "%2$s", "%3$s" etc to put the variables in their proper positions for your translation.</li>
+          <li>If your translation has double-quotes in it, you must use two double-quotes.  So as an example, the sentence 'He said "wow".' would appear in a CSV files as:<br />
+            <code>"He said ""wow"".";"He said ""wow""."</code></li>
+        </ul>
+
+
+        <h3 id="Themes">Themes<a href="#Themes" class="wiki-anchor">&para;</a></h3>
+
+
+        <p><code>/application/themes/*</code></p>
+
+
+        <p>We utilize a framework called "CSS Scaffold" which makes editing your community's theme a simple process. Each theme is stored in its own directory within <code>/applications/themes/</code>. A default theme is automatically loaded when you first install SocialEngine. Each theme contains two files: constants.css and theme.css.</p>
+
+
+        <p>At the top of constants.css, you'll find a series of global CSS settings (called "constants"). You can edit these to adjust the colors, fonts, and other styles throughout your entire community.</p>
+
+
+        <p>The other file, theme.css, contains more specific styles that are used throughout your community. Many of these styles inherit values from constants.css. If you want to override any of the default styles on your community, you can edit them here. If they aren't present in theme.css (and are being loaded from outside the theme itself), you can override them by adding new styles to the bottom of theme.css.</p>
+
+
+        <p>More information about how to work with CSS Scaffold is available here:
+          <a class="external" target="_blank" href="http://github.com/sunny/csscaffold">http://github.com/sunny/csscaffold</a>  or
+          <a class="external" target="_blank" href="http://www.google.com/search?q=csscaffold">Google for CSScaffold</a> for videos and tutorials.
+        </p>
+      </div>
+
+      <div class="copyright">
+        ©2010 Webligo Developments
+      </div>
+      
+    </div>
+
+  </body>
+</html>

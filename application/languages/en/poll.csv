@@ -1,0 +1,138 @@
+"Poll";"Poll"
+# Navigation
+"Polls";"Polls"
+"poll";"poll";"polls"
+"poll vote";"poll vote";"poll votes"
+"Browse Polls";"Browse Polls"
+"My Polls";"My Polls"
+"Create New Poll";"Create New Poll"
+"Search Polls:";"Search Polls:"
+"Browse By:";"Browse By:"
+"Most Recent";"Most Recent"
+"Most Popular";"Most Popular"
+"Create New Poll";"Create New Poll"
+"There are no polls yet";"There are no polls yet"
+"Why don't you %1$screate one%2$s";"Why don't you %1$screate one%2$s"
+"Posted by %s";"Posted by %s"
+"%s view";"%s view";"%s views"
+"%s vote";"%s vote";"%s votes"
+"%s's Polls";"%s's Polls"
+"Show Questions";"Show Questions"
+"Show Results";"Show Results"
+"Add another option";"Add another option"
+"Who may see this poll?";"Who may see this poll?"
+"Who may post comments on this poll?";"Who may post comments on this poll?"
+"View All Polls";"View All Polls"
+
+"Posted";"Posted"
+"Poll Title";"Poll Title"
+"Description";"Description"
+"Possible Answers";"Possible Answers"
+"Create Poll";"Create Poll"
+"Create your poll below, then click ""Create Poll"" to start your poll.";"Create your poll below, then click ""Create Poll"" to start your poll."
+
+"You have already voted on this poll, and are not permitted to change your vote.";"You have already voted on this poll, and are not permitted to change your vote."
+"You must provide at least two possible answers.";"You must provide at least two possible answers."
+"The poll you are looking for does not exist or has been deleted.";"The poll you are looking for does not exist or has been deleted."
+
+"ADMIN_ACTIVITY_TYPE_POLL_NEW";"When a new poll is created."
+"ADMIN_ACTIVITY_TYPE_LIKE_POLL";"When someone likes one of my polls."
+"ADMIN_ACTIVITY_TYPE_LIKED_POLL";"When someone comments on a poll I liked."
+"ADMIN_ACTIVITY_TYPE_COMMENT_POLL";"When someone comments on one of my polls."
+"ADMIN_ACTIVITY_TYPE_COMMENTED_POLL";"When someone comments on a poll I commented on."
+
+"_ACTIVITY_ACTIONTYPE_POLL_NEW";"New polls"
+"_ACTIVITY_ACTIONTYPE_COMMENT_POLL";"Comments on your polls"
+
+"ACTIVITY_TYPE_POLL_NEW";"When a new poll is created."
+"ACTIVITY_TYPE_LIKE_POLL";"When someone likes one of my polls."
+"ACTIVITY_TYPE_LIKED_POLL";"When someone comments on a poll I liked."
+"ACTIVITY_TYPE_COMMENT_POLL";"When someone comments on one of my polls."
+"ACTIVITY_TYPE_COMMENTED_POLL";"When someone comments on a poll I commented on."
+
+"POLL_FORM_ADMIN_LEVEL_DESCRIPTION";"These settings are applied on a per member level basis. Start by selecting the member level you want to modify, then adjust the settings for that level below."
+
+"Allow Viewing of Polls";"Allow Viewing of Polls"
+"POLL_FORM_ADMIN_LEVEL_VIEW_DESCRIPTION";"Do you want to let members view polls? If set to no, some other settings on this page may not apply."
+"No, do not allow polls to be viewed.";"No, do not allow polls to be viewed."
+"Yes, allow viewing of polls.";"Yes, allow viewing of polls."
+"Yes, allow viewing of all polls, even private ones.";"Yes, allow viewing of all polls, even private ones."
+
+"Allow Deletion of Polls?";"Allow Deletion of Polls?"
+"POLL_FORM_ADMIN_LEVEL_DELETE_DESCRIPTION";"Do you want to let members delete polls? If set to no, some other settings on this page may not apply."
+"No, do not allow members to delete their polls.";"No, do not allow members to delete their polls."
+"Yes, allow members to delete their own polls.";"Yes, allow members to delete their own polls."
+"Yes, allow members to delete all polls.";"Yes, allow members to delete all polls."
+
+"Allow Polls?";"Allow Polls?"
+"Do you want to allow members to create polls?";"Do you want to allow members to create polls?"
+"No, do not allow this member level to create polls";"No, do not allow this member level to create polls"
+"Yes, allow this member level to create polls";"Yes, allow this member level to create polls"
+
+"Poll Privacy";"Poll Privacy"
+"POLL_FORM_ADMIN_LEVEL_AUTHVIEW_DESCRIPTION";"Your members can choose from any of the options checked below when they decide who can see their poll. If you do not check any options, everyone will be allowed to view polls."
+
+"Poll Comment Options";"Poll Comment Options"
+"POLL_FORM_ADMIN_LEVEL_AUTHCOMMENT_DESCRIPTION";"Your members can choose from any of the options checked below when they decide who can post comments on their poll. If you do not check any options, everyone will be allowed to post comments on the poll."
+
+"These settings affect all members in your community.";"These settings affect all members in your community."
+
+"Public Permissions";"Public Permissions"
+"POLL_FORM_ADMIN_GLOBAL_POLLPUBLIC_DESCRIPTION";"Select whether or not you want to let the public (visitors that are not logged-in) to view the following sections of your social network. In some cases (such as Profiles, Blogs, and Albums), if you have given them the option, your users will be able to make their pages private even though you have made them publically viewable here. For more permissions settings, please visit the General Settings page."
+"Yes, the public can view polls unless they are made private.";"Yes, the public can view polls unless they are made private."
+"No, the public cannot view polls.";"No, the public cannot view polls."
+
+"Polls Per Page";"Polls Per Page"
+"How many polls will be shown per page? (Enter a number between 1 and 999)";"How many polls will be shown per page? (Enter a number between 1 and 999)"
+
+"Delete Poll?";"Delete Poll?"
+"Are you sure that you want to delete this poll? It will not be recoverable after being deleted.";"Are you sure that you want to delete this poll? It will not be recoverable after being deleted."
+
+"POLL_VIEWS_SCRIPTS_ADMINMANAGE_INDEX_DESCRIPTION";"This page lists all of the polls your users have posted. You can use this page to monitor these polls and delete offensive material if necessary."
+"There are no polls created yet.";"There are no polls created yet."
+
+"Your poll has been deleted.";"Your poll has been deleted."
+"A maximum of %s options are permitted.";"A maximum of %s options are permitted."
+"Are you sure that you want to delete this Poll? This action cannot be undone.";"Are you sure that you want to delete this Poll? This action cannot be undone."
+"Change Vote?";"Change Vote?"
+"Do you want to permit your members to change their vote?";"Do you want to permit your members to change their vote?"
+"Yes, members can change their vote.";"Yes, members can change their vote."
+"No, members cannot change their vote.";"No, members cannot change their vote."
+
+"There are no polls yet.";"There are no polls yet."
+"Show this poll in search results";"Show this poll in search results"
+
+"Polls Plugin";"Polls Plugin"
+"Manage Polls";"Manage Polls"
+"Maximum Options";"Maximum Options"
+"How many possible poll answers do you want to permit?";"How many possible poll answers do you want to permit?"
+"Allow Viewing of Polls?";"Allow Viewing of Polls?"
+"Allow Editing of Polls?";"Allow Editing of Polls?"
+"Do you want to let members edit polls? If set to no, some other settings on this page may not apply.";"Do you want to let members edit polls? If set to no, some other settings on this page may not apply."
+"Yes, allow members to edit their own polls.";"Yes, allow members to edit their own polls."
+"No, do not allow members to edit their polls.";"No, do not allow members to edit their polls."
+"Allow Commenting on Polls?";"Allow Commenting on Polls?"
+"Do you want to let members of this level comment on polls?";"Do you want to let members of this level comment on polls?"
+"Yes, allow members to comment on polls.";"Yes, allow members to comment on polls."
+"No, do not allow members to comment on polls.";"No, do not allow members to comment on polls."
+"Do you want to let members of this level comment on polls?";"Do you want to let members of this level comment on polls?"
+
+"Profile Polls";"Profile Polls"
+"Delete Poll";"Delete Poll"
+"Edit Privacy";"Edit Privacy"
+
+"Everyone's Polls";"Everyone's Polls"
+"Only My Friends' Polls";"Only My Friends' Polls"
+"All Polls";"All Polls"
+"Only Open Polls";"Only Open Polls"
+"Only Closed Polls";"Only Closed Polls"
+"%1$s vote";"%1$s vote";"%1$s votes"
+
+
+# action types
+"{item:$subject} commented on {item:$owner}'s {item:$object:poll}.";"{item:$subject} commented on {item:$owner}'s {item:$object:poll}."
+"{item:$subject} created a new poll:";"{item:$subject} created a new poll:"
+
+
+# item types
+"ITEM_TYPE_POLL";"Polls"

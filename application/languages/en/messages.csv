@@ -1,0 +1,60 @@
+"Inbox";"Inbox"
+"Sent Messages";"Sent Messages"
+"Compose Message";"Compose Message"
+"My Messages";"My Messages"
+
+"Create your new message with the form below. Your message can be addressed to up to 10 recipients.";"Create your new message with the form below. Your message can be addressed to up to 10 recipients."
+"Subject";"Subject"
+"Message";"Message"
+"Send Message";"Send Message"
+"Send Reply";"Send Reply"
+"Your message has been sent successfully.";"Your message has been sent successfully."
+"The selected messages have been deleted.";"The selected messages have been deleted."
+"Delete Message(s)?";"Delete Message(s)?"
+"Are you sure that you want to delete the selected message(s)? This action cannot be undone.";"Are you sure that you want to delete the selected message(s)? This action cannot be undone."
+"Delete";"Delete"
+"or";"or"
+"cancel";"cancel"
+"Conversation with a deleted member.";"Conversation with a deleted member."
+"You have %1$s new message, %2$s total";"You have %1$s new message, %2$s total";"You have %1$s new messages, %2$s total"
+"Tip: %1$sClick here%2$s to send your first message!";"Tip: %1$sClick here%2$s to send your first message!"
+"You have 0 sent messages.";"You have 0 sent messages."
+"You have %s sent message total";"You have %s sent message total";"You have %s sent messages total"
+"<em>(No Subject)</em>";"<em>(No Subject)</em>"
+"(No Subject)";"(No Subject)"
+"Between %1$s and %2$s";"Between %1$s and %2$s"
+"You";"You"
+"Start typing...";"Start typing..."
+
+"Message Settings";"Message Settings"
+"Specify what messaging options will be available to members in this level.";"Specify what messaging options will be available to members in this level."
+"Who can users send private messages to?";"Who can users send private messages to?"
+"If you don't want to allow private messaging, de-select all options below.";"If you don't want to allow private messaging, de-select all options below."
+"All Registered Members";"All Registered Members"
+"Users in the same network";"Users in the same network"
+"Friends";"Friends"
+"Edit Level";"Edit Level"
+
+"ACTIVITY_TYPE_MESSAGE_NEW";"When I receive a message."
+"Delete Selected";"Delete Selected"
+
+# notification types
+"{item:$subject} has sent you a {item:$object:message}.";"{item:$subject} has sent you a {item:$object:message}."
+
+# mail templates
+
+# notify_message_new
+"_EMAIL_NOTIFY_MESSAGE_NEW_TITLE";"New Message"
+"_EMAIL_NOTIFY_MESSAGE_NEW_DESCRIPTION";"This is the email that gets sent to a member when they receive a new message."
+"_EMAIL_NOTIFY_MESSAGE_NEW_SUBJECT";"You have received a new message from [sender_title]."
+"_EMAIL_NOTIFY_MESSAGE_NEW_BODY";"[header]
+
+You have just received a new message from [sender_title]:
+
+[object_description]
+
+Please click the following link to login and view it:
+
+http://[host][object_link]
+
+[footer]"

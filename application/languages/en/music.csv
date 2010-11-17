@@ -1,0 +1,157 @@
+"Music";"Music"
+"playlist";"playlist";"playlists"
+"song";"song";"songs"
+"View All Playlists";"View All Playlists"
+"_MUSIC_UNTITLED_PLAYLIST";"Untitled Playlist"
+"_MUSIC_DEFAULT_PLAYLIST";"Profile Playlist"
+"_MUSIC_MESSAGE_PLAYLIST";"Message Playlist"
+"_MUSIC_UPLOAD_DESCRIPTION";"Click ""Add Music"" to select one or more songs from your computer. After you have selected the songs, they will begin to upload right away. When your upload is finished, click the button below the song list to save them to your playlist."
+
+"ADMIN_ACTIVITY_TYPE_COMMENT_PLAYLIST";"When someone comments on a playlist that I create."
+"ADMIN_ACTIVITY_TYPE_MUSIC_PLAYLIST_NEW";"When a new music playlist is created."
+
+"_ACTIVITY_ACTIONTYPE_COMMENT_PLAYLIST";"Comments on your playlists"
+"_ACTIVITY_ACTIONTYPE_MUSIC_PLAYLIST_NEW";"New playlists"
+
+"ACTIVITY_TYPE_MUSIC_PLAYLIST_NEW";"When a new music playlist is created."
+"ACTIVITY_TYPE_COMMENT_PLAYLIST";"When someone comments on a playlist that I create."
+
+"Browse Music";"Browse Music"
+"My Music";"My Music"
+"Upload Music";"Upload Music"
+"Search Music";"Search Music"
+"Edit Playlist";"Edit Playlist"
+"Delete Playlist";"Delete Playlist"
+"Play on my Profile";"Play on my Profile"
+"Disable Profile Playlist";"Disable Profile Playlist"
+"Search Music:";"Search Music:"
+
+"Add New Songs";"Add New Songs"
+"Add Music";"Add Music"
+"Choose music from your computer to add to this playlist.";"Choose music from your computer to add to this playlist."
+"Playlist Name";"Playlist Name"
+"Playlist Description";"Playlist Description"
+"Show this playlist in search results";"Show this playlist in search results"
+"Who may see this playlist?";"Who may see this playlist?"
+"Who may post comments on this playlist?";"Who may post comments on this playlist?"
+"Playlist Artwork";"Playlist Artwork"
+"Save Music to Playlist";"Save Music to Playlist"
+"Click ""Browse..."" to select the MP3 file you would like to upload.";"Click ""Browse..."" to select the MP3 file you would like to upload."
+"Edit Playlist: ";"Edit Playlist: "
+"Upload Music:";"Upload Music:"
+
+"Choose Playlist";"Choose Playlist"
+"Add Song To Playlist";"Add Song To Playlist"
+"Add to my Playlist";"Add to my Playlist"
+"Create New Playlist";"Create New Playlist"
+"Add Song";"Add Song"
+
+"This playlist does not belong to you.";"This playlist does not belong to you."
+"This playlist already has this song.";"This playlist already has this song."
+
+"This playlist is private.";"This playlist is private."
+"There are no songs uploaded yet.";"There are no songs uploaded yet."
+"Why don't you add some?";"Why don't you add some?"
+"Pop-out Player";"Pop-out Player"
+"%s play";"%s play";"%s plays"
+
+"There is no music uploaded yet.";"There is no music uploaded yet."
+"What is the title of this song?";"What is the title of this song?"
+"The selected playlist has been deleted.";"The selected playlist has been deleted."
+"Delete Playlist?";"Delete Playlist?"
+"Are you sure that you want to delete the selected playlist? This action cannot be undone.";"Are you sure that you want to delete the selected playlist? This action cannot be undone."
+"Return to page";"Return to page"
+"Go to my playlist";"Go to my playlist"
+"Remove";"Remove"
+"rename";"rename"
+"Music by %s";"%s's Music"
+
+"Loading song, please wait...";"Loading song, please wait..."
+"Unable to upload music. Please click cancel and try again";"Unable to upload music. Please click cancel and try again"
+"Song got lost in the mail. Please click cancel and try again";"Song got lost in the mail. Please click cancel and try again"
+
+"Your changes have been saved.";"Your changes have been saved."
+"Not allowed to edit this playlist";"Not allowed to edit this playlist"
+"Max file size limit exceeded or session expired.";"Max file size limit exceeded or session expired."
+"Invalid request method";"Invalid request method"
+"No file";"No file"
+"Invalid Upload or file too large";"Invalid Upload or file too large"
+"Invalid file type";"Invalid file type"
+"Upload failed by database query";"Upload failed by database query"
+"Unknown database error";"Unknown database error"
+"Not a valid song";"Not a valid song"
+"Invalid playlist";"Invalid playlist"
+"You must be logged in.";"You must be logged in."
+"You are not allowed to upload songs.";"You are not allowed to upload songs."
+"Unable to create default playlist in database";"Unable to create default playlist in database"
+
+"These settings affect all members in your community.";"These settings affect all members in your community."
+"Public Permissions";"Public Permissions"
+"MUSIC_FORM_ADMIN_GLOBAL_MUSICPUBLIC_DESCRIPTION";"Select whether or not you want to let the public (visitors that are not logged-in) to view the following sections of your social network. In some cases (such as Profiles, Blogs, and Albums), if you have given them the option, your users will be able to make their pages private even though you have made them publically viewable here. For more permissions settings, please visit the General Settings page."
+"Yes, the public can view playlists unless they are made private.";"Yes, the public can view playlists unless they are made private."
+"No, the public cannot view playlists.";"No, the public cannot view playlists."
+
+"Playlists Per Page";"Playlists Per Page"
+"How many playlists will be shown per page? (Enter a number between 1 and 999)";"How many playlists will be shown per page? (Enter a number between 1 and 999)"
+"MUSIC_FORM_ADMIN_LEVEL_DESCRIPTION";"These settings are applied on a per member level basis. Start by selecting the member level you want to modify, then adjust the settings for that level below."
+
+"Allow Viewing of Playlists?";"Allow Viewing of Playlists?"
+MUSIC_FORM_ADMIN_LEVEL_VIEW_DESCRIPTION;"Do you want to let members view playlists? If set to no, some other settings on this page may not apply."
+"No, do not allow playlists to be viewed.";"No, do not allow playlists to be viewed."
+"Yes, allow viewing of playlists.";"Yes, allow viewing of playlists."
+"Yes, allow viewing of all playlists, even private ones.";"Yes, allow viewing of all playlists, even private ones."
+
+"Allow Editing of Playlists?";"Allow Editing of Playlists?"
+"MUSIC_FORM_ADMIN_LEVEL_EDIT_DESCRIPTION";"Do you want to let members edit playlists? If set to no, some other settings on this page may not apply."
+"No, do not allow members to edit their playlists.";"No, do not allow members to edit their playlists."
+"Yes, allow members to edit their own playlists.";"Yes, allow members to edit their own playlists."
+"Yes, allow members to edit all playlists.";"Yes, allow members to edit all playlists."
+
+"Allow Deletion of Playlists?";"Allow Deletion of Playlists?"
+"MUSIC_FORM_ADMIN_LEVEL_DELETE_DESCRIPTION";"Do you want to let members delete playlists? If set to no, some other settings on this page may not apply."
+"No, do not allow members to delete their playlists.";"No, do not allow members to delete their playlists."
+"Yes, allow members to delete their own playlists.";"Yes, allow members to delete their own playlists."
+"Yes, allow members to delete all playlists.";"Yes, allow members to delete all playlists."
+
+"Allow Music?";"Allow Music?"
+"Do you want to allow users to upload music to their profile?";"Do you want to allow users to upload music to their profile?"
+"Yes, allow this member level to create playlists";"Yes, allow this member level to create playlists"
+"No, do not allow this member level to create playlists";"No, do not allow this member level to create playlists"
+
+"Playlist Privacy";"Playlist Privacy"
+"MUSIC_FORM_ADMIN_LEVEL_AUTHVIEW_DESCRIPTION";"Your users can choose from any of the options checked below when they decide who can see their playlists. These options appear on your users' ""Upload Music"" and ""Edit Playlist"" pages. If you do not check any options, everyone will be allowed to view playlists."
+
+"Playlist Comment Options";"Playlist Comment Options"
+"MUSIC_FORM_ADMIN_LEVEL_AUTHCOMMENT_DESCRIPTION";"Your users can choose from any of the options checked below when they decide who can post comments on their playlists. If you do not check any options, everyone will be allowed to post comments on playlists"
+
+"Maximum Allowed Songs";"Maximum Allowed Songs"
+"MUSIC_FORM_ADMIN_LEVEL_MAXSONGS_DESCRIPTION";"Enter the maximum number of allowed songs. The field must contain an integer between 1 and 999."
+
+"Maximum Allowed Filesize";"Maximum Allowed Filesize"
+"MUSIC_FORM_ADMIN_LEVEL_MAXFILESIZE_DESCRIPTION";"Enter the maximum filesize for uploaded files in KB. This must be a number between 1 and 204800."
+
+"Maximum Allowed Storage";"Maximum Allowed Storage"
+"How much storage space in KB should each user have to store their files?";"How much storage space in KB should each user have to store their files?"
+
+"You are not allowed to edit this playlist";"You are not allowed to edit this playlist"
+"Song was not successfully attached";"Song was not successfully attached"
+"Unable to add song to playlist";"Unable to add song to playlist"
+"invalid song_id";"invalid song_id"
+
+"No playlists have been created yet.";"No playlists have been created yet."
+"%s track";"%s track";"%s tracks"
+"Created %1$s by %2$s";"Created %1$s by %2$s"
+
+"Profile Music";"Profile Music"
+"Profile Player";"Profile Player"
+
+
+# action types
+"{item:$subject} commented on {item:$owner}'s {item:$object:music_playlist}.";"{item:$subject} commented on {item:$owner}'s {item:$object:music_playlist}."
+"{item:$subject} created a new playlist: {item:$object}";"{item:$subject} created a new playlist: {item:$object}"
+
+
+# item types
+"ITEM_TYPE_MUSIC_PLAYLIST";"Playlists"
+"ITEM_TYPE_MUSIC_PLAYLIST_SONG";"Songs"
+

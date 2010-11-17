@@ -1,0 +1,1088 @@
+{
+  "type": "module",
+  "name": "fields",
+  "version": "4.0.5p1",
+  "revision": "7615",
+  "path": "application\/modules\/Fields",
+  "repository": null,
+  "date": "Fri, 08 Oct 2010 23:13:44 +0000",
+  "title": "Fields",
+  "description": "Fields",
+  "developer": null,
+  "authors": [
+    "Webligo Developments"
+  ],
+  "changeLog": null,
+  "meta": {
+    "date": "Fri, 08 Oct 2010 23:13:44 +0000",
+    "title": "Fields",
+    "description": "Fields",
+    "developer": null,
+    "authors": [
+      "Webligo Developments"
+    ],
+    "changeLog": null
+  },
+  "actions": [
+    "install",
+    "upgrade",
+    "refresh"
+  ],
+  "callback": {
+    "path": null,
+    "class": "Engine_Package_Installer_Module",
+    "priority": 3500
+  },
+  "dependencies": {
+    "module-core": {
+      "type": "module",
+      "name": "core",
+      "guid": "module-core",
+      "minVersion": "4.0.5",
+      "maxVersion": null,
+      "excludeExcept": null
+    }
+  },
+  "tests": [
+    
+  ],
+  "permissions": [
+    
+  ],
+  "structure": {
+    "application\/modules\/Fields": {
+      "type": "directory",
+      "path": "application\/modules\/Fields",
+      "structure": [
+        {
+          "path": "settings",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "settings\/changelog.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 4076,
+          "sha1": "1971bbe7a71626480bfbcb84bdd9ee0dfb49a08a"
+        },
+        {
+          "path": "settings\/my.sql",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 1128,
+          "sha1": "6d4557f105b40a68a780571e01fc3ca77e77e18b"
+        },
+        {
+          "path": "settings\/fields.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 11623,
+          "sha1": "bfc1a32997c3a0971cee426ccc5d8a8d00fe846c"
+        },
+        {
+          "path": "settings\/manifest.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 1767,
+          "sha1": "d14a724b2c9f1bb73b63f43dff6842afba8b0759"
+        },
+        {
+          "path": "settings\/my-upgrade-4.0.4-4.0.5.sql",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 88,
+          "sha1": "466c48e857fe93653994d9f733ff10b681213ac2"
+        },
+        {
+          "path": "Api",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "Api\/Core.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 21427,
+          "sha1": "509715e8feee0277b5a2a408b11198ba898c1eb7"
+        },
+        {
+          "path": "Model",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "Model\/Abstract.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 627,
+          "sha1": "2094e501df79207fdb04eb3d415fe90205910fd8"
+        },
+        {
+          "path": "Model\/Exception.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 529,
+          "sha1": "7e0edb9012e675e95f134ec07d03145616a25185"
+        },
+        {
+          "path": "Model\/Map.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 1196,
+          "sha1": "4e34bc5ffad6741dc14c259188c9209741fcf7e1"
+        },
+        {
+          "path": "Model\/DbTable",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "Model\/DbTable\/Abstract.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 2725,
+          "sha1": "757b8844416ae66689cb2defad612bbed7ee789b"
+        },
+        {
+          "path": "Model\/DbTable\/Options.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 3610,
+          "sha1": "64d41612f6038fa0a30351795e06f078a125d767"
+        },
+        {
+          "path": "Model\/DbTable\/Values.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 3212,
+          "sha1": "2c0acb72802dfb3b48de880ac8b3c198448aa5d4"
+        },
+        {
+          "path": "Model\/DbTable\/Meta.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 5407,
+          "sha1": "1423a93f7a5af2e1512293ec4a216c022a8f3b66"
+        },
+        {
+          "path": "Model\/DbTable\/Maps.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 3551,
+          "sha1": "530398042a0aba96c8f40a0fb4ad2f4193cbfd67"
+        },
+        {
+          "path": "Model\/DbTable\/Search.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 16077,
+          "sha1": "59f6538d4bdee7f19e1d96dd870a293758ead722"
+        },
+        {
+          "path": "Model\/Value.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 674,
+          "sha1": "f99d3fb61429fc1af22a7cc8d715b15bba8c35f2"
+        },
+        {
+          "path": "Model\/Meta.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 5205,
+          "sha1": "018477808c21927ba9cd322ebe777f9519f85c35"
+        },
+        {
+          "path": "Model\/Option.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 703,
+          "sha1": "2a1ecf050eb5b018abee77d2e308286b48459efc"
+        },
+        {
+          "path": "Model\/Search.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 532,
+          "sha1": "beb8f10e2356b955b28747e74028e092460b067b"
+        },
+        {
+          "path": "Model\/Rowset.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 1874,
+          "sha1": "2520704776f7627d4e409bb191d51676201878cf"
+        },
+        {
+          "path": "View",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "View\/Helper",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "View\/Helper\/FieldLocation.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 817,
+          "sha1": "1b024511596cba96bc56ac2e5738e5c81c394308"
+        },
+        {
+          "path": "View\/Helper\/FieldCountry.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 870,
+          "sha1": "ead798b5326bf386710966ba8f783131bf10dc68"
+        },
+        {
+          "path": "View\/Helper\/FieldTwitter.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 777,
+          "sha1": "86d26a146eca6465a3184433d3838c2129b011ad"
+        },
+        {
+          "path": "View\/Helper\/FieldFacebook.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 926,
+          "sha1": "1d6a3371c1fa2c42626b4afbda933dc2951e743d"
+        },
+        {
+          "path": "View\/Helper\/FieldOptions.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 1180,
+          "sha1": "0e63488ee798a20b9b7e0cd0c7d08be44e34b85a"
+        },
+        {
+          "path": "View\/Helper\/FieldWebsite.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 772,
+          "sha1": "4f2aa86ddd6d791750b993026d000a966335a6f2"
+        },
+        {
+          "path": "View\/Helper\/FieldText.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 633,
+          "sha1": "aadd6d00d8679d40bab9a160a9740dc40f09f366"
+        },
+        {
+          "path": "View\/Helper\/FieldMultiCheckbox.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 1201,
+          "sha1": "8c0c724099c83c2993ba9a32027da40749473876"
+        },
+        {
+          "path": "View\/Helper\/FieldSelect.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 1609,
+          "sha1": "f653d72dc3f766b959710760d244ee4afcd2f07b"
+        },
+        {
+          "path": "View\/Helper\/FieldTextarea.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 675,
+          "sha1": "c2b73ed5db74fe47143e43121a8f12e9ca0457f3"
+        },
+        {
+          "path": "View\/Helper\/FieldZipCode.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 642,
+          "sha1": "35852e0106158ec089615dbd9c6188661fcd4bf0"
+        },
+        {
+          "path": "View\/Helper\/FieldMultiselect.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 740,
+          "sha1": "2ce943e6e6ce60193b7f3c92e5ab9826a2558f83"
+        },
+        {
+          "path": "View\/Helper\/FieldValueLoop.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 2944,
+          "sha1": "827e70554aaa5626bac83189618fb2cb690674b3"
+        },
+        {
+          "path": "View\/Helper\/FieldDate.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 652,
+          "sha1": "044987ed506936829442b652ecf5838f246b78cf"
+        },
+        {
+          "path": "View\/Helper\/FieldCurrency.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 704,
+          "sha1": "584e600056b46d492fb9f641087f64de655f855b"
+        },
+        {
+          "path": "View\/Helper\/FieldTextareaLinked.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 1007,
+          "sha1": "9e4b3269d3f8a97c7507357357d1ef186c17ea50"
+        },
+        {
+          "path": "View\/Helper\/FieldAim.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 764,
+          "sha1": "68a8e897b59987294240f2c2297437735cbafcc7"
+        },
+        {
+          "path": "View\/Helper\/FieldEmail.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 686,
+          "sha1": "439e6fca6a7034cca89efcdc4d3397235878a947"
+        },
+        {
+          "path": "controllers",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "externals",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "externals\/images",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "externals\/images\/admin",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "externals\/images\/admin\/type_rename.png",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 762,
+          "sha1": "7b837d31c7fc18ddf6c8b7db581e5802d337d4d4"
+        },
+        {
+          "path": "externals\/images\/admin\/type_add.png",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 714,
+          "sha1": "7cbc947612ae34bfeb9a0314ddf2155f8ac620c1"
+        },
+        {
+          "path": "externals\/images\/admin\/field_add.png",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 321,
+          "sha1": "d3e06d33f4f46fc4a447d6a524b70a203b25b5a2"
+        },
+        {
+          "path": "externals\/images\/admin\/type_delete.png",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 729,
+          "sha1": "28457c41855241c14568f3b5930c1e122a0201d4"
+        },
+        {
+          "path": "externals\/images\/admin\/more.png",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 201,
+          "sha1": "6197eb13b4254f77f16833e1a9a8640e939d574c"
+        },
+        {
+          "path": "externals\/images\/admin\/heading_add.png",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 303,
+          "sha1": "e369025b97972ede064a00ea35b8438a8924fcf5"
+        },
+        {
+          "path": "externals\/images\/admin\/field.png",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 153,
+          "sha1": "56c846d5fa36aa646c36dfeda598ea71d444ae1f"
+        },
+        {
+          "path": "externals\/images\/admin\/heading.png",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 303,
+          "sha1": "e369025b97972ede064a00ea35b8438a8924fcf5"
+        },
+        {
+          "path": "externals\/images\/field.png",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 153,
+          "sha1": "56c846d5fa36aa646c36dfeda598ea71d444ae1f"
+        },
+        {
+          "path": "externals\/images\/heading.png",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 303,
+          "sha1": "e369025b97972ede064a00ea35b8438a8924fcf5"
+        },
+        {
+          "path": "externals\/images\/option.png",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 273,
+          "sha1": "1b05c1e8e09201100a0e86a23cacc50d7ad543de"
+        },
+        {
+          "path": "externals\/.htaccess",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 147,
+          "sha1": "9f1638a8edbe1c5d28789e017fb35b2f2465f01e"
+        },
+        {
+          "path": "externals\/styles",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "Form",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "Form\/Admin",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "Form\/Admin\/FieldType.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 1694,
+          "sha1": "ce3c85d018a49821f4e7655ef8131e201abf4a6a"
+        },
+        {
+          "path": "Form\/Admin\/Type.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 1331,
+          "sha1": "1e3d92b376f1961285cf2b3d44a4c383b32a1ce1"
+        },
+        {
+          "path": "Form\/Admin\/Field.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 3923,
+          "sha1": "e34a7cecb84778d7bb34c93e2eec5c1cb9e3ba69"
+        },
+        {
+          "path": "Form\/Admin\/Field",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "Form\/Admin\/Field\/Birthdate.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 716,
+          "sha1": "03c741f8c5e10ac0a6e0bab3abc11ab6de7d0073"
+        },
+        {
+          "path": "Form\/Admin\/Field\/Currency.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 1507,
+          "sha1": "593df81e3a3e991ccee1bc6efffd002e13c0d25b"
+        },
+        {
+          "path": "Form\/Admin\/Heading.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 1326,
+          "sha1": "e01ac2ae56e862e651d0dab7e0c6ced7fc166630"
+        },
+        {
+          "path": "Form\/Admin\/Option.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 1323,
+          "sha1": "a8fda60655c6766b9b5ad2ac08890b2ce286a393"
+        },
+        {
+          "path": "Form\/Element",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "Form\/Element\/ProfileType.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 554,
+          "sha1": "ce44bf84953bfe8f94c7383009c3a865f1ae0b82"
+        },
+        {
+          "path": "Form\/Element\/Weight.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 544,
+          "sha1": "c8976c65ed192204a64b680c4104d7be0f20d9a5"
+        },
+        {
+          "path": "Form\/Element\/EducationLevel.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 560,
+          "sha1": "e7bbcbf3c1794d8c7675de23a78ccd7e1d9466ac"
+        },
+        {
+          "path": "Form\/Element\/RelationshipStatus.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 568,
+          "sha1": "7fe5f847ebbd16823672672ef12a2e48fefe7cf1"
+        },
+        {
+          "path": "Form\/Element\/AboutMe.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 548,
+          "sha1": "d42a5dcf691d2b146064b62cbc9aee8dd8fe7c30"
+        },
+        {
+          "path": "Form\/Element\/Income.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 544,
+          "sha1": "17c4bf12f5fd51ce33a9cc5fb6b5f3ae4cff9dcb"
+        },
+        {
+          "path": "Form\/Element\/Interests.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 552,
+          "sha1": "2a3d18c8088217af2dac40b9742cbf0bf3bb7ca2"
+        },
+        {
+          "path": "Form\/Element\/Gender.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 544,
+          "sha1": "bec86beee60a03b998e312a09fba1aee5b6cd9dd"
+        },
+        {
+          "path": "Form\/Element\/Aim.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 537,
+          "sha1": "fa48e005dcbe111a04c49c26b7667212b95761cb"
+        },
+        {
+          "path": "Form\/Element\/Birthdate.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 1724,
+          "sha1": "65caa4aa865e9e489999fec6bf9ecf640206bb19"
+        },
+        {
+          "path": "Form\/Element\/PoliticalViews.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 560,
+          "sha1": "1fe20731a3dafdffd8c44d3a97b86ca2b165a5bb"
+        },
+        {
+          "path": "Form\/Element\/Twitter.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 544,
+          "sha1": "91203d6a648f486dbc876a714e93cf0f7b5b422d"
+        },
+        {
+          "path": "Form\/Element\/Ethnicity.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 557,
+          "sha1": "099f0c5b5d148bdf3673c3e36ac860b5f4b3f970"
+        },
+        {
+          "path": "Form\/Element\/Currency.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 1819,
+          "sha1": "c38c5b299d6a86c08041a35b239929f9af6b5c80"
+        },
+        {
+          "path": "Form\/Element\/EyeColor.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 549,
+          "sha1": "f45d11ca498f0ade26f0430413ea92be5f44b5d3"
+        },
+        {
+          "path": "Form\/Element\/Location.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 544,
+          "sha1": "3429a0459ca377efe82a4af6ddcd47d4735bf57d"
+        },
+        {
+          "path": "Form\/Element\/City.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 538,
+          "sha1": "1288e2c7e2a3e2402bda065ed835a87299705cf9"
+        },
+        {
+          "path": "Form\/Element\/Website.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 697,
+          "sha1": "0bbb3be124d80a353b1d4e870ce91dedbf750734"
+        },
+        {
+          "path": "Form\/Element\/Country.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 908,
+          "sha1": "2151b74d41190e6fcb559412fbe74195a61172f4"
+        },
+        {
+          "path": "Form\/Element\/Facebook.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 546,
+          "sha1": "623ea1e09ba8067ca82a7a8574080bea269dbac9"
+        },
+        {
+          "path": "Form\/Element\/ZipCode.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 771,
+          "sha1": "a7da9acd493842ec7074427ed8749ad28942629f"
+        },
+        {
+          "path": "Form\/Element\/LookingFor.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 560,
+          "sha1": "378ec62c8fea4a9f552d481bfd51c784381dda30"
+        },
+        {
+          "path": "Form\/Element\/FirstName.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 548,
+          "sha1": "a61a17b411e0b13336aaf2dd991527d290d3dea8"
+        },
+        {
+          "path": "Form\/Element\/LastName.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 544,
+          "sha1": "967e809afcac5a393f3f9cf1322e8aabea7622e7"
+        },
+        {
+          "path": "Form\/Element\/Occupation.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 552,
+          "sha1": "e719929dc03c8a4071ff68430e2a5b0219e56fea"
+        },
+        {
+          "path": "Form\/Element\/PartnerGender.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 565,
+          "sha1": "07854fd6c97e1dd19abbc449437621026b5d2d72"
+        },
+        {
+          "path": "Form\/Element\/Zodiac.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 544,
+          "sha1": "58eb4bfa0504aa7147b142c4580a04c2a331ec8d"
+        },
+        {
+          "path": "Form\/Element\/Religion.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 548,
+          "sha1": "f197947059e63dac1849c471e8b4649a981abd40"
+        },
+        {
+          "path": "Form\/Standard.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 11470,
+          "sha1": "4aade14bbf26ac179e92cdc44482ab4b7891a30c"
+        },
+        {
+          "path": "Form\/Search.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 8536,
+          "sha1": "282d1da4ec93763cd1907575e4f9b3d040424d10"
+        },
+        {
+          "path": "views",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "views\/helpers",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "views\/helpers\/AdminFieldMeta.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 4612,
+          "sha1": "ce903d20daa314e056335c357e265db8a93776a9"
+        },
+        {
+          "path": "views\/helpers\/AdminFieldOption.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 2556,
+          "sha1": "6656eeb8042d1cdae7e6417f6726826e88a04266"
+        },
+        {
+          "path": "views\/scripts",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "views\/scripts\/_jsSwitch.tpl",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 3542,
+          "sha1": "dcbcb61cee6fb5be47e57d44ef622c1ddb693b42"
+        },
+        {
+          "path": "views\/scripts\/index",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "views\/scripts\/index\/index.tpl",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 280,
+          "sha1": "7110d65657d9a09dc72c34cfa7d3085e67ddef17"
+        },
+        {
+          "path": "views\/scripts\/index\/script.tpl",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 1852,
+          "sha1": "a1b106890eafa419a18162a8204f2dddeb41a6dc"
+        },
+        {
+          "path": "views\/scripts\/admin-fields",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "views\/scripts\/admin-fields\/map-create.tpl",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 711,
+          "sha1": "c5e97f2fc0893494491bc62a22ab0fe4f20721f8"
+        },
+        {
+          "path": "views\/scripts\/admin-fields\/heading-edit.tpl",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 710,
+          "sha1": "04f77f23a6db883e26c6b7dc76d8f41cd58b99bf"
+        },
+        {
+          "path": "views\/scripts\/admin-fields\/type-delete.tpl",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 608,
+          "sha1": "dbc100fe625925e7b78c5e35a57ade57fdcfd7d5"
+        },
+        {
+          "path": "views\/scripts\/admin-fields\/type-create.tpl",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 670,
+          "sha1": "c913022d90dce6695385aa90de20efa08f3c1717"
+        },
+        {
+          "path": "views\/scripts\/admin-fields\/field-delete.tpl",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 376,
+          "sha1": "7c25b985f5a632bf89e1a0bcacc23aede1fc58f5"
+        },
+        {
+          "path": "views\/scripts\/admin-fields\/option-edit.tpl",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 709,
+          "sha1": "72801732520add94009222e38abed5c20665d79e"
+        },
+        {
+          "path": "views\/scripts\/admin-fields\/index.tpl",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 2000,
+          "sha1": "1ed0cf3758f4a896bb697c7acea0727f41e94c76"
+        },
+        {
+          "path": "views\/scripts\/admin-fields\/type-edit.tpl",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 666,
+          "sha1": "231300f7daa889c897c7f398dd41def62ceeb352"
+        },
+        {
+          "path": "views\/scripts\/admin-fields\/heading-create.tpl",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 714,
+          "sha1": "b9b1e9d8df68595b77d98cc5b3db27f930127074"
+        },
+        {
+          "path": "views\/scripts\/admin-fields\/field-create.tpl",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 2387,
+          "sha1": "69af0a0b8603816390b49a12b2750b8c69ee7d0d"
+        },
+        {
+          "path": "views\/scripts\/admin-fields\/field-edit.tpl",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 706,
+          "sha1": "27ad9be424bb0a7a522cf3af91efcfdbd3d665ce"
+        },
+        {
+          "path": "views\/scripts\/_jsAdmin.tpl",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 19141,
+          "sha1": "4f31e7dec9e53bc47ca2c12e8f7ab30664fd2905"
+        },
+        {
+          "path": "Controller",
+          "dir": true,
+          "file": false,
+          "perms": "0755",
+          "size": 4096,
+          "sha1": null
+        },
+        {
+          "path": "Controller\/AdminAbstract.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 20665,
+          "sha1": "d1faa8e182a8d4cc637a8dda1d12cb69681cbe79"
+        },
+        {
+          "path": "Bootstrap.php",
+          "dir": false,
+          "file": true,
+          "perms": "0644",
+          "size": 549,
+          "sha1": "150161d3a55f20236558771c18c15ff1cc651163"
+        }
+      ]
+    },
+    "application\/languages\/en\/fields.csv": {
+      "type": "file",
+      "path": "application\/languages\/en\/fields.csv",
+      "structure": {
+        "path": "fields.csv",
+        "dir": false,
+        "file": true,
+        "perms": "0644",
+        "size": 4531,
+        "sha1": "6e01a55e8c17a6facc5cbbd642dd8aeda0e2407f"
+      }
+    }
+  }
+}

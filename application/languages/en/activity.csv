@@ -1,0 +1,234 @@
+"View More";"View More"
+"Post";"Post"
+"post";"post";"posts"
+"Like";"Like"
+"Unlike";"Unlike"
+"Comment";"Comment"
+"Delete";"Delete"
+"%s person likes this";"%s person likes this";"%s people like this"
+"%s likes this.";"%s likes this.";"%s like this."
+"This activity item has been removed.";"This activity item has been removed."
+"Comment has been deleted";"Comment has been deleted"
+"You do not have the privilege to delete this comment";"You do not have the privilege to delete this comment"
+"... &nbsp;";"... &nbsp;"
+"more";"more"
+"less";"less"
+"You have no notifications.";"You have no notifications."
+"You have no requests.";"You have no requests."
+"Publish this on Facebook";"Publish this on Facebook"
+"Share this by re-posting it with your own message.";"Share this by re-posting it with your own message."
+"Delete Activity Item?";"Delete Activity Item?"
+"Are you sure that you want to delete this activity item and all of its comments? This action cannot be undone.";"Are you sure that you want to delete this activity item and all of its comments? This action cannot be undone."
+"Activity";"Activity"
+
+"ADMIN_ACTIVITY_TYPE_ACTIVITY_COMMENT";"When someone comments on something I have posted."
+"ADMIN_ACTIVITY_TYPE_ACTIVITY_LIKE";"When someone likes something I have posted."
+"ADMIN_ACTIVITY_TYPE_ACTIVITY_POST";"When someone posts on my profile."
+"ADMIN_ACTIVITY_TYPE_FRIEND_ACCEPTED";"When someone accepts my friend request."
+"ADMIN_ACTIVITY_TYPE_FRIEND_REQUEST";"When I receive a friend request."
+"ADMIN_ACTIVITY_TYPE_MESSAGE_NEW";"When I receive a message."
+"ADMIN_ACTIVITY_TYPE_POST_COMMENTED_COMMENTED";"When someone comments on a post I commented on."
+"ADMIN_ACTIVITY_TYPE_POST_LIKED_COMMENTED";"When someone likes a post I commented on."
+"ADMIN_ACTIVITY_TYPE_COMMENTED_ACTIVITY_ACTION";"When someone comments on activity I commented on."
+"ADMIN_ACTIVITY_TYPE_COMMENTED_CORE_LINK";"When someone comments on a link I commented on."
+"ADMIN_ACTIVITY_TYPE_COMMENT_ACTIVITY_ACTION";"When someone comments on my activity."
+"ADMIN_ACTIVITY_TYPE_COMMENT_CORE_LINK";"When someone comments on one of my links."
+"ADMIN_ACTIVITY_TYPE_COMMENT_USER";"When someone comments on my profile."
+"ADMIN_ACTIVITY_TYPE_LIKED_ACTIVITY_ACTION";"When someone comments on activity I liked."
+"ADMIN_ACTIVITY_TYPE_LIKED_CORE_LINK";"When someone comments on a link I liked."
+"ADMIN_ACTIVITY_TYPE_LIKE_ACTIVITY_ACTION";"When someone likes my activity."
+"ADMIN_ACTIVITY_TYPE_LIKE_CORE_LINK";"When someone likes one of my links."
+"ADMIN_ACTIVITY_TYPE_COMMENTED";"When people comment on my posts."
+"ADMIN_ACTIVITY_TYPE_LIKED";"When people like my posts."
+"ADMIN_ACTIVITY_TYPE_COMMENTED_COMMENTED";"When people comment on the same thing as me."
+"ADMIN_ACTIVITY_TYPE_LIKED_COMMENTED";"When people comment on things I've liked."
+"ADMIN_ACTIVITY_TYPE_POST_USER";"When people post on my profile."
+"ADMIN_ACTIVITY_TYPE_TAGGED";"When I'm tagged in photos and other places."
+"ADMIN_ACTIVITY_TYPE_COMMENTED";"When people comment on things I post."
+"ADMIN_ACTIVITY_TYPE_COMMENTED_COMMENTED";"When people comment on the same thing as me."
+"ADMIN_ACTIVITY_TYPE_LIKED";"When people like things I post."
+"ADMIN_ACTIVITY_TYPE_LIKED_COMMENTED";"When people comment on things I've liked."
+"ADMIN_ACTIVITY_TYPE_POST_USER";"When people post on my profile."
+"ADMIN_ACTIVITY_TYPE_TAGGED";"When I'm tagged in photos and other places."
+"ADMIN_ACTIVITY_TYPE_FRIENDS";"When two members become friends."
+"ADMIN_ACTIVITY_TYPE_FRIEND_FOLLOW";"When someone starts to follow me."
+"ADMIN_ACTIVITY_TYPE_FRIEND_FOLLOW_ACCEPTED";"When someone accepts my request to follow them."
+"ADMIN_ACTIVITY_TYPE_FRIEND_FOLLOW_REQUEST";"When someone requests to follow me."
+"ADMIN_ACTIVITY_TYPE_FRIENDS_FOLLOW";"When someone starts to follow me."
+"ADMIN_ACTIVITY_TYPE_LOGIN";"When a member logs in."
+"ADMIN_ACTIVITY_TYPE_LOGOUT";"When a member logs out."
+"ADMIN_ACTIVITY_TYPE_POST";"When I post a message to someone else's profile."
+"ADMIN_ACTIVITY_TYPE_POST_SELF";"When I post an attachment."
+"ADMIN_ACTIVITY_TYPE_PROFILE_PHOTO_UPDATE";"When a profile photo is updated."
+"ADMIN_ACTIVITY_TYPE_SIGNUP";"When a new member signs up."
+"ADMIN_ACTIVITY_TYPE_STATUS";"When a status update is posted."
+"ADMIN_ACTIVITY_TYPE_FIELDS_CHANGE_GENERIC";"When I update my profile"
+"ADMIN_ACTIVITY_TYPE_NETWORK_JOIN";"When I join a network"
+
+#admin
+"ACTIVITY_FORM_ADMIN_SETTINGS_GENERAL_DESCRIPTION";"The recent activity feed is an auto-updating list of actions that have recently occurred on your social network. This information is displayed (by default) on users' "My Home" page. Also, each user's own personal activity list will be displayed on their profile page if enabled below. Please note that some of the settings here are not retroactive, meaning that changes you make here may not affect old feed items."
+
+"Allowed Feed Items";"Allowed Feed Items"
+"ACTIVITY_FORM_ADMIN_SETTINGS_GENERAL_ALLOWED_DESCRIPTION";"Which feed items do you want to be shown in the recent activity feed?"
+
+"Overall Feed Length";"Overall Feed Length"
+"ACTIVITY_FORM_ADMIN_SETTINGS_GENERAL_LENGTH_DESCRIPTION";"How many total items do you want the main activity feed to display at any given time?"
+"ACTIVITY_FORUM_ADMIN_SETTINGS_GENERAL_LENGTH_OPTION1";"5"
+"ACTIVITY_FORUM_ADMIN_SETTINGS_GENERAL_LENGTH_OPTION2";"10"
+
+"Item Limit Per User";"Item Limit Per User"
+"ACTIVITY_FORM_ADMIN_SETTINGS_GENERAL_USERLENGTH_DESCRIPTION";"How many items per user can be shown on the recent activity feed? It's important to have a nice mix of items from various users on your social network, so here you can set a limit on the number of items published about each user at any given time. For smaller social networks, a highernumber of published items per user might be more appropriate."
+"ACTIVITY_FORUM_ADMIN_SETTINGS_GENERAL_USERLENGTH_OPTION1";"5"
+"ACTIVITY_FORUM_ADMIN_SETTINGS_GENERAL_USERLENGTH_OPTION2";"10"
+
+"Update Frequency";"Update Frequency"
+"ACTIVITY_FORM_ADMIN_SETTINGS_GENERAL_LIVEUPDATE_DESCRIPTION";"The application connects to your server (using AJAX) every few seconds to check if there are any new updates to the activity feed. How often do you want this process to occur? A shorter amount of time will consume more server resources. If your server is experiencing slowdown issues, try lowering the frequency the application checks for updates."
+"ACTIVITY_FORM_ADMIN_SETTINGS_GENERAL_NOTIFICATIONUPDATE_DESCRIPTION";"The application connects to your server (using AJAX) every few seconds to check if there are any new notifications. How often do you want this process to occur? A shorter amount of time will consume less server resources. If your server is experiencing slowdown issues, try lowering the frequency the application checks for updates."
+
+#"%d minute";"%d minute";"%d minutes"
+"ACTIVITY_FORUM_ADMIN_SETTINGS_GENERAL_LIVEUPDATE_OPTION1";"30 seconds"
+"ACTIVITY_FORUM_ADMIN_SETTINGS_GENERAL_LIVEUPDATE_OPTION2";"1 minute"
+"ACTIVITY_FORUM_ADMIN_SETTINGS_GENERAL_LIVEUPDATE_OPTION3";"2 minutes"
+"ACTIVITY_FORUM_ADMIN_SETTINGS_GENERAL_LIVEUPDATE_OPTION4";"Never"
+
+"Item Deletion";"Item Deletion"
+"ACTIVITY_FORM_ADMIN_SETTINGS_GENERAL_USERDELETE_DESCRIPTION";"Do you want to give members the option of deleting feed items published about themselves? This is generally an important freedom to give members since it helps them maintain their privacy."
+"Yes, allow members to delete their feed items.";"Yes, allow members to delete their feed items."
+"No, members may not delete their feed items.";"No, members may not delete their feed items."
+
+"Feed Content";"Feed Content"
+"ACTIVITY_FORM_ADMIN_SETTINGS_GENERAL_CONTENT_DESCRIPTION";"When a member is looking at the recent activity feed, whose actions should they see? For smaller networks, it may make more sense to show recent actions from ""All Members"" so the feed is quickly populated."
+"All Members";"All Members"
+"My Friends & Networks";"My Friends & Networks"
+"My Friends";"My Friends"
+
+"Feed Item Filtering";"Feed Item Filtering"
+"ACTIVITY_FORM_ADMIN_SETTINGS_GENERAL_FILTER_DESCRIPTION";"Do you want to allow members to decide which feed items they want to see in the main activity feed? If you enable this feature, members will be able specify which items types they do and do not want to see in their recent activity feed."
+"Yes, members can choose not to see certain feed item types.";"Yes, members can choose not to see certain feed item types."
+"No, members cannot customize their view of the feed.";"No, members cannot customize their view of the feed."
+
+"Item Publishing Option";"Item Publishing Option"
+"ACTIVITY_FORM_ADMIN_SETTINGS_GENERAL_PUBLISH_DESCRIPTION";"Do you want to allow members to prevent specific action types from being published about them? If yes, a setting will appear on your members' account settings page allowing them to choose which action types to NOT publish in the activity feed."
+"Yes, members may specify which item types will NOT be published about them.";"Yes, members may specify which item types will NOT be published about them."
+"No, members may not specify which actions will NOT be published about them.";"No, members may not specify which actions will NOT be published about them."
+
+"Share";"Share"
+"Recent Updates";"Recent Updates"
+"My Request (%d)";"My Request (%d)";"My Requests (%d)"
+"Nothing has been posted here yet - be the first!";"Nothing has been posted here yet - be the first!"
+"The page you have attempted to access could not be found.";"The page you have attempted to access could not be found."
+"Activity Item Not Found";"Activity Item Not Found"
+"%d new update is available - click this to show it.";"%d new update is available - click this to show it.";"%d new updates are available - click this to show them."
+
+
+"ACTIVITY_TYPE_ACTIVITY_COMMENT";"When someone comments on something I have posted."
+"ACTIVITY_TYPE_ACTIVITY_LIKE";"When someone likes something I have posted."
+"ACTIVITY_TYPE_ACTIVITY_POST";"When someone posts on my profile."
+"ACTIVITY_TYPE_FRIEND_ACCEPTED";"When someone accepts my friend request."
+"ACTIVITY_TYPE_FRIEND_REQUEST";"When I receive a friend request."
+"ACTIVITY_TYPE_POST_COMMENTED_COMMENTED";"When someone comments on a post I commented on."
+"ACTIVITY_TYPE_POST_LIKED_COMMENTED";"When someone likes a post I commented on."
+"ACTIVITY_TYPE_COMMENTED_ACTIVITY_ACTION";"When someone comments on activity I commented on."
+"ACTIVITY_TYPE_COMMENTED_CORE_LINK";"When someone comments on a link I commented on."
+"ACTIVITY_TYPE_COMMENT_ACTIVITY_ACTION";"When someone comments on my activity."
+"ACTIVITY_TYPE_COMMENT_CORE_LINK";"When someone comments on one of my links."
+"ACTIVITY_TYPE_COMMENT_USER";"When someone comments on my profile."
+"ACTIVITY_TYPE_LIKED_ACTIVITY_ACTION";"When someone comments on activity I liked."
+"ACTIVITY_TYPE_LIKED_CORE_LINK";"When someone comments on a link I liked."
+"ACTIVITY_TYPE_LIKE_ACTIVITY_ACTION";"When someone likes my activity."
+"ACTIVITY_TYPE_LIKE_CORE_LINK";"When someone likes one of my links."
+"ACTIVITY_TYPE_COMMENTED";"When people comment on my posts."
+"ACTIVITY_TYPE_LIKED";"When people like my posts."
+"ACTIVITY_TYPE_COMMENTED_COMMENTED";"When people comment on the same thing as me."
+"ACTIVITY_TYPE_LIKED_COMMENTED";"When people comment on things I've liked."
+"ACTIVITY_TYPE_POST_USER";"When people post on my profile."
+"ACTIVITY_TYPE_TAGGED";"When I'm tagged in photos and other places."
+"ACTIVITY_TYPE_COMMENTED";"When people comment on things I post."
+"ACTIVITY_TYPE_COMMENTED_COMMENTED";"When people comment on the same thing as me."
+"ACTIVITY_TYPE_LIKED";"When people like things I post."
+"ACTIVITY_TYPE_LIKED_COMMENTED";"When people comment on things I've liked."
+"ACTIVITY_TYPE_POST_USER";"When people post on my profile."
+"ACTIVITY_TYPE_TAGGED";"When I'm tagged in photos and other places."
+"ACTIVITY_TYPE_FRIENDS";"When two members become friends."
+"ACTIVITY_TYPE_LOGIN";"When a member logs in."
+"ACTIVITY_TYPE_LOGOUT";"When a member logs out."
+"ACTIVITY_TYPE_POST";"When I post a message to someone else's profile."
+"ACTIVITY_TYPE_POST_SELF";"When I post an attachment."
+"ACTIVITY_TYPE_PROFILE_PHOTO_UPDATE";"When a profile photo is updated."
+"ACTIVITY_TYPE_SIGNUP";"When a new member signs up."
+"ACTIVITY_TYPE_STATUS";"When a status update is posted."
+"ACTIVITY_TYPE_FRIEND_FOLLOW";"When someone starts to follow me."
+"ACTIVITY_TYPE_FRIEND_FOLLOW_ACCEPTED";"When someone accepts my request to follow them."
+"ACTIVITY_TYPE_FRIEND_FOLLOW_REQUEST";"When someone requests to follow me."
+"ACTIVITY_TYPE_FRIENDS_FOLLOW";"When someone starts to follow me."
+"ACTIVITY_TYPE_FIELDS_CHANGE_GENERIC";"When I update my profile"
+
+# Activty Feed types
+"{item:$subject} changed their {translate:$label} to "{var:$value}".";"{item:$subject} changed their {translate:$label} to "{var:$value}"."
+"{item:$subject} is now friends with {item:$object}.";"{item:$subject} is now friends with {item:$object}."
+"{item:$subject} is now following {item:$object}.";"{item:$subject} is now following {item:$object}."
+"{item:$subject} has signed in.";"{item:$subject} has signed in."
+"{item:$subject} has signed out.";"{item:$subject} has signed out."
+"{item:$subject} joined the network {item:$object}";"{item:$subject} joined the network {item:$object}"
+"{actors:$subject:$object}: {body:$body}";"{actors:$subject:$object}: {body:$body}"
+"{item:$subject} {body:$body}";"{item:$subject} {body:$body}"
+"{item:$subject} has added a new profile photo.";"{item:$subject} has added a new profile photo."
+"{item:$subject} has just signed up. Say hello!";"{item:$subject} has just signed up. Say hello!"
+"{item:$subject} {body:$body}";"{item:$subject} {body:$body}"
+"{item:$subject} tagged {item:$object} in a {var:$label}:";"{item:$subject} tagged {item:$object} in a {var:$label}:"
+
+# notification types
+"{item:$subject} likes your {item:$object:$label}.";"{item:$subject} likes your {item:$object:$label}."
+"{item:$subject} has commented on your {item:$object:$label}.";"{item:$subject} has commented on your {item:$object:$label}."
+"{item:$subject} has commented on a {item:$object:$label} you commented on.";"{item:$subject} has commented on a {item:$object:$label} you commented on."
+"{item:$subject} has commented on a {item:$object:$label} you liked.";"{item:$subject} has commented on a {item:$object:$label} you liked."
+
+# mail templates
+
+# notify_commented
+"_EMAIL_NOTIFY_COMMENTED_TITLE";"Comment"
+"_EMAIL_NOTIFY_COMMENTED_DESCRIPTION";"This email is sent to someone when a comment is made on their post."
+"_EMAIL_NOTIFY_COMMENTED_SUBJECT";"[sender_title] commented on something you posted"
+"_EMAIL_NOTIFY_COMMENTED_BODY";"[header]
+
+A new comment has been posted on one of your posts by [sender_title]. Please click the following link to view it:
+
+http://[host][object_link]
+
+[footer]"
+
+# notify_commented_commented
+"_EMAIL_NOTIFY_COMMENTED_COMMENTED_TITLE";"Also Commented"
+"_EMAIL_NOTIFY_COMMENTED_COMMENTED_DESCRIPTION";"This email is sent to the member when someone comments on a post the member has commented on."
+"_EMAIL_NOTIFY_COMMENTED_COMMENTED_SUBJECT";"[sender_title] also commented on a post you commented on"
+"_EMAIL_NOTIFY_COMMENTED_COMMENTED_BODY";"[header]
+
+[sender_title] has also commented on a post you commented on. Please click the following link to view it:
+
+http://[host][object_link]
+
+[footer]"
+
+# notify_liked
+"_EMAIL_NOTIFY_LIKED_TITLE";"Like"
+"_EMAIL_NOTIFY_LIKED_DESCRIPTION";"This email is sent to the member when someone likes the member's post."
+"_EMAIL_NOTIFY_LIKED_SUBJECT";"[sender_title] liked your post"
+"_EMAIL_NOTIFY_LIKED_BODY";"[header]
+
+[sender_title] has liked one of your posts. Please click the following link to view it:
+
+http://[host][object_link]
+
+[footer]"
+
+# notify_liked_commented
+"_EMAIL_NOTIFY_LIKED_COMMENTED_TITLE";"Comment on Liked"
+"_EMAIL_NOTIFY_LIKED_COMMENTED_DESCRIPTION";"This email is sent to the member when someone comments on a post the member liked."
+"_EMAIL_NOTIFY_LIKED_COMMENTED_SUBJECT";"[sender_title] commented on a post you like"
+"_EMAIL_NOTIFY_LIKED_COMMENTED_BODY";"[header]
+
+[sender_title] has commented on a post you liked. Please click the following link to view it:
+
+http://[host][object_link]
+
+[footer]"

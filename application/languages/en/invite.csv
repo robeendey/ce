@@ -1,0 +1,79 @@
+"Invite";"Invite"
+"Invitation Sent";"Invitation Sent";"Invitations Sent";
+"If the person you invited decide to join, he/she will automatically receive a friend request from you.";"If the person you invited decide to join, he/she will automatically receive a friend request from you.";"If the persons you invited decide to join, they will automatically receive a friend request from you."
+"Invites were not sent to these email addresses because they do not appear to be valid:";"Invites were not sent to these email addresses because they do not appear to be valid:"
+"Some of the email addresses you provided belong to existing members:";"Some of the email addresses you provided belong to existing members:"
+"OK, thanks!";"OK, thanks!"
+
+"Invite Your Friends";"Invite Your Friends"
+"_INVITE_FORM_DESCRIPTION";"Invite your friends to join! Enter up to 10 email addresses separated by commas in the recipients box below. If your friends decide to sign up, a friend request from you will be waiting for them when they first sign in."
+"Recipients";"Recipients"
+"Comma-separated list, or one-email-per-line.";"Comma-separated list, or one-email-per-line."
+"Custom Message";"Custom Message"
+"Use %invite_url% to add a link to our sign up page.";"Use %invite_url% to add a link to our sign up page."
+"Send Invites";"Send Invites"
+
+"_INVITE_EMAIL_CONTENT_CAN_BE_FOUND_IN_THE_FILE";"custom.csv"
+
+"Modify your invite settings for your members.";"Modify your invite settings for your members."
+"Subject";"Subject"
+"This is the subject line of emails sent to invited people.  Use %siteName% to include your site's name.";"This is the subject line of emails sent to invited people.  Use %siteName% to include your site's name."
+"From (name)";"From (name)"
+"Whom the invite email is shown as being from (usually your website name)";"Whom the invite email is shown as being from (usually your website name)"
+"From (email)";"From (email)"
+"The "Reply-To" address for emails";"The "Reply-To" address for emails"
+"Allow custom invite message?";"Allow custom invite message?"
+"If disabled, the invite email will use the message below.";"If disabled, the invite email will use the message below."
+"Default Invite Message";"Default Invite Message"
+"Use %invite_url% to include the invite URL";"Use %invite_url% to include the invite URL"
+
+"Invite Settings";"Invite Settings"
+"Settings were saved successfully.";"Settings were saved successfully."
+
+"Inviters";"Inviters"
+"Movers and Shakers";"Movers and Shakers"
+"Top 10 Inviters";"Top 10 Inviters"
+"Most invites sent out";"Most invites sent out"
+
+"Username";"Username"
+"Invites";"Invites"
+"Recruits";"Recruits"
+"Conversion Ratio";"Conversion Ratio"
+
+"Top 10 Recruiters";"Top 10 Recruiters"
+"Most members that joined from their invites";"Most members that joined from their invites"
+
+
+# mail templates
+
+# invite
+"_EMAIL_INVITE_TITLE";"Invitation"
+"_EMAIL_INVITE_DESCRIPTION";"This is the email that gets sent when members invite their friends to join during the signup process."
+"_EMAIL_INVITE_SUBJECT";"You have received an invitation to join our social network."
+"_EMAIL_INVITE_BODY";"[header]
+
+You have been invited by [sender_title] to join our social network. To join, please follow the link below:
+
+[object_link]
+
+----------------------------------------
+[message]
+----------------------------------------
+
+[footer]"
+
+# invite_code
+"_EMAIL_INVITE_CODE_TITLE";"Invite Code"
+"_EMAIL_INVITE_CODE_DESCRIPTION";"This email is sent to someone when they are invited by a member and an invite code is required."
+"_EMAIL_INVITE_CODE_SUBJECT";"You have received an invitation to join our social network!"
+"_EMAIL_INVITE_CODE_BODY";"[header]
+
+You have been invited by [sender_title] to join our social network. To join, please follow the link below:
+
+[object_link]
+
+----------------------------------------
+[message]
+----------------------------------------
+
+[footer]"

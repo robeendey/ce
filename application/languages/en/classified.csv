@@ -1,0 +1,262 @@
+"Classified";"Classified"
+"Classifieds";"Classifieds"
+"classified";"classified";"classifieds"
+"View All Listings";"View All Listings"
+"Classified Listings";"Classified Listings"
+"Delete Classified Listing?";"Delete Classified Listing?"
+"Are you sure that you want to delete the classified listing with the title "%1$s" last modified %2$s? It will not be recoverable after being deleted.";"Are you sure that you want to delete the classified listing with the title "%1$s" last modified %2$s? It will not be recoverable after being deleted."
+
+"Delete";"Delete"
+"or";"or"
+"cancel";"cancel"
+
+"ADMIN_ACTIVITY_TYPE_CLASSIFIED_NEW";"When a new classified listing is posted."
+"ADMIN_ACTIVITY_TYPE_LIKE_CLASSIFIED";"When someone likes one of my classified postings."
+"ADMIN_ACTIVITY_TYPE_LIKED_CLASSIFIED";"When someone comments on a classified posting I liked."
+"ADMIN_ACTIVITY_TYPE_COMMENT_CLASSIFIED";"When someone comments on my classified listing."
+"ADMIN_ACTIVITY_TYPE_COMMENTED_CLASSIFIED";"When someone comments on a classified listing I commented on."
+
+"_ACTIVITY_ACTIONTYPE_CLASSIFIED_NEW";"New classified listings"
+"_ACTIVITY_ACTIONTYPE_COMMENT_CLASSIFIED";"Comments on your classified listings"
+
+"ACTIVITY_TYPE_COMMENTED_CLASSIFIED";"When someone comments on a classified listing I commented on."
+"ACTIVITY_TYPE_COMMENT_CLASSIFIED";"When someone comments on my classified listing."
+"ACTIVITY_TYPE_LIKE_CLASSIFIED";"When someone likes one of my classified postings."
+"ACTIVITY_TYPE_LIKED_CLASSIFIED";"When someone comments on a classified posting I liked."
+"ACTIVITY_TYPE_CLASSIFIED_NEW";"When a new classified listing is posted."
+
+"Main Photo";"Main Photo"
+
+"Post New Listing";"Post New Listing"
+"Showing classified listings using the tag";"Showing classified listings using the tag"
+"Showing classified listings created on";"Showing classified listings created on"
+
+"map";"map"
+
+"Nobody has posted a classified listing with that criteria.";"Nobody has posted a classified listing with that criteria."
+"Be the first to %post%2$s one!";"Be the first to %post%2$s one!"
+"Nobody has posted a classified listing yet.";"Nobody has posted a classified listing yet."
+"Be the first to %post%2$s one!";"Be the first to %post%2$s one!"
+
+"Search Classifieds";"Search Classifieds"
+"All Categories";"All Categories"
+
+"%1$s's Tags";"%1$s's Tags"
+"%1$s's Classified Listing";"%1$s's Classified Listing"
+"%1$s's Classified Listings";"%1$s's Classified Listings"
+
+"Edit Listing";"Edit Listing"
+"Add Photos";"Add Photos"
+
+"Close Listing";"Close Listing"
+"Open Listing";"Open Listing"
+"Delete Listing";"Delete Listing"
+
+"posted by";"posted by"
+"You do not have any classified listing that match your search criteria.";"You do not have any classified listing that match your search criteria."
+"You do not have any classified listings.";"You do not have any classified listings."
+
+"Get started by <a href='%1$s'>posting</a> a new listing.";"Get started by <a href='%1$s'>posting</a> a new listing."
+
+"Listing Posted";"Listing Posted"
+"Your listing was successfully published. Would you like to add some photos to it?";"Your listing was successfully published. Would you like to add some photos to it?"
+
+"continue to my listing";"continue to my listing"
+
+"The classified you are looking for does not exist or has been deleted.";"The classified you are looking for does not exist or has been deleted."
+"Edit This Listing";"Edit This Listing"
+
+"Categories";"Categories"
+"All Categories";"All Categories"
+"Archives";"Archives"
+
+"This classified listing has been closed by the poster.";"This classified listing has been closed by the poster."
+
+"Posted by";"Posted by"
+"Filed in";"Filed in"
+
+"Classified Listing Photos";"Classified Listing Photos"
+
+"Save Changes";"Save Changes"
+
+"File Upload";"File Upload"
+"This form is just an example fallback for the unobtrusive behaviour of FancyUpload. If this part is not changed, something must be wrong with your code.";"This form is just an example fallback for the unobtrusive behaviour of FancyUpload. If this part is not changed, something must be wrong with your code."
+
+"Upload a Photo:";"Upload a Photo:"
+"Click ""Add Photos"" to select one or more photos from your computer. After you have selected the photos, they will begin to upload right away. When your upload is finished, click the button below your photo list to save them to your classified listing.";"Click ""Add Photos"" to select one or more photos from your computer. After you have selected the photos, they will begin to upload right away. When your upload is finished, click the button below your photo list to save them to your classified listing."
+"Clear List";"Clear List"
+
+"Search";"Search"
+
+"Title";"Title"
+"Image Description";"Image Description"
+"Delete Photo";"Delete Photo"
+
+"Add New Photos";"Add New Photos"
+"Choose photos on your computer to add to this classified listing. (2MB maximum)";"Choose photos on your computer to add to this classified listing. (2MB maximum)"
+"Save Photos";"Save Photos"
+
+"Compose your new classified listing below, then click ""Post Listing"" to publish the listing.";"Compose your new classified listing below, then click ""Post Listing"" to publish the listing."
+"Listing Title";"Listing Title"
+"Tags (Keywords)";"Tags (Keywords)"
+"Category";"Category"
+"Description";"Description"
+"Main Photo";"Main Photo"
+
+"Privacy";"Privacy"
+"Who may see this classified listing?";"Who may see this classified listing?"
+"Comment Privacy";"Comment Privacy"
+"Who may post comments on this classified listing?";"Who may post comments on this classified listing?"
+"Post Listing";"Post Listing"
+
+"Edit Classified Listing";"Edit Classified Listing"
+"Edit your listing below, then click ""Save Changes"" to save your listing.";"Edit your listing below, then click ""Save Changes"" to save your listing."
+"Album Cover";"Album Cover"
+
+"Browse By";"Browse By"
+"Most Recent";"Most Recent"
+"Most Viewed";"Most Viewed"
+
+"Show";"Show"
+"Everyone's Posts";"Everyone's Posts"
+"Only My Friends' Posts";"Only My Friends' Posts"
+
+"Status";"Status"
+"All Listings";"All Listings"
+"Only Open Listings";"Only Open Listings"
+"Only Closed Listings";"Only Closed Listings"
+
+"Category";"Category"
+"All Categories";"All Categories"
+
+"Your changes have been saved.";"Your changes have been saved."
+
+"Max file size limit exceeded (probably).";"Max file size limit exceeded (probably)."
+"Invalid request method";"Invalid request method"
+"No file";"No file"
+"Invalid Upload";"Invalid Upload"
+"An error occurred.";"An error occurred"
+
+"Browse Listings";"Browse Listings"
+"My Listings";"My Listings"
+"Post a New Listing";"Post a New Listing"
+
+"You have already created the maximum number of classified listings allowed.";"You have already created the maximum number of classified listings allowed."
+"If you would like to create a new listing, please <a href="%1$s">delete</a> an old one first.";"If you would like to create a new listing, please <a href="%1$s">delete</a> an old one first."
+"If you would like to create a new listing, please delete an old one first.";"If you would like to create a new listing, please delete an old one first."
+
+"Everyone's Posts";"Everyone's Posts"
+"Only My Friends' Posts";"Only My Friends' Posts"
+
+"Next &#187;";"Next &#187;"
+"&#171; Previous";"&#171; Previous"
+
+"%s has not posted a classified listing yet.";"%s has not posted a classified listing yet."
+
+"CLASSIFIEDS_VIEWS_SCRIPTS_ADMINMANAGE_INDEX_DESCRIPTION";"This page lists all of the classified listings your users have posted. You can use this page to monitor these classified listings and delete offensive material if necessary. Entering criteria into the filter fields will help you find specific blog entries. Leaving the filter fields blank will show all the blog entries on your social network."
+"There are no classified listings by your members yet.";"There are no classified listings by your members yet."
+
+"Delete Classified Listing?";"Delete Classified Listing?"
+"CLASSIFIED_VIEWS_SCRIPTS_ADMINMANAGE_DELETE_DESCRIPTION";"Are you sure that you want to delete this classified listing? It will not be recoverable after being deleted."
+"Delete Classified Category?"
+"CLASSIFIEDS_VIEWS_SCRIPTS_ADMINSETTINGS_DELETE_DESCRIPTION";"Are you sure that you want to delete this category? It will not be recoverable after being deleted."
+
+"Classified Listing Categories";"Classified Listing Categories"
+"CLASSIFIEDS_VIEWS_SCRIPTS_ADMINSETTINGS_CATEGORIES_DESCRIPTION";"If you want to allow your users to categorize their classified entries, create the categories below. This feature is useful if you want to list all your users' classified entries that If you have no categories, your users will not be given the option of assigning a classified category."
+"There are currently no categories.";"There are currently no categories."
+"Upload complete.";"Upload complete."
+"An error occurred:";"An error occurred:"
+"To enable the embedded uploader, install the latest Adobe Flash plugin.";"To enable the embedded uploader, install the latest Adobe Flash plugin."
+"A required file was not found, please be patient and we'll fix this.";"A required file was not found, please be patient and we'll fix this."
+"To enable the embedded uploader, enable the blocked Flash movie (see Flashblock).";"To enable the embedded uploader, enable the blocked Flash movie (see Flashblock)."
+"To enable the embedded uploader, unblock it in your browser and refresh (see Adblock).";"To enable the embedded uploader, unblock it in your browser and refresh (see Adblock)."
+"Classified Questions";"Classified Questions"
+"View Classifieds";"View Classifieds"
+
+"CLASSIFIED_FORM_ADMIN_LEVEL_DESCRIPTION";"These settings are applied on a per member level basis. Start by selecting the member level you want to modify, then adjust the settings for that level below."
+"Allow Viewing of Classifieds?";"Allow Viewing of Classifieds?"
+"Do you want to let members view classifieds? If set to no, some other settings on this page may not apply.";"Do you want to let members view classifieds? If set to no, some other settings on this page may not apply."
+"No, do not allow classifieds to be viewed.";"No, do not allow classifieds to be viewed."
+"Yes, allow viewing of classifieds.";"Yes, allow viewing of classifieds."
+"Yes, allow viewing of all classifieds, even private ones.";"Yes, allow viewing of all classifieds, even private ones."
+
+"Allow Editing of Classifieds?";"Allow Editing of Classifieds?"
+"Do you want to let members edit classifieds? If set to no, some other settings on this page may not apply.";"Do you want to let members edit classifieds? If set to no, some other settings on this page may not apply."
+"No, do not allow members to edit their classifieds.";"No, do not allow members to edit their classifieds."
+"Yes, allow members to edit their own classifieds.";"Yes, allow members to edit their own classifieds."
+"Yes, allow members to edit all classifieds.";"Yes, allow members to edit all classifieds."
+
+"Allow Deletion of Classifieds?";"Allow Deletion of Classifieds?"
+"Do you want to let members delete classifieds? If set to no, some other settings on this page may not apply.";"Do you want to let members delete classifieds? If set to no, some other settings on this page may not apply."
+"No, do not allow members to delete their classifieds.";"No, do not allow members to delete their classifieds."
+"Yes, allow members to delete their own classifieds.";"Yes, allow members to delete their own classifieds."
+"Yes, allow members to delete all classifieds.";"Yes, allow members to delete all classifieds."
+
+"Allow Creation of Classifieds?";"Allow Creation of Classifieds?"
+"Yes, allow creation of classifieds.";"Yes, allow creation of classifieds."
+"No, do not allow classifieds to be created.";"No, do not allow classifieds to be created."
+
+"Allow Uploading of Photos?";"Allow Uploading of Photos?"
+"Do you want to let members upload photos to a classified listing? If set to no, the option to upload photos will not appear.";"Do you want to let members upload photos to a classified listing? If set to no, the option to upload photos will not appear."
+"Yes, allow photo uploading to classifieds.";"Yes, allow photo uploading to classifieds."
+"No, do not allow photo uploading.";"No, do not allow photo uploading."
+
+"CLASSIFIED_FORM_ADMIN_LEVEL_CREATE_DESCRIPTION";"Do you want to let members create classifieds? If set to no, some other settings on this page may not apply. This is useful if you want members to be able to view classifieds, but only want certain levels to be able to create classifieds."
+"CLASSIFIED_FORM_ADMIN_LEVEL_AUTHVIEW_DESCRIPTION";"Your members can choose from any of the options checked below when they decide who can see their classified listings. These options appear on your members' ""Add Listings"" and ""Edit Entry"" pages. If you do not check any options, everyone will be allowed to view classifieds."
+"CLASSIFIED_FORM_ADMIN_LEVEL_AUTHCOMMENT_DESCRIPTION";"Your members can choose from any of the options checked below when they decide who can post comments on their listings. If you do not check any options, everyone will be allowed to post comments on listings."
+"Enter the maximum number of allowed classifieds. The field must contain an integer between 1 and 999.";"Enter the maximum number of allowed classifieds. The field must contain an integer between 1 and 999."
+
+"Allow Viewing of Classifieds?";"Allow Viewing of Classifieds?"
+"Allow Editing of Classifieds?";"Allow Editing of Classifieds?"
+"Allow Deletion of Classifieds?";"Allow Deletion of Classifieds?"
+"Allow Creation of Classifieds?";"Allow Creation of Classifieds?"
+"Classifieds Listing Privacy";"Classifieds Listing Privacy"
+"Classified Comment Options";"Classified Comment Options"
+"Maximum Allowed Classifieds";"Maximum Allowed Classifieds"
+
+"These settings affect all members in your community.";"These settings affect all members in your community."
+"CLASSIFIED_FORM_ADMIN_GLOBAL_CLASSIFIEDPUBLIC_DESCRIPTION";"Select whether or not you want to let the public (visitors that are not logged-in) to view the following sections of your social network. In some cases (such as Profiles, Blogs, and Albums), if you have given them the option, your users will be able to make their pages private even though you have made them publically viewable here. For more permissions settings, please visit the General Settings page."
+"Yes, the public can view classifieds unless they are made private.";"Yes, the public can view classifieds unless they are made private."
+"No, the public cannot view classifieds.";"No, the public cannot view classifieds."
+
+"Classified Currency";"Classified Currency"
+"Please enter the currency you will be using for you classified plugin.";"Please enter the currency you will be using for you classified plugin."
+
+"Listings Per Page";"Listings Per Page"
+"How many classified listings will be shown per page? (Enter a number between 1 and 999)";"How many classified listings will be shown per page? (Enter a number between 1 and 999)"
+"No identifier specified";"No identifier specified"
+"Your changes were saved. Click %s to view your listing.";"Your changes were saved. Click %s to view your listing."
+"Delete Classified Category?";"Delete Classified Category?"
+
+"Location";"Location"
+"Price";"Price"
+
+"Classifieds Plugin";"Classifieds Plugin"
+
+"Allow Commenting on Classifieds?";"Allow Commenting on Classifieds?"
+"Do you want to let members of this level comment on classifieds?";"Do you want to let members of this level comment on classifieds?"
+"Yes, allow members to comment on classifieds.";"Yes, allow members to comment on classifieds."
+"No, do not allow members to comment on classifieds.";"No, do not allow members to comment on classifieds."
+"Enter the maximum number of allowed classifieds. The field must contain an integer, use zero for unlimited.";"Enter the maximum number of allowed classifieds. The field must contain an integer, use zero for unlimited."
+
+"Profile Classifieds";"Profile Classifieds"
+
+"Classified Main Navigation Menu";"Classified Main Navigation Menu"
+"Classified Quick Navigation Menu";"Classified Quick Navigation Menu"
+"Classified Gutter Navigation Menu";"Classified Gutter Navigation Menu"
+
+
+# action types
+"{item:$subject} posted a new classified listing:";"{item:$subject} posted a new classified listing:"
+"{item:$subject} commented on {item:$owner}'s {item:$object:classified";"{item:$subject} commented on {item:$owner}'s {item:$object:classified" listing}: {body:$body}"
+
+
+# item types
+"ITEM_TYPE_CLASSIFIED";"Classifieds"
+
+
+# notification types
+"{item:$subject} has commented on your {item:$object:classified listing}.";"{item:$subject} has commented on your {item:$object:classified listing}."
+"{item:$subject} likes your {item:$object:classified listing}.";"{item:$subject} likes your {item:$object:classified listing}."
+"{item:$subject} has commented on a {item:$object:classified listing} you commented on.";"{item:$subject} has commented on a {item:$object:classified listing} you commented on."
+"{item:$subject} has commented on a {item:$object:classified listing} you liked.";"{item:$subject} has commented on a {item:$object:classified listing} you liked."
